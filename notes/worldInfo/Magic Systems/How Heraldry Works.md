@@ -6,6 +6,12 @@ everyone has) -->B(Herald Hormone)
     C -->|if able| D(Virus attacks the gene, if they succeed you become a Herald)
 ```
 
+# The virus
+
+The first Heralds are hit by the virus, they have no anti-bodies passed from food or parents so they fight the virus for longer making them stronger heralds.
+
+Humans first get the virus from animals and it is spread slowly that way
+
 # Types of Heralds
 
 ## Dark

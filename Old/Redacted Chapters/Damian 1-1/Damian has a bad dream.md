@@ -1,0 +1,9 @@
+The ash filled his nose, and the screaming of children roared into Damian’s ears. He heaved awake, and into another nightmare. He felt for his pillow hoping--- no, praying--- he could jolt himself awake. But his hands only brushed against stone. A flame roared behind the stones, staining the sky orange and black-like magma. Though Damian’s dreams typically turned to nightmares, there was no question of what this was supposed to be. There would be no sweet dreams tonight. 
+
+Damian was in an alleyway, on one side short stone structures stood with their roofs collapses stood mostly upright. Behind him, some force seemed to have brought the entire street to ruin. Through the cover of the flames figures danced and metal clashed. A man yelled, and a mean of light pierced the ash clouds above, slamming into a street a kilometre to Damian’s right. This wasn’t just a nightmare, it was hell on Opartha. 
+
+Billy began to run down the street, away from where the beam of light had crashed into the earth. But shouting surrounded him from every side, and there was no direction in which the horror quieted. 
+
+In front of him, the wall of a building puffed to stone and a lankly figure in curvy white armour- stained grey by ash -was thrown through. The figure held a weapon Damian didn’t recognize. A long staff which protruded into a crab claw like head. Through the new hole in the wall, a woman leaped through. She landed against the figure’s chest. Her sword point drove between two plates and the figure dropped dead. She took a deep breath and Damian noticed his own breathing was ragged at best. She turned and Damian nearly bolted. 
+
+“What the hell are you doing here?” She ran up to him, black haired and faired skin se had 

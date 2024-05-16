@@ -1,0 +1,25 @@
+Hello! I am new to this server but I'd love to introduce you guys to my fantasy world, though of course with most fantasy worlds it's daunting to get started. I'll post a map soon in \#geography-and-astronomy to assist in visualizing all the nonsense I'm about to spew.
+
+Opartha is the world in which my current WIP, \*Enemy of The Gods\*, takes place. It is a decently large planet with oceans and continental landmasses, and for the most part is fairly grounded and shares similarities with our own world (though it is riddled with magic and unique wildlife.) Still, many real world civilizations act as good base comparisons to general Oparthan geopolitical regions.
+
+Wreathward, the westernmost continent in Opartha, is similar to a post-renaissance western Europe in some regards. It has a high population density and has been the birthplace of innovation and technology for some time. There is a lot less conflict compared with Europe, though, as the nations of Wreathward have essentially united under one religious banner, Versalism, that is headed by a religious city known as The Citadel in Nairfalk. Religious unity has been established in most of Wreathward and there is little in-fighting. 
+
+However, of the four nations of Wreathward, there is one odd-child out-- Farsun. The westernmost Wreathwardian nation is quite different in terms of culture than its fellow nations, and it also has differing opinions in terms of the direction the Versalist church should head. Not so long ago did the Jalai of Farsun declare war on its fellow Versalist neighbors, a war which Farsun quickly lost. But surrender did not ease tensions, and while The Citadel is a bit oblivious to it, anger and resentment is brewing amongst the Farsunni people.
+
+The central continent of Opartha is known as Marthia, which is comprised of nations similar to some countries in Asia around the 15th-18th century. There is a lot more religious and cultural diversity in Marthia compared to Wreathward as differing empires and hordes have fought for centuries, whereas the Terridian Empire had ruled  a majority of Wreathward for hundreds of years.
+
+Recently though, Marthia has been experiencing a similar unification through the rise of a legendary conqueror and emperor who some believe to be a God, Synodontis Ty-Shou Tzen. Through immense religious, political, and military support, the Synodontis managed to defeat and annex the tyrannical GaoLeian Empire which gained him everlasting support and popularity among the other Marthian nations. 
+
+It seems that through its majestic ruler, nearly all of Opartha might finally see true unity as many acknowledge the Synodontis to in fact be the son of one of the Four major Versalist Gods, Aredal; which has sparked an unlikely bond of interest between The Citadel and the Tzen Empire.
+
+However, the Marthian nations of Delmia and Jaraland have continued to refuse joining the Tzen Empire, and though there is no open conflict in Marthia, a truce which had protected the Delmian nation for sixteen years is now up.
+
+The final and most geographically isolated of the three technologically advanced continents is known as Apathasaw. Though Apathasaw is the name of the geographical continent, most also refer to the political entity known as the *Confederacy of Apathasawian Designatories* as just *Apathasaw*. Apathasaw is made up of small, private and corporate lands, many of which have confederated to make state-like entities, which have in turn confederated into the larger Confederacy. Apathasaw is similar in mindset and technology to 18^th^ century America, though their limited population and land has reduced their ability to mass produce. They hope to trade with Wreathward and colonize Vianarya and Caspo to alleviate this issue. 
+
+To the North of Wreathward and Marthia lies the most dangerous, and perhaps largest continent, Krinosas. The continent is separated from Wreathward and Marthia by a mass of rapid waters known as the Leviathi Strait, and this combined with its dangerous wildlife and unliveable environment has rendered much of the continent unexplored. At best, the biome resembles an overgrown jungle, but it also contains frozen jungles and deserted ice sheets.
+
+To the South of Wreathward and Marthia lie the two continents known as Vianarya and Caspo respectively. These continents are generally quite rocky and barren, and a large majority of Vianarya was once completely overtaken by a deadly radiation which explorers deemed “the Aeroblaze.” This prevented and scared off Wreathwardian settlers and explorers, which left the continent without a populace for hundreds of years. However, recently a legendary explorer, Gendro ere Urenio, discovered that the Aeroblaze had receded into the Southern parts of the continent, which has led to a colonization boom.
+
+The destruction of political and environmental barriers between prominent nations is birthing a new age of technological reform, imperial expansion, and brewing conflict in Opartha. Only time will tell who rises in the fire and who crumbles into ash.
+
+

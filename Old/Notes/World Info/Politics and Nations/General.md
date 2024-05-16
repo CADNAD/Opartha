@@ -22,4 +22,3 @@ To the South of Wreathward and Marthia lie the two continents known as Vianarya 
 
 The destruction of political and environmental barriers between prominent nations is birthing a new age of technological reform, imperial expansion, and brewing conflict in Opartha. Only time will tell who rises in the fire and who crumbles into ash.
 
-

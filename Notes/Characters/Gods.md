@@ -9,7 +9,9 @@ NAME | HERALDRY | LOCATION | GOD OF
 - Atheor | Dark (Creation) | Northern Mountains | N/A
 - Giatro | Time (Perception) | Invention, Engineers
 
-As of the start of EotG, Deionis has the Elements Weapon, Revictus has the Space Weapon, Vaskiel has the Time Weapon, and Wosa has the Light Weapon.
+As of the start of EotG, Deionis has the Elements Weapon, Revictus has the Space Weapon, Vaskiel has the Time Weapon, and Wosa has the Light Weapon. 
+
+Golden weapons give you max potential in all trees
 
 # Deceased (Wreathwardian Pantheon)
 

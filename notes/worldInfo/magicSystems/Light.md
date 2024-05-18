@@ -1,48 +1,32 @@
-Light Heralds can absorb light in their bodies, which is stored and transported in a separate functional system called the *Vivranioscan System,* which works much like the cardiovascular system, transporting Visible Light to the Astacassia through *tenars*, and Pure Light from the Astacassia to the rest of the body through *couls.* The Vivranioscan System takes Light absorbed through the skin to the Astacassia, which produces Zeltics through the processing of visible light energy. The Astacassia can then use Zeltics to process visible light stored in the Vivranioscan System into *Pure Light*, which resembles an astoundingly bright white light. 
+# Light  (The Heraldry of Energy)
 
-Pure Light can then be transformed into any of the six types of known Heraldic Lights, through small organs that rest at the *coul ends*. 
+Absorb visible light, and covert it to other forms of energy. The conversations are harder and harder as they move away from EM energy.
 
-You can make glasses out of a certain material to make your eyes work like light heralds
+STAYING WITHIN ELECTROMAGNETIC IS EASIEST:
 
+1. light to other UV, xrays, or Infrared (gives them all types of vision assist)
+2. light to radar, fm, tv, short wave, am (can be used to detect things and send messages with technology. right now pretty useless.)
+3. gamma rays (can poison a person. Takes around 1 minute of light absorption to hit poison someone immediately @ contact distance)
 
-Pure light, coloured light doesn’t have feeling
+EASY CONVERSIONS, in order of ease
 
-Light, you can consciously absorb more and overheat yourself 
+1. light to heat (heat wave, self-feeding (caloric))
+2. light to sound (sound wave, blow out people's eardrums)
+3. light to kinetic (shock wave, blow people back)
+4. light to "electricity" (combination of the three above; electric wave)
 
-Beam powers concentrate the 
+HARD CONVERSIONS, in order of ease
 
-Healing Light - Green
+1. light to potential (hit harder)
+2. light to gravitational (gravity well)
 
-Hot Light - Red
+----
 
-Flashbang light - Orange - 
+Energy emitted is in wave form, and follows inverse square law
 
-Electric Light - Blue
+Light has two modes, *conduction* and *radial* that are toggled between
 
-Cancer Light - Purple
+​	Conduction is more efficient, the energy will try to find a path to the ground. Energy is released from the user at all points touching 	the ground
 
-Spy - Undecided - Light that lets you see the outline of a room 
-
-
-Absorption 
-
-You have to be thinking about it to use it, healing is subconscious
-
-If you’re good enough you can have a constant shield around you
-
-If you’re bad you can’t shield all the body, or put it into a single point
-
-When used, you move light to certain areas around you 
-
-You get power from the light
-
-Can harden skin 
-
-Light is white 
-
-Duel Heralds release all energy at once
-
-
-
-
+​	Radial is less efficient. Energy is released at all points along a person. Energy used in the radiation is equally distributed at all 	points
 

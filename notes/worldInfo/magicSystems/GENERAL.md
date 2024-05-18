@@ -3,4 +3,4 @@ All Heralds naturally accumulate a power source/hormone called *Zeltics* (unknow
 Every Herald also has a different Zeltic Capacity, and the Zeltic cost of each action may differ per Herald.
 
 
-	
+​	

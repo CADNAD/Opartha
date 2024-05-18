@@ -1,33 +1,22 @@
+# Branches
 
+All branches have access to and utilise the dark dimension in order to create their powers. But Mind herald's power do not allow them to enter the dark dimension.
 
-Powers:
-
-Heralds can create summons and store them in the dark dimension. They can summon these at any time. Some summons can retain memory, but all retain memory of the original function.
-
-Limits:
-
-\-Creating summons with higher brain function sacrifices the user’s consciousness
-
-\-Summons slowly burn away in the light, the rate increases the brighter the light is. Summons must be ‘healed’ by a dark herald, but this can only be done in darkness.
-
-\-Man summons must be actively commanded by the herald. 
-
-### Branches
-
-All branches have access to and utilise the dark dimension in order to create their powers
-
-#### School of Creation
+## School of Creation
 
 - Store summons in the dark dimension
 - They can summon these at any time. Some summons can retain memory, but all retain memory of the original function
+- The summon design must be physically possible. Heralds study biology to find this out
 
-#### School of the Mind
+## School of the Mind
 
-- Can read all the senses of a person
+- Requires physical contact, or a path of shadow 
+- Can take control of a person's mind
+- Can read a person's thoughts. The Herald will get what the person is currently thinking of and can read all senses
 
-#### School of Illusion
+## School of Illusion
 
-- Stealth is able to hide themselves in shadows by blending themselves into the dark dimension. Most users have small dark dimensions. 
+- Illusion Heralds can create a bubble around themselves. On the outside the bubble is lower in definition, while on the inside the illusions are more powerful. 
 
-
+hjh
 

@@ -17,6 +17,7 @@ Portals
 
 Purple portal as an outline, circular, bridge between two points, you can see through the portal from one side to the other
 
-Blinks
+Portal cost is in the transportation of items, it scales linearly with mass, but exponentially with distance
 
+Blinks
 

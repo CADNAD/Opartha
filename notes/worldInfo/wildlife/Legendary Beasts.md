@@ -12,6 +12,8 @@ Once, a high-ranking member of Revictus’ order discovered The Great Watcher co
 
 **The Forge** is a beast which defends itself with stone statures when used
 
+**The Hivemind** A dark herald legendary beast, which is a hive mind. Presents itself as coral polyps. Can be planted, but only survives in dessert climates. People can access upload or download memories by touching it, or by connecting to a polyp through shadow. People connected by shadow to a specific node are able to communicate telepathically. The larger the plant the more memories it can hold. People garden the roots out wards to be able to maintain connections at all times. As the roots grow, the middle polyp grows larger. Uploads and downloads only occur at the polyp itself
+
 **Tneranotos** aka *Tehwa Kanura*
 
 \-6 middle Spikes:
@@ -35,7 +37,6 @@ The inhabitants of the Tneranotos are a religious cult known as the Tsuman Monas
 They have a symbiotic relationship with the beast, and ensure its civility with a large team of Mind Heralds, constantly working to sooth and influence it. In return, they often hunt birds that will claw at the beast’s back, and sometimes even feed it.
 
 The Tneranotos also has a predictable migration pattern, which has been memorized and harnessed by members of the Monastery. It is unknown whether anyone outside their ranks has knowledge of its migration behaviour. The members of the Monastery are known to utilize and live inside the large rock spikes of the Tneranotos, and have terraformed much of its back. Whether through soothing or a lack of nerves, the Tneranotos appears indifferent or even welcoming to their activity.
-
 
 
 

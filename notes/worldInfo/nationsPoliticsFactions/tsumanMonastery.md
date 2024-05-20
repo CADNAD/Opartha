@@ -35,3 +35,7 @@
 ## Prophecies
 
 - 
+
+# History:
+
+Intillia opened the Monastery around 30 years ago, and Monastery expeditions began to leave to help those around the globe. Intillia was murdered by Deionis during one of these expeditions. The new leader of the Monastery then closed it off. A faction of those who believe in continuing outside expeditions formed and continues them, but they are a minority.

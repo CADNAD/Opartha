@@ -5,6 +5,8 @@ All Elemental Heralds can change their body to a different substance. But they m
 # Solids
 Can move and reshape solid objects. Very slow
 
+Breaks all bonds when moving a substance, reforms all bonds in the lowest entropy state after manipulation is finished. 
+
 Does not matter how many "discrete" objects there are, moves on an atomic level, but for the user "by feel".
 
 Can transform non-organs and non-bones into solids.

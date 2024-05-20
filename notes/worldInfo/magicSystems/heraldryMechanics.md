@@ -18,13 +18,6 @@ Humans first get the virus from animals and it is spread slowly that way
 
 # The Gems
 
-Gems are all isotopes of the same elements. 
+Gems are all isotopes of the same elements.
 
 A gem is found in a geode surround by Anti-Gems
-
-
-
-
-
-
-

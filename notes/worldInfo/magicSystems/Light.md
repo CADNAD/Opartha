@@ -29,4 +29,3 @@ Light has two modes, *conduction* and *radial* that are toggled between
 ​	Conduction is more efficient, the energy will try to find a path to the ground. Energy is released from the user at all points touching 	the ground
 
 ​	Radial is less efficient. Energy is released at all points along a person. Energy used in the radiation is equally distributed at all 	points
-

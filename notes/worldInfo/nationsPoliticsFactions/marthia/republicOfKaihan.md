@@ -32,62 +32,6 @@ As Hansi and Tillhan share similar grammatical structures Sai has taken mostly f
 
 The writing system used is comprised of half drawn blocks and dots. Each column of a word represents a sound. They are connected by both context and the placements of dots. 
 
-### Lexicon of Words 
-
-Here after follows a lexicon of basic words. 
-
-#### Particles
-
-Da - of, preposition
-
-Ul - question, used at the beginning of a sentence to indicate inquiry
-
-Tuk - affirmative, postposition
-
-En - negative, postposition
-
-Ti - that/the
-
-#### Nouns
-
-Ree - Words
-
-Sai - Large Body of Water (Ocean - Bay)
-
-Si - Moderate Body of Water (Lake-puddle)
-
-Sei - Small body of water (puddle)
-
-Ship - Hele
-
-Shray - Land
-
-Kai - I
-
-Heen - Warrior 
-
-Sheen - Water Warrior
-
-Sioum -Fish
-
-Shrium - Animal
-
-Levsi - Water Heralds
-
-Shrali - Solid Heralds
-
-Letat - Gas heralds
-
-Levat - Herald
-
-#### Adverbs
-
-Rutk - Want
-
-Han - together
-
-Kaihan - collective
-
 ## Taboos and Customs
 
 The most important moment in a person's life is the moment they commit to their Sheehan or crew. These pledges are expected to be for life. Breaking from this pledge to join another Sheehan marks one as an outcast and entrust worthy. Most Sheehan will not take one marked as such, leaving them to work menial labour on land. 

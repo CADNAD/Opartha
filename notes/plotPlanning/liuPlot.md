@@ -40,6 +40,8 @@ Delmia is still being integrated into the Empire, it has been around 5 years sin
 
 **NEED TO REWORK THE NAMES AND DELMIAN LANGUAGE**
 
+Liu wants Bei-san to protect Delmia. He cares about the lives, whether or not they retain culture. 
+
 ## Characters List
 
 **Shi:** Mixed like Liu. Liu's sponsor and one of the a group of 6 looking to create officers to fight against the Empire using their own tactics and training. 

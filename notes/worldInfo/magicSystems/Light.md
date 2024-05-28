@@ -13,7 +13,8 @@ EASY CONVERSIONS, in order of ease
 1. light to heat (heat wave, self-feeding (caloric))
 2. light to sound (sound wave, blow out people's eardrums)
 3. light to kinetic (shock wave, blow people back)
-4. light to "electricity" (combination of the three above; electric wave)
+4. light to healing (self healing in radiation / other healing in conduction)
+5. light to "electricity" (combination of the three above; electric wave)
 
 HARD CONVERSIONS, in order of ease
 
@@ -29,3 +30,5 @@ Light has two modes, *conduction* and *radial* that are toggled between
 ​	Conduction is more efficient, the energy will try to find a path to the ground. Energy is released from the user at all points touching 	the ground
 
 ​	Radial is less efficient. Energy is released at all points along a person. Energy used in the radiation is equally distributed at all 	points
+
+Healing is based on the anti-bodies or how the body is normally.

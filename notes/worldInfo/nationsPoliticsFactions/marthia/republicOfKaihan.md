@@ -60,6 +60,9 @@ The Helhan is held four times per year. The first session is primarily for senat
 
 
 ## Religion and Philosophy
+
+The primary religion is that of Levtav. They worship the Leviathi and read the current it creates in the straight as a form of divination.
+
 ## Class Structure
 ## Technology
 ## Economics

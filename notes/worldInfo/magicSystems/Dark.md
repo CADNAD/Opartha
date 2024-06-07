@@ -1,8 +1,10 @@
-# Branches
+Branches
 
 All branches have access to and utilise the dark dimension in order to create their powers. But Mind herald's power do not allow them to enter the dark dimension.
 
-## School of Creation
+They are mostly auxiliary jobs to the upper class. Lots of them are tutors, or do mind wiping as therapy.
+
+## School of Summons (Creation)
 
 - Store summons in the dark dimension
 - They can summon these at any time. Some summons can retain memory, but all retain memory of the original function
@@ -28,12 +30,12 @@ All branches have access to and utilise the dark dimension in order to create th
 - Can maintain up to 1 creation
 - Can create beings with rat-level intelligence
 - Can create creations about the size of a
-## School of the Mind
+## School of the Manipulation (Mind)
 
 - Requires physical contact, or a path of shadow
 - Can take control of a person's mind
 - Can read a person's thoughts. The Herald will get what the person is currently thinking of and can read all senses
 
-## School of Illusion
+## School of Stealth (Illusion)
 
 - Illusion Heralds can create a bubble around themselves. On the outside the bubble is lower in definition, while on the inside the illusions are more powerful.

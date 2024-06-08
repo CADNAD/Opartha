@@ -6,12 +6,11 @@ Krinosian Animals: Krinosas is very cold at night and during certain seasons so 
 
 Ytternu: Large, bulbous, flying jellyfish-like creatures who can mimic a gravitational pull with  a hole in their undersides (which they use to eat) can be bonded. With and taught simple directions and commands, often used to pull cargo or ships. 
 
-Gran: Large rock-skinned golems which grow Heraldry Crystals from within. Can used a limited form of that Crystal while living.
-
 Soskatoos: A roughly geese-sized, colourful bird that can teleport in the blink of an eye. Known to have good hearing.
 
 Tarnavin: Large reptilian creature with a flat face covered in forward-pointing spiky horns. Green scaly skin similar to an iguana.
 
+Time Hare: ordinary rabbits that speed up their surroundings. Can be used to speed up farming in a controlled environment, but can also lay waste to farms, or even age a village to death, if uncontrolled
 
 
 

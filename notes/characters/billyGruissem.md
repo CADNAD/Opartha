@@ -30,94 +30,54 @@ Billy and Damin moved to the Western Coast, a more urban and chaotic region. Bil
 Billy became addicted to alcohol, and his rage and outlook on life got worse as he was left with no friends, little prospects, hidden rage for what he saw as failing Damin, as well as not on track towards his goal of buying a ship ticket back to Wreathward to avenge his father. 
 # Character
 ## Personality
-Billy often has trouble showing his care for his friends, until it is too late. He hates himself for not being able to save Black Hole.
+Billy is tough, impulsive, cynical, but in some senses, fair and kind. Billy definitely tries to show that he is tough to hide his fear. He is also very resourceful and has an iron will.
+Billy often has trouble showing his care for his friends, until it is too late. Deep down he does care, but has a hard time showing it. He also feels "robbed" by the world, which he uses to justify his often harmful actions and addictions.
+
+Billy can also be quite charming at times, in a Clint Eastwood kind of way.
 ## Goals
-
+- To kill everyone responsible for his father's murder, and his and Damin's subsequent orphanage:
+    - Aldwin
+    - Okin
+    - Versalist Authorities
+- To keep Damin and himself alive and safe
+- To make enough money for him and Damin to live a safe life
 ## Needs
-Billy wants to protect Damian from the outside world.
-
+- To feel that he's done enough for Damin
+- To let go of revenge
+- To let Damin and him be free and not scared
 ## Fears
+- Damin will be hurt
+- That his life has been wasted
+- That the perpetrator's of his father's death will get away with it.
 ## Conflicts
 Billy is conflicted about whether he should focus on getting revenge on Aldwin and Okin for their role in the death of his father, and ruining of his and Damian's lives, or help his friends on their mission to save the world.
 ## Ideals
-
+- Family
+- Honesty
+- Will
 # Abilities
 ## Heraldry
-Billy is a C-tier Subject Herald.
+Billy is a C-tier Subject Herald, who has quite developed his talents.
 ## Profession
+Billy used to be a circus performer, then a miner. Now he is unemployed.
 ## Stats
+Strength: 6
+Dexterity: 6
+Endurance: 4
+Intelligence: 4
+Perception: 9
+Adaptability: 9
 ## Skills
 Billy is very skilled with his unique weapon, the revolver, which he only uses on special occassions, given its limited ammo.
 
 # Relationships
 ## Family
+Billy's main relationship is Damin. Billy is not always nice to the kid, as he deep down he harbors complex feelings of anger and guilt, and feels like he's failed him. He also sometimes thinks Damin is too soft.
+
+Billy was very close to his father, especially before his father discovered that Damin was a Dark Herald and became paranoid. He also held his mother in warm regard.
 ## Romantic
+Billy used to have a small fling with one of the circus girls, but it didn't really go very far. Still, he sometimes thinks of her.
 ## Friendships
+Billy is good friends with Black Hole, and though Billy often is a rough, "bar" kind of friend with him, this is often where Billy shows his more caring side. 
 ## Enemies
-
-Billy Gruissem
-
-*23 • Mobile (Formerly Apathasaw)*
-
-Role in Story
-
-Protagonist
-
-Goal
-
-To kill Synodontis
-
-Physical Description
-
-Medium-long Dark brown hair, brown stubble
-
-Height: 2’11
-
-Rugged face
-
-Looks a few years older then he is
-
-More rugged Heath Ledger
-
-Personality
-
-Jaded
-
-Deeply cares for Damian and Black Hole
-
-Clingy
-
-Cynical
-
-Indulgent
-
-Occupation
-
-(Formerly) Security Guard
-
-(Formerly) Thief
-
-Adventurer
-
-Habits/Mannerisms
-
-Alcoholic
-
-Shootist
-
-Background
-
-Billy grew up in Metheno. At the age of 12 Billy was discovered he was a Time Herald, and was going to go to train at the Time Institute, but this was cancelled after his mother unexpectantly left the family, and Billy’s father didn’t want him to leave as well. His father was murdered by Synodontis when he was 14.
-
-Billy escaped on a ship to Apathasaw along with his surrogate brother Damian with the help of a Delmian rebel known as Tus Nai. There, he had to work dirty jobs and often steal to survive.
-
-Internal Conflicts
-
-
-External Conflicts
-
-Billy wants to kill Synodontis for the death of his father.
-
-Billy fights with Backuh and Synodontis for control over the artifacts of the Forge.
-
-Notes
+Billy still harbors deep resentment for every one involved in the murder of his father: Aldwin, Okin, and even himself. He also generally holds disdain for the people of Metheno and Versalists in general who would let something like this happen.

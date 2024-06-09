@@ -2,12 +2,13 @@
 Thesis (Billy): The world can only be made right through revenge (negative 1) -> There are more important things then revenge. (positive 2)
 Converse (Allia): The world can be made right through justice (positive 1)
 Antithesis (Damin): There is no justice in this world, so "forgiveness" is the only option (negative 2) -> We can fight for what's right (positive 1)
-Inverse (Architor): Revenge is only destructive, forgiveness is constructive (postiive 2)
+Inverse (Architor), (Voshri): Revenge is only destructive, forgiveness is constructive (postiive 2)
 
 ## Other positions (lesser relationships)
 (Monastery rebel leader), (Deionis): Without revenge, you have nothing (supra-negative 1)
 (Nexon): I regret not getting justice and revenge, and use escapism because I can't (negative 1)
-(Benjamin): What is just for one is not just for another (neutral 1)
+(Benjamin): What is just for
+ one is not just for another (neutral 1)
 (Avador): No one is perfect, and we should forgive the mistakes of those who were good enough (neutral 2)
 
 # OKIN (HONESTY vs PRAGMATISM)

@@ -40,7 +40,7 @@ Billy gritted his teeth. How many times were they going to have this argument? Y
 
 “Come on, Allia. You’ve thrown your life away for fools enough as it is. Tell me where they are, and we can return home, and everything will go back to normal,” Jerel said.
 
-There was a long pause, during which Benjamin kept trying to push his giant frame past Billy’s arms. The outlaw struggled not to make too much noise while blocking his friend.
+There was a long pause,during which Benjamin kept trying to push his giant frame past Billy’s arms. The outlaw struggled not to make too much noise while blocking his friend.
 
 “Jump in the Strait, Jerel,” Allia said. The pirates exploded into a ball of laughter.\[ 2021-05-04, 8:47 PM
 
@@ -122,7 +122,7 @@ Biting his lip, Billy lowered his sights. He could dump the girl off with these 
 
 A wealth of pride washed over Billy before being drenched by fear. He reached deep to slow Time, but it pushed back against him, only fogging his brain. In his weakness, Jerel snatched Damian and pulled him in, pointing his shiny Edgar 38 to the boy’s head. 
 
-“Put it down or I’ll blow his brains out,” Jerel said. Billy set his weapon on the floor as the Jerel’s accomplices raised theirs--- water and throwing knives respectively---at Benjamin and Allia.
+“Put it down or I’ll blow his brains out,” Jerel said. Billy set his weapon on the floor as Jerel’s accomplices raised theirs--- water and throwing knives respectively---at Benjamin and Allia.
 
 “Now if you don’t want to be agreeable, I’m personally sanguine to go through with our original plan. So I guess you couldn’t be any more wrong,” Jerel grinned down at a trembling Damian. “I’m taking *all* of you. I’m finally going to have you, Allia, and a whole lot of glory to go along with it.”
 

@@ -1,7 +1,8 @@
 # Transportation
 
 In both Manipulation and Force mode:
-* The more surface area the easier it is to find
+* The more surface area the easier it is to grip
+* If something they grip is hit by another object, they lose grip
 * The less mass, the faster you can move it
 * Separating things that are fused is very difficult. It's mostly based on sight, and "the feel" of the invisible hand.
 * They see the things the same and find the objects in

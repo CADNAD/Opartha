@@ -1,0 +1,25 @@
+* Guidelines for this doc format
+- For **, this means that this key beat occurs, and then
+  everything grouped after it is all the beats/scenes that occur
+  after it until the next beat begins. e.g: ** Midpoint will start
+  with the first crucial beat (the midpoint itself), which are
+  additionally marked with ! as a prefix, and then scenes which
+  follow after. This is why Break into X is in Act X. The ! points
+  of the last beat of the act are duplicated as the first beat of
+  the next act to show continuity.
+
+* ACT I
+** Opening Image
+** Inciting Incident
+** Theme Stated
+* ACT II 
+** Break into Two
+** First Pinch Point
+* ACT III
+** Midpoint
+** Second Pinch Point
+** All is Lost
+* ACT IV
+** Break into Four
+** Final Confrontation
+** Closing Image

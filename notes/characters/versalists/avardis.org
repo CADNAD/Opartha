@@ -1,0 +1,30 @@
+CHARACTER NAME
+
+* Identification
+** Aliases
+** Background
+*** Childhood
+** Appearance	
+*** Ethnicity
+*** Build
+*** Face
+** Social Status
+*** Class/Allegiances
+*** Wealth
+*** Clothing
+* Character
+** Personality
+** Goals
+** Needs
+** Fears
+** Ideals
+* Abilities
+** Heraldry
+** Profession
+** Stats
+** Skills
+* Relationships
+** Family
+** Romantic
+** Friendships
+** Enemies

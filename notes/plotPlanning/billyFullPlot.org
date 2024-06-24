@@ -36,15 +36,14 @@
 - [ ] Damin uses his summons to find Okin in the middle of the night.
 - [ ] Billy and Damin sneak into Okin's quarters, but Gendro catches them.
 - [ ] Another fight commences between Gendro, the awoken Rothars, and Billy and Damin. Billy and Damin lose and are cornered.
-  
 * ACT II (THE MONASTERY)
 ** Break into Two
 *** ! Allia and Voshri eliminate the Rothars and rescue Billy and Damin [+]
 - [ ] Allia and Voshri fight off the Rothars, and then teleport the four of them out of the Citadel.
-- [ ] Allia and Voshri explain how they found Billy and Damin; they spotted Damin's Summon and knew that someone illegal was doing something, and then tracked Billy and Damin. 
 *** - Allia and Voshri take Billy to the Monastery [-]
+- [ ] Allia and Voshri take Billy and Damin to their airship.
+- [ ] Allia and Voshri explain how they found Billy and Damin; they spotted Damin's Summon and knew that someone illegal was doing something, and then tracked Billy and Damin. Billy will not tell Allia what they were doing at the Citadel.
 - [ ] 
-- 
 *** - Avador discovers Damin's nightmares {b-plot goal: find the Dark Weapon}
 *** - Billy tries to escape with Damin [+]
 ** First Pinch Point
@@ -114,3 +113,4 @@
 *** ! Architor-Revictus challenges Billy for the weapon [concluded] {concluded}
 ** Closing Image
 *** ! The Party escapes with Dark Children from Krinosas
+

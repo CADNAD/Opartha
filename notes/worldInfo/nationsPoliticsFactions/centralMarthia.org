@@ -1,0 +1,30 @@
+* Full List of Nations
+** Major Nations
+*** Delrei
+    United by strong cultural beliefs in their version of Delmian culture
+    Good development and general level of education
+*** Xi-Rin
+    Mediator amongst other major powers
+    Good relations with other powers
+    Land trade up, all western flowing trade flows through Xi-Rin
+*** Hysho
+    
+*** Khua
+    Believes in a central Marthian identity and work towards manifesting it
+    Highest population
+    Large agricultural power
+*** Cong Lang
+    Natural resource harvesting based economy
+    Harvested resources not utilized in nation
+*** Bei-san
+    Small population
+    High religous fevour and belief in their small religion
+
+** Minor Powers
+*** Vang Do
+    Coastal trade power
+    Backs Cong Lang
+    Specalist economy, known for their artisinal goods
+* National Heads
+** Ty-Shou
+   Goal:

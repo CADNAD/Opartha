@@ -28,3 +28,5 @@ CHARACTER NAME
 ** Romantic
 ** Friendships
 ** Enemies
+* Other
+When people come across the Forge/Krinosas Architor kidnaps them and 

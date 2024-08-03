@@ -1,1 +1,0 @@
-Sure, this weird secret organization was putting their weigh behind an incompetent candidate--- but that was technically legal, wasn’t it? Would it be *wrong* to take down Previa’s candidacy in the process, even if he thought it was a farce? Maybe just focusing on *exposing* this cult was the right thing to do.

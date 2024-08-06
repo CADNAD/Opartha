@@ -9,9 +9,8 @@
 - [x] Damin steals gun for Billy for the duel
 - [x] Billy joins the duel
 *** - Billy wins the duel
-- [ ] Billy faces off. It's close, but the revolver is potent.
+- [x] Billy faces off. It's close, but the revolver is potent.
 *** - Billy and Damin go to Metheno
-- [ ] Billy negotiates with Benjamin for the trip.
 - [ ] Billy on the boat. It's cheap and uncomfortable. The crew members take advantage of Damin and steal his food, and we see Damin's nihilism and roll-overness here, as well as Billy's anger and determination for justice.
 ** Goal Stated
 *** ! Billy visits his father's grave [goal: taking revenge]
@@ -30,7 +29,7 @@
 *** - Billy is hunted by Rothars and he escapes the Citadel [-]
 - [ ] Billy and Damin chase sequence from Rothars.
 - [ ] Billy and Damin escape the Citadel.
-*** - Billy goes back in to try to kill Okin
+*** - Billy goes back in to try to kill Okin [+]
 - [ ] Damin doesn't want to do it. Damin says that Okin wasn't responsible. Billy convinces Damin as Damin fears being alone. 
 - [ ] Billy gets him and Damin disguised as an armored Rothar and a squire.
 - [ ] Damin uses his summons to find Okin in the middle of the night.

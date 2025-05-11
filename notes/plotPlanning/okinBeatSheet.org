@@ -11,6 +11,7 @@ Concerns:
 * ACT I
 ** Opening Image
 *** ! Okin will not lie, even to help his men on the Farsunni front.
+- [ ] Okin's men torture rebel prisoners to find information (rebels are tribals in Wreathward, who have aligned with the Farsunni, raiding Wreathward).
 - [ ] Previa sees a chance for a glorious raid of the enemy. Okin thinks it's a good idea but wants to wait on the Krusadars' orders. Previa decides to do it anyway.
 - [ ] Okin follows Previa and gets a backup squad because he is worried for Previa's safety.
 - [ ] Previa's squad is threatened but Okin is there to save the day.

@@ -15,7 +15,7 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 *** All the leaders are in Cong Lang for the start of king making, Dragon Lord crosses the mountains
 - [] There is a large formal gathering of high level officals
 - [] Ty-Shou does not see the point in attending, Wosa has to remind him of the importance
-- [] Ty-Shou sees  Kaleesh and her brother and Anut
+- [] Ty-Shou sees Kaleesh and her brother and Anut
 - [] Laatsi preaches about how this is a new king making season, where not all disputes will be of blood
 - [] Messenger arrives delivering news of the Dragon Lord crossing into Hai Xin
 - [] Coalition head commits to protecting all central Marthians 
@@ -80,12 +80,21 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 - [] Leave at the end of the chapter?
 *** Arrival at the capital
 - [] The group arrives at
+<<<<<<< HEAD
 
 ** First Pinch Point
 * ACT III
 ** Midpoint
 
 ** Second Pinch Point
+=======
+** Break into Two
+ 
+** First Pinch Point
+* ACT III
+** Midpoint
+** Second Pinch Point2
+>>>>>>> 320277a4abb4296a5546b131d16330e991d92f04
 ** All is Lost
 * ACT IV
 ** Break into Four

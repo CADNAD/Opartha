@@ -15,7 +15,7 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 *** All the leaders are in Cong Lang for the start of king making, Dragon Lord crosses the mountains
 - [] There is a large formal gathering of high level officals
 - [] Ty-Shou does not see the point in attending, Wosa has to remind him of the importance
-- [] Ty-Shou sees Kaleesh and her brother and Anut
+- [] Ty-Shou sees Kitsai and her brother and Anut
 - [] Laatsi preaches about how this is a new king making season, where not all disputes will be of blood
 - [] Messenger arrives delivering news of the Dragon Lord crossing into Hai Xin
 - [] Coalition head commits to protecting all central Marthians 
@@ -80,7 +80,7 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 - [] Leave at the end of the chapter?
 *** Arrival at the capital
 - [] The group arrives at
-<<<<<<< HEAD
+
 
 ** First Pinch Point
 * ACT III
@@ -94,7 +94,7 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 * ACT III
 ** Midpoint
 ** Second Pinch Point2
->>>>>>> 320277a4abb4296a5546b131d16330e991d92f04
+
 ** All is Lost
 * ACT IV
 ** Break into Four
@@ -104,15 +104,25 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 * Characters
 ** Bei-San
 *** Ty-Shou
+Primary light emotions are loved based.
 *** Wo-Sa
+Ty-Shou's closest friend and advisor
 *** Lai-Ren
+Old Bei-sanian noble, previous steward of Bei-san. Appears duplicitous. Undecided if he is actually loyal
 *** Ji-Xing
+Ty-Shou's chief general and military advisor. Older man, and Herald. 
 *** Kazon (Liu)
+Half Delmian, half Bei-sanian child. Selected by Ji-Xing from recent graduates to serve as part of Ty-Shou's security details. Personally works very closely as a guard.
 ** Vareeshi
 *** Kitsai
+Challenger to be the largest pyramid holder in Cong Lang. Love interest for Ty-Shou
 *** Anut
-*** Laatsi
+Inherets the pyramid after killing Kitsai's brother. He wants to develop Cong Lang's natural resources. He is insecure about his previous position as advisor, in a Stalin-esq way.
+*** Ruit
+Leader of Khua. A military genius. Flamboyant and patron of the arts.
 *** Maalesh
+Leader of Cong Lang. Seductress archetype. Wants to slightly destabilize the region to push them towards Vang Do's ideology. Might betray Ty-Shou.
+
 
 
 

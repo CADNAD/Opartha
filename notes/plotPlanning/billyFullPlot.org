@@ -11,41 +11,41 @@
 *** - Billy wins the duel
 - [x] Billy faces off. It's close, but the revolver is potent.
 *** - Billy and Damin go to Metheno
-- [ ] Billy on the boat. It's cheap and uncomfortable. The crew members take advantage of Damin and steal his food, and we see Damin's nihilism and roll-overness here, as well as Billy's anger and determination for justice.
+- [x] Billy on the boat. It's cheap and uncomfortable. The crew members take advantage of Damin and steal his food, and we see Damin's nihilism and roll-overness here, as well as Billy's anger and determination for justice.
 ** Goal Stated
 *** ! Billy visits his father's grave [goal: taking revenge]
-- [ ] Billy and Damin arrive in Metheno and reflect on its changes. Billy deals with negative emotions regarding the place, Damin doesn't remember much.
-- [ ] Billy and Damin visit the grave. Billy reflects in private. Brief flashbacks to the day, we learn why they left. Billy swears revenge.
+- [x] Billy and Damin arrive in Metheno and reflect on its changes. Billy deals with negative emotions regarding the place, Damin doesn't remember much.
+- [x] Billy and Damin visit the grave. Billy reflects in private. Brief flashbacks to the day, we learn why they left. Billy swears revenge.
 *** - Billy gets info of Aldwin and Okin's whereabouts [+]
-- [ ] Billy goes to Aldwin's old house, but someone else lives there.
-- [ ] Billy goes to the chapel, and learns from the fill-in Ather that Aldwin is now an Impalias at The Citadel, and Okin is the Ather for this town, but is fighting on the Farsunni front.
+- [0] Billy goes to Aldwin's old house, but someone else lives there.
+- [x] Billy goes to the chapel, and learns from the fill-in Ather that Aldwin is now an Impalias at The Citadel, and Okin is the Ather for this town, but is fighting on the Farsunni front.
 *** - Billy travels to the Citadel with Damin [+]
-- [ ] Billy and Damin enter the Citadel
-- [ ] Billy fakes being a wide-eyed Versalist who wants Aldwin to hear his testimony to get his first Point.
-- [ ] Billy and Damin find Aldwin in a Cathedral.
+- [x] Billy and Damin enter the Citadel
+- [0] Billy fakes being a wide-eyed Versalist who wants Aldwin to hear his testimony to get his first Point.
+- [0] Billy and Damin find Aldwin in a Cathedral.
 ** Inciting Incident
 *** ! Billy shoots Aldwin, but sees Okin [+]
-- [ ] Billy shoots Aldwin, but sees Okin
+- [x] Billy shoots Aldwin, but sees Okin
 *** - Billy is hunted by Rothars and he escapes the Citadel [-]
-- [ ] Billy and Damin chase sequence from Rothars.
-- [ ] Billy and Damin escape the Citadel.
+- [x] Billy and Damin chase sequence from Rothars.
+- [x] Billy and Damin escape the Citadel.
 *** - Billy goes back in to try to kill Okin [+]
-- [ ] Damin doesn't want to do it. Damin says that Okin wasn't responsible. Billy convinces Damin as Damin fears being alone. 
-- [ ] Billy gets him and Damin disguised as an armored Rothar and a squire.
-- [ ] Damin uses his summons to find Okin in the middle of the night.
-- [ ] Billy and Damin sneak into Okin's quarters, but Gendro catches them.
-- [ ] Another fight commences between Gendro, the awoken Rothars, and Billy and Damin. Billy and Damin lose and are cornered.
+- [0] Damin doesn't want to do it. Damin says that Okin wasn't responsible. Billy convinces Damin as Damin fears being alone.
+- [0] Billy gets him and Damin disguised as an armored Rothar and a squire.
+- [0] Damin uses his summons to find Okin in the middle of the night.
+- [0] Billy and Damin sneak into Okin's quarters, but Gendro catches them.
+- [0] Another fight commences between Gendro, the awoken Rothars, and Billy and Damin. Billy and Damin lose and are cornered.
 * ACT II :monastery:
 ** Break into Two
 *** ! Allia eliminates the Rothars and rescue Billy and Damin [+]
-- [ ] Allia fights off the Rothars, and then her Space ally teleports them of them out of the Citadel.
+- [x] Allia fights off the Rothars, and then her Space ally teleports them of them out of the Citadel (into the airship).
 *** - Allia takes Billy to the Monastery [-]
 - [ ] Allia takes Billy and Damin to her airship.
 - [ ] Allia explains how she found Billy and Damin; she spotted Damin's Summon and knew that someone illegal was doing something, and then tracked Billy and Damin. Billy will not tell Allia what they were doing at the Citadel.
 - [ ] Billy tries to negotiate to leave, but Allia won't let him.
 *** - Billy and Damin train in the Monastery [+]
 - [ ] Billy and Damin meet the Council.
-- [ ] Billy agrees to train so he can better fight of Rothars when he encounters Okin again.
+- [ ] Billy agrees to train so he can better fight off Devinars when he encounters Okin again.
 - [ ] Billy's instincts are good in training but he struggles with being too impulsive and vindictive.
   - [ ] Billy is looked down upon by his peers for being not born into the Monastery, which fuels his anger and vindictiveness. 
 - [ ] Damin crafts amazing modules and Avador is impressed and takes him as a personal tutee.

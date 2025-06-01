@@ -1,34 +1,58 @@
-* Full List of Nations
-** Major Nations
-*** Delrai
+#+title: Nations Factions
+* NATION TEMPLATE
+
+
+* Nations within Continents, Empires, and Alliances Overview
+** Wreathwardian Empire/Versalist Kuarko
+*** Nairfalk
+*** Trenta
+*** Whenran
+*** Caldeim
+*** Bahardy
+*** Paird
+*** Jarna
+*** Wandon
+** Farsun
+** Marthia
+*** Central Marthia
+**** Delrai
     United by strong cultural beliefs in their version of Delmian culture
     Good development and general level of education
-*** Xi-Rin
+**** Xi-Rin
     Mediator amongst other major powers
     Good relations with other powers
     Land trade up, all western flowing trade flows through Xi-Rin
-*** Hysho
+**** Hysho
     Came to the defence of Delrai
     Strong military traditions
     Believes in central marthian identity and wants to uphold it, started the Coalition
-*** Khua
+**** Khua
     Highest population
     Large agricultural power
-    Strict hierarchical religious beliefs	
-*** Cong Lang
+    Strict hierarchical religious beliefs
+**** Cong Lang
     Natural resource harvesting based economy
     Harvested resources not utilized in nation
     Current Coalition leader as of Enemy of the Gods
-*** Bei-san
+**** Bei-san
     Small population
     High religous fevour and belief in their small religion
+**** Vang Do
+*** GaoLei
 
-** Minor Powers
-*** Vang Do
-    Coastal trade power
-    Backs Cong Lang
-    Specalist economy, known for their artisinal goods
-* National Heads
-** Ty-Shou
-   Goal:
-   
+*** Republic of Kainen
+*** Delmia
+*** Feixiang-Nihda
+*** Jaralad
+** Apathasaw
+*** Marshton
+*** Saggadaway
+*** Crantona
+*** North Palano
+*** South Palano
+*** Triton's Isle
+*** Goshtar
+*** Lesway
+*** Kehousee
+*** Lanodan
+** Krinosas

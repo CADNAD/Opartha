@@ -1,35 +1,32 @@
-  
-	Aredal: Truth, Justice, Bravery
+Aredal: Truth, Justice, Sacrifice
 
-Olitheon: Knowledge, Wisdom, Exploration
+Olitheon: Humility, Wisdom, Exploration
 
-Intillia: Peace, Discipline, Loyalty
+Intillia: Generosity, Discipline, Loyalty
 
-Nexon: Joy, Humility, Gratitude/Generosity
+Nexon: Creativity, Peace, Bravery
 
+Sacrifice: Oktalus (Selfishness) [Military]  
+Truth: Palno (Deception)  [Scientists, Judges, Administrators, Scholars]
+Justice: Rentar (Injustice/Chaos)  [Administrators, Judges]
   
-Bravery: Oktalus (Cowardice)  
-Truth: Palno (Deception)  
-Justice: Rentar (Injustice/Chaos)  
+Generosity: Fieza (Avarice) [Average Person, Upper Classes] 
+Discipline: Vaskiel (Sloth)  [Military, Average Person]
+Loyalty: Architor (Treachery) [Military, Average Person] 
   
-Peace: Fieza (Wrath)  
-Discipline: Vaskiel (Sloth)  
-Loyalty: Architor (Treachery)  
+Creativity: Geatro (Destruction)  [Artists, Artisans, Average Person]
+Peace: Mezenius (Wrath)  [Average Person, Police]
+Bravery: Aleine (Cowardice)  [Military, Police]
   
-Joy: Votaas (Depression)  
-Humility: Mezenius (Pride)  
-Gratitude/Generosity: Aleine (Avarice/Envy)  
-  
-Wisdom: Nolor (Irresponsibility)  
-Discovery: Tiarna (Stagnation)  
-Knowledge: Revictus (Ignorance)
+Wisdom: Nolor (Impulsiveness)  [Administrators, Scholars, Scientists]
+Discovery: Tiarna (Stagnation)  [Scientists]
+Humility: Revictus (Pride)      [Average Person, Upper Classes]
 
 (Either Neiman or Revictus was essentially the stenographer for the Gods creating the *Versalist Onorun)*
-
   
 DEMONS:  
-	Chaos, Wrath, Pride, Irresponsibility: Tregale
+Injustice, Wrath, Pride, Destruction: Tregale
 
-Deception, Treachery, Avarice, Stagnation: Deionis
+Deception, Selfishness, Avarice, Stagnation: Deionis
 
-Cowardice, Sloth, Depression, Ignorance: Meanthos
+Cowardice, Sloth, Depression, Impulsiveness: Meanthos

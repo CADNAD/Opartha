@@ -16,12 +16,11 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 - [] There is a large formal gathering of high level officals
 - [] Ty-Shou does not see the point in attending, Wosa has to remind him of the importance
 - [] Ty-Shou sees Kitsai and her brother and Anut
-- [] Laatsi preaches about how this is a new king making season, where not all disputes will be of blood
 - [] Messenger arrives delivering news of the Dragon Lord crossing into Hai Xin
 - [] Coalition head commits to protecting all central Marthians 
 *** Ty-Shou meets with Malesh
-- [] Ty-Shou watches the Cong Lang army, and some contigents of other nations leave through portals to Hai Xin
-- [] Malesh meets him there, Wosa introduces the two
+- [] Ty-Shou watches the Cong Lang army, and some contigents of other nations leave through portals to !!!Hai Xin!!!
+- [] Malesh meets him there, Wosa introduces the two, she flirts with him
 - [] Wosa does much of the talking with Malesh, Ty-Shou is more interested in the army than economics
 - [] Malesh calls Ty-Shou out direcetly
 *** The brother hosts a formal banquet to welcome the start of king making
@@ -44,12 +43,12 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 - [] The Bei-sanian compound is guarded by guards with guns
 - [] Ji-Xing informs the party that the city is locked down
 - [] Wosa, insits on leaving anyways, Ty-Shou thinks it is unbefitting of a hero to run from danger
-- [] They talk about how far away their nearest armmy is
-- [] A carriage arrives with Kitsai, she is injured, Ty-Shou is able to heal her
-- [] She informs them of the death of her father, and that Anut has seized support in the city and attempted to kill her
+- [] A carriage arrives with Kitsai, she is injured, !!Ty-Shou is able to heal her!!
+- [] She informs them of the death of her father, and that Anut has seized support in the city and attempted to kill her. She tells Ty-Shou that he should leave while he is able to, and thanks him for attempting to save her brother
 - [] Wosa considers turning her over to Anut for their own safety, and to not interfere in Vareeshi politics as a non-believer
-- [] Ty-Shou insits this is the type of thing Wosa has been training him for and agrees to smuggle her out of the city
-- [] They agree to leave the next day
+- [] Ty-Shou rebutals that there are Vareeshi in Bei-San
+- [] Ty-Shou insits this is the type of thing Wosa has been training him for and refuses to hand her over
+*** && Ty-Shou and Kitsai have a private conversation where she ends with asking permission to call him Ty-Shou
 *** Chaos in the city breaks out
 - [] Civilian population attacks the Hai Xing delegation, blaming them for getting their leader killed during non-kingmaking season
 - [] The civilian population begins to riot and attack all the foreign leaders
@@ -60,13 +59,15 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 - [] Malesh sees Kitsai and asks what Ty-Shou's plan is once he leaves the city, she realizes he doesn't have one
 - [] She bargins for their help escaping the city
 - [] The party is ambushed by Anut's men, they nearly kill Ty-Shou who is low on light in the underground city (establish fear of death and obsessive controlling)
+- [] Ty-Shou is unable to kill his attackers, Ji-Xing (or is it better if it's Kazon) kills the attacker 
 - [] They manage to leave the city, but have to walk on foot to the nearest friendly town
+- && Add a lecture here or next chapter from Ji-Xing about him needing to kill, but Ty-Shou is unable to reconcile it with his goals to help and save the people of this world
 * ACT II
-** Break Into Two
 *** The group crosses a friendly Cong Lang village
 - [] See how the triangles work
 - [] The villages are hostile at first, but are talked down by Kitsai
 - [] The town adds their circles to Kitsai's triangle, she offically becomes a Candidate
+- [] Kitsai offically asks for Ty-Shou's backing
 - [] Ty-Shou tells Wosa to summon the nobles ahead of their arrival
 *** They arrive back in Bei-San
 - [] Lai-Ren greets them
@@ -75,16 +76,62 @@ Ty-shou's main power comes from his genuine love for humanity. Wosa tries to for
 - [] Ji-Xing subtly accuses Lai-ren of not summoning them
 - [] Lai-ren asserts he has always been loyal, even before Ty-Shou's arrival, and that he only ever ruled in the name of Ty-Shou
 - [] Ty-Shou reissues his decree, feeling like he is loosing his grip on control he tells Lai-ren to threaten any nobles not on their
-*** Okin Visit
-- [] A Versalist delegation arrives admist preperations to march
-- [] Leave at the end of the chapter?
-*** Arrival at the capital
-- [] The group arrives at
-
-
+*** %% Kitsai pleads her case to the Bei-Sanian nobility, Ty-Shou declares war 
+- [] The nobles all physically kowtow when Ty-Shou enters. He has to tell them to rise
+- [] He tell his nobles that a great injustice has come upon Cong Lang, and that Kitsai requires their help to correct it
+- [] Kitsai explains that her brother has been murdered, before she can help nobles interrupt her
+- [] Nobles speak condescendingly to Ty-Shou insisting this is too large and complex and issue for him to make such a quick assessment
+- [] His rage (indignation) powers flare
+- [] Ty-Shou asks the nobles what they believe of him. They state that he returned to help the people of the world. Ty-Shou asserts that the Vareeshi are his people and they deserve to be freed of oppression
+- [] Declares, since King Making is starting, that he will take their armies and assist Cong Lang
+- [] Kitsai calls him out, saying it isn't so simple, and that he will need to become Vareeshi and create a pyramid if he wishes to participate
+*** Ty-Shou visits the Vareeshi quarter of Bei-San and officially declares himself a Candidate
+- [] Wosa believes that Kitsai was out of line calling him out, and should have asked permission to speak
+- [] The Vareeshi of Bei-San are as reverent of Ty-Shou as Bei-Sanian's. He feels what he believe to be genuine love (but is not) in the way they worship him. (Possible flare up of his special power)
+- && Wosa advises strongly against being a candidate. [Does Revictus want this by now or not]
+- PUT MORE TO THIS SCENE
+- [] Wosa refuses to be his second, reiterating that they should not become so deeply involved
+- [] Ji-Xing becomes Ty-Shou's second, suggest Kazon to be high up in the pyramid
+- [] Ty-Shou asks Kitsai to join her pyramid to his. She tries to politely and quietly refuse, he forces the issue and she publicly rejects him before leaving the scene
+- [] Maalesh asks him why just Cong Lang. Points out that as soon as he declares himself others will come to fight him, regardless of whether he wants to fight them. It is just the Vareeshi way, and Bei-San and Ty-Shou are too great a prize to ignore
+** Break Into Two
+*** Ty-Shou's inner circle reviews all the King Making decelerations. Wosa pushes Ty-Shou to argue with Kitsai
+*** Ty-Shou summons Kitsai to demand again that she submits.
+- [] Ty-Shou summons her to his throne room for a private audience. (Maybe Kazon can be there as named guard)
+- [] Ty-Shou demands she address him formally and kowtow as his nobles do. She refuses to kowtow but reverts to using his formal titles
+- [] Kitsai asks why he called the meeting. Ty-Shou's says it is because she disrespected him. She asks why he felt so strongly to call this meeting in this place
+- [] He says, with a petulant tone, that he is god and she should respect and follow him
+- [] She questions directly where this idea comes from, and why her respect has to be total submission
+- [] Kitsai offers concession to show she does respect him, but she does not follow him and is his equal and ally
+*** Apathasaw shipment arrives, Maalesh leaves, Ty-Shou is informed that Hysho is after him
+- && Either a shipment of guns and powder arrives with men that were trained in Apathasaw || the shipment arrives with a select few officers who are sent to train Bei-Sanian soldiers
+- [] A Vang Do ship arrives to return the Vang Do contingent to their home land
+- [] Maalesh makes no solid promises of allyship or help, despite Ty-Shou's multiple requests. Says he must prove himself to her, Vang Do, and all Vareeshi before anyone will help him
+- [] Maalesh could suggest a war target which could give Bei-San supplies as she subtly wants to increase Vang Do trade power in the region and knows Ty-Shou will be amendable to her traders over others
+*** && Possible Wosa/Liu chapter here about planning the offensive with skirmishes against Xi-Rin troops
+*** && Decide and objective for Bei-San to pursue in Xi-Rin. Kitsai will pick up more followers as they move through towards Xi-Rin. Hysho will come to them
+*** Hysho traps Bei-San between them and Hai-Xin, forcing a Bei-San to fight one of the two.
+- [] Ty-Shou thinks that Wosa is always right, and was right that they should not have gotten involved in the conflict
+- [] Monk outriders arrive to discuss terms with Kitsai and Ty-Shou
+- [] Kitsai reassures Ty-Shou that they can win the battle ahead
+*** Ji-Xing takes the bulk of the army to harass Xi-Rin and keep them busy. Meanwhile, Ty-Shou and Kitsai's army go to confront Hysho
+- [] Ty-Shou fights the leader of Hysho and wins
+- [] Kitsai is in a life or death situation and Ty-Shou activates a love power and saves her life killing someone in the process
+- [] Ty-Shou's fight ends as the sun sets
+- [] Ji-Xing uses gun and a lopsided Herald advantages to win from a numerically lower position. (Kazon should probably contribute)
+*** && Two versions of this post battle scene
+- [] Anut's scouts are spotted while the monks do sabbath counts
+- [] A message from a dark herald monk is a call from Anut
+*** The dragon guy arrives with airships and bombs the newly capture Hai-Xin city. Killing Ji-Xing
+- [] The fight is as the sunsets going into sabbath
+- [] The dragon lord talks about how he was going to attack Cong Lang, but they gave him a bigger target. Ty-Shou
+- [] Ji-Xing sacrifices himself to save Ty-Shou. Ty-Shou realizes that he can't save everyone and is putting those who care about him in danger
+- [] Ty-Shou declares he is going to march on Cong Lang
 ** First Pinch Point
 * ACT III
+*** A shipment 
 ** Midpoint
+
 
 ** Second Pinch Point
 =======
@@ -122,6 +169,8 @@ Inherets the pyramid after killing Kitsai's brother. He wants to develop Cong La
 Leader of Khua. A military genius. Flamboyant and patron of the arts.
 *** Maalesh
 Leader of Cong Lang. Seductress archetype. Wants to slightly destabilize the region to push them towards Vang Do's ideology. Might betray Ty-Shou.
+*** Taleit 
+Leader of Hysho
 
 
 

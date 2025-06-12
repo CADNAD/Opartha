@@ -1,0 +1,58 @@
+``` mermaid
+graph LR
+A(Gland which
+everyone has) -->B(Herald Hormone)
+    B --> C(Hormone activates the Virus to attack)
+    C -->|if able| D(Virus attacks the gene, if they succeed you become a Herald)
+```
+
+* Colours
+
+Light: Multi colour / Multi
+Dark: Black / White
+Time: Orange / Blue
+Elements: Green / Red
+Space: Purple / Yellow
+
+* The virus
+
+The alien probes spread the virus when they scanned all the living things around it
+
+The longer your body fights the virus before forming anti-bodies determine how strong a Herald is
+
+The first Heralds are hit by the virus, they have no anti-bodies passed from food or parents so they fight the virus for longer making them stronger heralds.
+
+Humans first get the virus from animals and it is spread slowly that way
+
+* The Gems
+
+Gems are all isotopes of the same elements.
+
+A gem is found in a geode surround by Anti-Gems
+
+* Anti Gem
+
+Anti gem material comes from the outer shell of the crystals
+Very soft raw, needs to be alloyed into other materials to be of use
+Anti-gem alloys can not be bonded to other materials, armour or weapons made of it must be forged entierly of the material
+
+When anti-gem or its alloy are at a near touching distance from a Herald, and they try to activate their power, they are physically sick.
+
+** Anti space
+Create anti movement field which totally disrupts objects moving through it
+Can not blink into field
+Blocks things from being transported through portals where the field is between the two portals totally
+
+** Anti Light
+Energy from light rapidly drains away 
+
+** Anti Time
+Can't activate powers within the field
+When something under the influence of Object heraldry enters the field, it removes the most recent instance of virtual time
+
+** Anti Elements
+Can't move elements through it
+Will revert the whole transformation when any part touches the field
+
+** Anti Dark
+Is a virtual field of light

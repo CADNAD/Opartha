@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #+title: Tregale
+=======
+*  Motivation 
+>>>>>>> 78c446a41c9b19c6078233311948b3e39d61cd94
 Tregale wants to use the weapons to create a new superior race of being which have access to all 5 forces and are each gods in their own right. He doesn't have plans to control them, and wants them to do what they want because he believes what they do will be better than what he can imagine

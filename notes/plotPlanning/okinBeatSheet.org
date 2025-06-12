@@ -26,16 +26,17 @@ Concerns:
 * ACT II
 ** Break Into 2
 *** ! The Synodontis debate begins
-- [ ] Okin is introduced to the Synodontis debate and is astonished.
-- [ ] Okin feels like he can't make the decision without first meeting Synodontis. He requests a meeting which is quickly approved.
-- [ ] Okin and a few other Impaliases visit Synodontis. Okin is wowed by Synodontis' power but also is suspicious of him.
-- [ ] Okin keeps track of the vote, which will need a majority (6/9) to pass or fail. Right now he knows that 4 are strongly for, 1 is against, and the rest are up in the air.
+- [ ] Okin is introduced to the Synodontis debate. The consensus needs to be unanimous. Right now it is (7/10).
+- [ ] Okin is surprised that by the second debate everyone has shifted (except him) to the pro-Synodontis side. (9/10)
 - [ ] Another Impalias tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
 - [ ] Okin brings up the other Impaliases' corruption before the Council and the Council pretends to be flabbergasted.
-- [ ] Another anti-Synodontis Impalias visits Okin and tells him that the Mouth will not advance the vote until he is sure that everyone will vote in favor of Synodontis. Okin doesn't exactly believe him. The Anti-Synodontis Impalias introduces Okin to Backuh, an eccentric who believes that the current Mouth of the Gods is an unholy usurper who murdered the former Mouth.
-- [ ] Okin is attacked in the street. Luckily Gendro is there to defend him.
+- [ ] B Plot - Previa investigates Aldwin's assassination
+*** ! Synodontis is revealed publically
+- [ ] The Impaliases say this is further evidence his Aredal. Okin does have a bit of doubt. (9/10)
+- [ ]
 * ACT III
 ** Midpoint
+
 
 
 ** Second Pinch Point
@@ -65,5 +66,5 @@ Concerns:
 - Deionis frames
 - Okin lies in court about Previa's testimony that Okin is a Dark Herald, and that it was Okin that killed Aldwin. Previa is sentenced to death. (B plot close).
 ** Denouement
-- Previa is broken out of prison by DEionis
+- Previa is broken out of prison by Deionis
 - Okin acts as a McCarthy-esque demagogue, making false promises to the people to gain power, saying that he has been ordained by Aredal/Olitheon to fight against the modern Citadel.

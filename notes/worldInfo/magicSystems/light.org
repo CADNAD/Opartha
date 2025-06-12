@@ -3,16 +3,18 @@
 ** Excitement
 Get bigger and bigger and stronger
 ** Eager
-More defense
+
 ** Euphoric
 
 ** Asthonished
-
+** Confidence
+Higher defense
 * Anger (energy)
 ** Resentment
 
 ** Indignation
 He can store more energy in his body when he gets hit, and it shines with light, and he can transfer that energy and it explodes.
+** Righteous Anger
 ** Irritable
 Punching harder
 ** Exasperated
@@ -44,4 +46,4 @@ light grows more, shining brighter from body, can incinerate foes
 ** Passion
 ** Sentimental
 ** Romantic
-* Fear
+* Fear (debuff others)

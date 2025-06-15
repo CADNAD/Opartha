@@ -1,0 +1,131 @@
+[x] = Dead
+[A] = Alive
+Type:
+Name:
+Gender: 
+Ethnicity:
+
+* Big Five
+*** Aredal [ ]
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Tregale [ ]
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Olitheon [X]
+Type: Dual Space
+Name: Filip ere Ducére
+Gender: M
+Ethnicity: Trentanian
+*** Nexon [A]
+Type: Dual TimeSpace
+Name: Samson ere Ducére
+Gender: M
+Ethnicity: Trentanian
+*** Intillia [X]
+Type: Tri-elemental
+Name: Intillia Tsuman
+Gender: F
+Ethnicity: 
+* Aredal Aligned
+*** Geatro(E) [A]
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Oktalus
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Palno
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Tiarna
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Nolor
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Revictus
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Feiza(E)
+Type: Gas
+Name: Mia Si-Yeon
+Gender: F
+Ethnicity: Bei-Sanian
+*** Vaskiel(E)
+Type: Liquid
+Name: Victor Cor
+Gender: M
+Ethnicity: 
+*** Theia(E)
+Type: Solid Herald
+Name: Arellia Oralie
+Gender: F
+Ethnicity: 
+*** Architor(E)
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Mezenius
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Aleine
+Type:
+Name:
+Gender: 
+Ethnicity:
+* Tregale Aligned
+** Tregale Five
+*** Neiman(S) [A]
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Deionis(D) [A]
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Meanthos(T) [A]
+Type: Object
+Name:
+Gender: 
+Ethnicity:
+
+
+The Meanthos in the story is not Meanthos prime. Meanthos prime died during a mission with the current Meathos allowing him to take over the timeline.
+
+There is a council of Meanthos which Meanthos from all timeliness collaborating and assigning missions.
+*** Rentar(L) [A]
+Type: Light
+Name: Adul Fazil
+Gender: M
+Ethnicity: Farsunian
+*** Ovolo() [ ]
+Type:
+Name:
+Gender: 
+Ethnicity:
+*** Sarttlmisch() [ ]
+Type:
+Name:
+Gender: 
+Ethnicity:

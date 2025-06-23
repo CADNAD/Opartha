@@ -29,7 +29,7 @@
 *** - Billy is hunted by Rothars and he escapes the Citadel [-]
 - [x] Billy and Damin chase sequence from Rothars.
 - [x] Billy and Damin escape the Citadel.
-*** - Billy goes back in to try to kill Okin [+]
+*** - Billy goes back in to try to kill Okin [+] REDACTED
 - [0] Damin doesn't want to do it. Damin says that Okin wasn't responsible. Billy convinces Damin as Damin fears being alone.
 - [0] Billy gets him and Damin disguised as an armored Rothar and a squire.
 - [0] Damin uses his summons to find Okin in the middle of the night.
@@ -41,54 +41,56 @@
 - [x] Allia fights off the Rothars, and then her Space ally teleports them of them out of the Citadel (into the airship).
 *** - Allia takes Billy to the Monastery [-]
 - [ ] Allia takes Billy and Damin to her airship.
-- [ ] Allia explains how she found Billy and Damin; she spotted Damin's Summon and knew that someone illegal was doing something, and then tracked Billy and Damin. Billy will not tell Allia what they were doing at the Citadel.
-- [ ] Billy tries to negotiate to leave, but Allia won't let him.
+- [ ] Billy questions who Allia's party are and what they are doing. Allia and the party are conflicted to
+- [ ] Billy tries to negotiate to leave, but the party won't let him, and Billy realizes that they are doomed if they don't receive help.
 *** - Billy and Damin train in the Monastery [+]
-- [ ] Billy and Damin meet the Council.
-- [ ] Billy agrees to train so he can better fight off Devinars when he encounters Okin again.
-- [ ] Billy's instincts are good in training but he struggles with being too impulsive and vindictive.
+- [ ] Billy and Damin meet the Council. Allia has to justify their rescue, the Council heavily dissaproves of outsiders. Billy respects Allia a bit for defending him. some of the council members even imply killing Damin and Billy, which further raises Billy's suspicion.
+- [ ] Billy is staying in the Monastery but is too suspicious to participate. Damin meets people his age.
+- [ ] Billy agrees to train so he can better fight off Devinars when he encounters Okin again, and they have no other option.
+- [ ] Billy's instincts are good in training but he struggles with being too impulsive and vindictive, especially in team battles, putting himself and others at risk.
   - [ ] Billy is looked down upon by his peers for being not born into the Monastery, which fuels his anger and vindictiveness. 
 - [ ] Damin crafts amazing modules and Avador is impressed and takes him as a personal tutee.
 *** - Avador discovers Damin's nightmares {b-plot goal: find the Dark Weapon}
-- [ ] Though his modules are great, Damin still has a seizure during training, and it's hurting him severely.
-- [ ] Billy learns that the Monastery sees this arrangement as permanent.
-- [ ] Avador witnesses Damin having a nightmare. Damin recognizes Allia from his nightmare, and Avador interprets this as a prophecy. 
+- [ ] Though his modules are great, Damin still has a seizure during training, and it's hurting him severely. The other trainees look down on him more.
+- [ ] Billy learns that the Monastery sees Billy and Damin staying as permanent. He doesn't like this, and starts to plan an escape.
+- [ ] Avador witnesses Damin having a nightmare. Damin recognizes Intillia from his nightmare, and Avador interprets this as a prophecy.
 *** - Billy tries to escape with Damin [+]
 - [ ] Billy informs Damin that the Monastery sees their arrangement as permanent and makes him leave by going to hijack a jellyship.
-- [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
+   - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
 - [ ] Billy says "it's me or them", and Damin and him try to board a jellyship.
 ** First Pinch Point
 *** ! Billy and Damin are caught [-] {+}
-- [ ] Billy and Damin are caught by Monastery members. They fight, but are outnumbered and surrender to the Monastery.
+- [ ] Billy and Damin are caught by Monastery members. They fight, but are outnumbered and surrender to the Monastery after Damin is disconnected from the jellyship.
 - [ ] Upon this development and the unsuccessful hunt for Intillia's killer, the Monastery Council makes leaving the Tneranatos prohibited, infuriating the minority factions, especially the Revenants, within the Monastery. Allia is furious at Billy and Damin.
 - [ ] Billy is beaten mercilessly during a training exercise by his peers for attempting to escape the Monastery.
   - [ ] Billy narrowly escapes and tries to stop the same from happening to Damin, but it's too late. However Damin has a huge Tregale freakout, scaring the bullies away. Billy swears revenge on Damin and his' bully.
 *** - Billy meets the Revenants, Damin meets the Sentinels [+] {+}
 - [ ] Billy is introduced to the Revenants when Calkesh, a radical Mind Herald, defends him against his bully. Calkesh is very anti-Citadel and seeks Intillia's killer [+]
-- [ ] Avador and Allia introduce Damin to their faction, the Sentinels, who have the same goals as Intillia had later in life.
+  - [ ] Some of the Revenants are suspicious of Billy since he tried to leave the Citadel, but Billy quickly understands their motives and charms them into believing he just has the same problem with the Citadel as they do.
+- [ ] Avador and Allia introduce Damin to their faction, the Sentinels, who have the same goals as Intillia had later in life, to reintroduce the Monastery into society as a correct version of the gods. {+}
 *** - Billy tricks Revenants into planning a secret mission to track and kill Okin [+]
 - [ ] After Damin tells him about the Sentinels and Intillia, Billy sneakily gets information from Allia and Voshri about Intillia.
 - [ ] Billy crafts some lies to make Calkesh believe that Okin was Intillia's murderer.
   - [ ] Billy refuses Calkesh' request to get Damin to join the Revenants, as Billy thinks its too dangerous for him. Still, Calkesh gives Billy a Dark Crystal that Damin can use to contact him if necessary.
 *** - Damin discovers a map to the Forge {+}
-- [ ] In the Sentinel hideout, Damin's visions, with Avador's help, lead him to Intillia's secret records where he finds a book about the locations of the weapons, which gives him new visions.
-- [ ] Billy and Calkesh finalize their plan to infiltrate the Citadel and kill Okin, with the help of many including Calkesh' submissive sister, Voshri, a quiet and kind Space Herald. Billy is put in charge of the "home team" which includes a Dark Herald and Voshri who will meet up with Calkesh when the mark is found. Calkesh leaves the Monastery.
+- [ ] In the Sentinel hideout, Damin's visions, with Avador's help, lead him to Intillia's secret records where finds Intillia's journal which gives him thne location of the forge in krinosas, as well as Tregale's first journal, which gives him new visions.
+- [ ] Billy and Calkesh finalize their plan to infiltrate the Citadel and kill Okin, with the help of many including Calkesh' submissive sister, Voshri, a quiet and kind Elements Herald. Billy is put in charge of the "home team" which includes a Dark Herald and Voshri who will meet up with Calkesh when the mark is found. Calkesh leaves the Monastery. [+]
 * ACT III :leviathiStrait:
 ** Midpoint
 *** ! Billy's rebel scheme is found out and he faces execution. [-] {-}
-- [ ] Billy is ready to leave, but just before he does, he goes to take revenge on his bully by crippling him.
+- [ ] Billy is ready to leave, but just before he does, he goes to take revenge on his bully by crippling him. [-]
   - [ ] Billy successfully cripples the bully, but is caught by the bullies' friends. Billy is knocked out in the fight and arrested.
-- [ ] Voshri finds that Billy has been arrested, and tells Damin and Allia.
+- [ ] Voshri finds that Billy has been arrested, and tells Damin and Allia. [+]
   - [ ] They figure out how they will break out Billy.
 *** - The Party escapes the Monastery. [+] {+}
-- [ ] Allia, Voshri and Damin surprise attack Billy's hearing and free Billy.
+- [ ] Allia, Voshri and Damin surprise attack Billy's hearing and free Billy. [+]
 - [ ] A grand escape sequence with the party fighting off other Heralds. Avador comes to the party's aid.
 *** - Calkesh has found Okin, the Party squabbles [+] {+}
 - [ ] Billy convinces Damin to connect him with Calkesh, who has found Okin [+]
   - [ ] Calkesh wants to kill Okin himself, but Billy wants the kill for himself. Billy convinces Calkesh that Okin is a dangerous Herald and Calkesh will need backup. [-]
-- [ ] Billy is desperate and connects with Voshri, who is unsure about leaving the ship now that they are wanted by the Monastery. {-}
+- [ ] Billy is desperate and tries to convince Voshri to vote with him to change the ship's course, who is unsure about leaving the ship now that they are wanted by the Monastery. {-}
   - [ ] Allia overhears and Voshri tells Allia what their plan was, unknowingly ousting Billy's lie. Billy tries to lie again but Damin has had enough and tells Billy to give it up. Allia is furious at Billy and Damin. [-] {-}
-- [ ] Now Voshri is worried about Calkesh, and tries to get Damin and Billy to let her tell Calkesh that Okin isn't Intillia's killer, but Billy won't give her the Crystal. Allia, Voshri, and Billy fight over what to do.  Allia tries to subdue Billy, and the three fight, disrupting the ship. [-] {+}
+- [ ] Now Voshri is worried about Calkesh, and tries to get Damin and Billy to let her tell Calkesh that Okin isn't Intillia's killer, but Billy won't give her the Crystal. Allia, Voshri, and Billy fight over what to do.  Allia tries to subdue Billy, and the three fight, disrupting the ship. [-] {-}
 ** Second Pinch Point
 *** ! Nexon's Pirates capture the Party [-] {-}
 - [ ] The Party fighting makes the Ship nearly fall out of the sky and come within Nexon's view. Nexon shoots it down, and they are captured. 
@@ -96,42 +98,43 @@
 - [ ] Nexon befriends Billy, and returns him the Dark Crystal [+]
   - [ ] Billy is subconsciously ashamed that he lied to Voshri.
   - [ ] Damin refuses to contact Calkesh for Billy. [-]
- - [ ] Allia and the other three plan to escape, and get the Crystal back from Billy[-] {+}
+ - [ ] Allia and the other three plan to escape, and get the Crystal back from Billy [-] {+}
 - [ ] Billy convinces Nexon to help him go kill Okin if Billy comes with him to hunt the Leviathi [+]
 - [ ] Allia and the other three advance their plan to escape. {+} [-]
 *** - Billy ruins their escape plan [+] {-}
 - [ ] Damin wants to go with Allia, and Billy and Damin argue. Billy thinks Damin will go if he doesn't do something drastic, and will die in Krinosas.
-- [ ] Damin betrays Billy and steals the Dark Crystal when Billy is sleeping so Voshri can tell Calkesh that Billy lied. 
-- [ ] In fear of losing his brother to Krinosas, and to get back at them for Damin's betrayal, Billy tells Nexon about their escape plan. Nexon stops their plan and locks up Allia and Voshri.
+- [ ] Damin betrays Billy and steals the Dark Crystal when Billy is sleeping so Voshri can tell Calkesh that Billy lied. {+} [-]
+- [ ] In fear of losing his brother to Krinosas, and to get back at them for Damin's betrayal, Billy tells Nexon about their escape plan. Nexon stops their plan and locks up Allia and Voshri. [+]
 - [ ] Damin is more distant then ever from Billy, even though Damin is not punished by Nexon.
 *** - The Leviathi Hunt [-] {+}
-- [ ] 
+? [ ]
 ** All is Lost
 *** ! Allia destroys the ship's engine, the Leviathi destroys the fleet, Billy loses contact with Calkesh [-] {-}
-- In a desperate, angry attempt to escape, Allia overloads her powers to explode the ship's engine. The explosion sinks Nexon's lead crusier, and shocks the Leviathi, which attacks the fleet in a frenzy. [-] {-}
+? In a desperate, angry attempt to escape, Allia overloads her powers to explode the ship's engine. The explosion sinks Nexon's lead crusier, and shocks the Leviathi, which attacks the fleet in a frenzy. [-] {-}
 - Billy is knocked unconscious. He loses his Dark Crystal, and with it, his connection to Calkesh.
 *** - Billy and Damin crash on Krinosas [-] {+}
 - Billy wakes up, surprised he is alive. However, Damin is very injured.
   - Billy nurses Damin.
   - Damin's visions grow stronger, which enhances his pain, and he summons his main to track the strong feeling he has, despite Billy's wishes.
 - However, Damin is furious at Billy when Billy blames Allia for their situation, and finally snaps when Billy is swearing that he will get his comeuppance on Allia and whining about Nexon falling through.
-  - Damin tells Billy how he knows the full extent of Billy's lies to the Revenants, and now Voshri, the other Revenants, and Allia are unfairly punished, but they didn't seek revenge.
+  - Damin tells Billy how he knows the full extent of Billy's lies to the Revenants, and how Voshri, the other Revenants, and Allia are unfairly punished, but they didn't seek revenge, unlike Billy who lets revenge consume his life.
 - Damin's nihilistic attitude is revealed and he says he will let himself die.
 *** - Billy brings Damin to the Forge [+] {+}
-- [ ] Billy, in tears, confesses he would give up his revenge to save Damin and he regrets bringing them here to the unconscious Damin.
-- [ ] Billy swears he will get Damin help, and carries the unconscious Damin through the jungle in the direction the summon guides, but he is dying.
+- [ ] Billy, in tears, confesses he would give up his revenge to save Damin and he regrets bringing them here to the unconscious Damin. [-]
+- [ ] Billy swears he will get Damin help, and carries the unconscious Damin through the jungle in the direction the summon guides, but he is dying. {+}[+]
 * ACT IV :krinosas:forge:
 ** Break into Four
 *** ! Billy and Damin find the Forge, Voshri forgives Billy and Allia helps Damin [+] {+}
 - [ ] Billy collapses, but his screams of desperation are heard by one of the Dark Children
-- [ ] Allia heals Damin. Voshri forgives Billy, and Billy apologizes.
-*** - Billy bonds with the Dark Children and Architor, Billy gets the Dark Weapon
-- [ ] 
-*** % Architor-Revictus is born
-- [ ] The Dark Children start uploading the mass of Crystals into a sleeped Architor-Revictus when a Crystal falls through a portal from above, signaling Revictus has died.
+- ? Allia heals Damin. Voshri forgives Billy, and Billy apologizes
+*** - Billy bonds with the Dark Children and Architor, Billy gets the Dark Weapon [+]
+?
+*** - Revictus' assistant notifies Architor that Revictus is trapped.
+- [ ] Architor and the children use the weapon to open a portal into Deionis' mind. The party joins.
+- [ ] The Dark Children start uploading the mass of Crystals into a sleeped Architor-Revictus.
 ** Final Confrontation
 *** ! Architor-Revictus challenges Billy for the weapon [concluded] {concluded}
-- [ ] Billy denies Architor-Revictus' offer for the weapon in exchange for Okin and Aldwin's head.
+- [ ] Billy denies Architor-Revictus' offer for the weapon in exchange for Okin's life.
 - [ ] Architor-Revictus final battle in the Forge Lava pit. A few Dark Children disable him and join the Party.
 ** Closing Image
 *** ! The Party escapes with Dark Children from the Forge

@@ -48,10 +48,11 @@
 - [ ] Billy is staying in the Monastery but is too suspicious to participate. Damin meets people his age.
 - [ ] Billy agrees to train so he can better fight off Devinars when he encounters Okin again, and they have no other option.
 - [ ] Billy's instincts are good in training but he struggles with being too impulsive and vindictive, especially in team battles, putting himself and others at risk.
-  - [ ] Billy is looked down upon by his peers for being not born into the Monastery, which fuels his anger and vindictiveness. 
-- [ ] Damin crafts amazing modules and Avador is impressed and takes him as a personal tutee.
+  - [ ] Billy is looked down upon by his peers for being not born into the Monastery, which fuels his anger and vindictiveness.
+  - [ ] However Billy learns to trust in his teammates a little bit, but again that makes him lock down, because he knows he needs to cultivate the negative emoitions to fuel his power, so he artificially tries to raise it again.
+- [ ] Damin really creatively uses modules and Avador is impressed and takes him as a personal tutee.
 *** - Avador discovers Damin's nightmares {b-plot goal: find the Dark Weapon}
-- [ ] Though his modules are great, Damin still has a seizure during training, and it's hurting him severely. The other trainees look down on him more.
+- [ ] Though his skills are great, Damin still has a seizure during training, and it's hurting him severely. The other trainees look down on him more.
 - [ ] Billy learns that the Monastery sees Billy and Damin staying as permanent. He doesn't like this, and starts to plan an escape.
 - [ ] Avador witnesses Damin having a nightmare. Damin recognizes Intillia from his nightmare, and Avador interprets this as a prophecy.
 *** - Billy tries to escape with Damin [+]
@@ -86,7 +87,7 @@
 - [ ] Allia, Voshri and Damin surprise attack Billy's hearing and free Billy. [+]
 - [ ] A grand escape sequence with the party fighting off other Heralds. Avador comes to the party's aid.
 *** - Calkesh has found Okin, the Party squabbles [+] {+}
-- [ ] Billy convinces Damin to connect him with Calkesh, who has found Okin [+]
+- [ ] Billy convinces Damin to connect him with Calkesh, who has found Okin. Damin is a bit mad that Billy is hiding the Revenants from him. [+]
   - [ ] Calkesh wants to kill Okin himself, but Billy wants the kill for himself. Billy convinces Calkesh that Okin is a dangerous Herald and Calkesh will need backup. [-]
 - [ ] Billy is desperate and tries to convince Voshri to vote with him to change the ship's course, who is unsure about leaving the ship now that they are wanted by the Monastery. {-}
   - [ ] Allia overhears and Voshri tells Allia what their plan was, unknowingly ousting Billy's lie. Billy tries to lie again but Damin has had enough and tells Billy to give it up. Allia is furious at Billy and Damin. [-] {-}
@@ -96,25 +97,26 @@
 - [ ] The Party fighting makes the Ship nearly fall out of the sky and come within Nexon's view. Nexon shoots it down, and they are captured. 
 *** - Billy befriends Nexon, The Party plan their escape [+] {+}
 - [ ] Nexon befriends Billy, and returns him the Dark Crystal [+]
+  - [ ] A pirate insults Billy, and he let's it slide off his back
+- [ ] Nexon tells Billy that he is hunting the Leviathi. He tells the group his plan that the ship fleet will use airship balloons that will dock from the land ships to release decoys  filled with anti-Heraldry crystals for the Leviathi to eat, and then when it eats enough of them Nexon will kill it. Nexon says they shot down the airship to get another jellyfish.
   - [ ] Billy is subconsciously ashamed that he lied to Voshri.
   - [ ] Damin refuses to contact Calkesh for Billy. [-]
- - [ ] Allia and the other three plan to escape, and get the Crystal back from Billy [-] {+}
-- [ ] Billy convinces Nexon to help him go kill Okin if Billy comes with him to hunt the Leviathi [+]
+  - [ ] Allia and the other three plan to escape, and get the Crystal back from Billy. Allia's plan is to teleport to a ship in the back of the fleet, take control of it, and get close enough to the coast to portal, when Nexon is distracted and fighting the Leviathi.  [-] {+}
+- [ ] Billy convinces Nexon to help him go kill Okin if Billy comes with him to hunt the Leviathi and celebrate afterward. [+]
 - [ ] Allia and the other three advance their plan to escape. {+} [-]
 *** - Billy ruins their escape plan [+] {-}
-- [ ] Damin wants to go with Allia, and Billy and Damin argue. Billy thinks Damin will go if he doesn't do something drastic, and will die in Krinosas.
+- [ ] Damin wants to go with Allia, and Billy and Damin argue. Billy thinks Damin will go if he doesn't do something drastic, and will die in Krinosas, and then he won't get his revenge.
 - [ ] Damin betrays Billy and steals the Dark Crystal when Billy is sleeping so Voshri can tell Calkesh that Billy lied. {+} [-]
 - [ ] In fear of losing his brother to Krinosas, and to get back at them for Damin's betrayal, Billy tells Nexon about their escape plan. Nexon stops their plan and locks up Allia and Voshri. [+]
 - [ ] Damin is more distant then ever from Billy, even though Damin is not punished by Nexon.
-*** - The Leviathi Hunt [-] {+}
-? [ ]
+*** ! The Leviathi destroys the fleet and Billy loses contact with Calkesh [-] {-}
+- [ ] The Leviathi appears, and Nexon's plan begins. It goes smoothly at first. [+]
+- [ ] Billy finds out that Damin betrayed him and that Allia and Voshri are enacting their plan, with Damin's help, and explodes in indignation, destroying the ship (or maybe just an item he throws into the sea), and alerting the Leviathi. [-]
+- [ ] The Leviathi is disturbed and attacks. Billy is knocked unconscious. He loses his Dark Crystal, and with it, his connection to Calkesh.  [-] {-}
 ** All is Lost
-*** ! Allia destroys the ship's engine, the Leviathi destroys the fleet, Billy loses contact with Calkesh [-] {-}
-? In a desperate, angry attempt to escape, Allia overloads her powers to explode the ship's engine. The explosion sinks Nexon's lead crusier, and shocks the Leviathi, which attacks the fleet in a frenzy. [-] {-}
-- Billy is knocked unconscious. He loses his Dark Crystal, and with it, his connection to Calkesh.
 *** - Billy and Damin crash on Krinosas [-] {+}
 - Billy wakes up, surprised he is alive. However, Damin is very injured.
-  - Billy nurses Damin.
+  - Billy nurses Damin. He tries to use Light power Forgiveness, but he can't do it because . He just does Indignation again, because he can't do it.
   - Damin's visions grow stronger, which enhances his pain, and he summons his main to track the strong feeling he has, despite Billy's wishes.
 - However, Damin is furious at Billy when Billy blames Allia for their situation, and finally snaps when Billy is swearing that he will get his comeuppance on Allia and whining about Nexon falling through.
   - Damin tells Billy how he knows the full extent of Billy's lies to the Revenants, and how Voshri, the other Revenants, and Allia are unfairly punished, but they didn't seek revenge, unlike Billy who lets revenge consume his life.
@@ -125,12 +127,15 @@
 * ACT IV :krinosas:forge:
 ** Break into Four
 *** ! Billy and Damin find the Forge, Voshri forgives Billy and Allia helps Damin [+] {+}
-- [ ] Billy collapses, but his screams of desperation are heard by one of the Dark Children
-- ? Allia heals Damin. Voshri forgives Billy, and Billy apologizes
-*** - Billy bonds with the Dark Children and Architor, Billy gets the Dark Weapon [+]
-?
+- [ ] Billy collapses, but his screams of desperation are heard by Allia and Voshri.
+- [ ] Voshri forgives Billy, and Billy apologizes and reconciles with them. Allia uses Liquid Heraldry to stop Damin's blood loss and heal him.
+*** - Billy bonds with the Dark Children and Architor, Damin asks for the Dark Weapon [+]
+- [ ] The Dark Children help to further patch up Damin.
+- [ ] Damin ask Architor about the weapon. Architor considers but denies.
 *** - Revictus' assistant notifies Architor that Revictus is trapped.
-- [ ] Architor and the children use the weapon to open a portal into Deionis' mind. The party joins.
+- [ ] Architor and the Children use the weapon to open a portal into Deionis' mind, a Child is given the weapon. The party joins.
+- [ ] Billy sees Okin, and tries to kill him, which pulls out more Deionis personalities. [+]
+- [ ] The Children and the party have to fight off the Deionis personalities, until the other group of children can get to Okin and Revictus' body, and defend Okin from Billy.
 - [ ] The Dark Children start uploading the mass of Crystals into a sleeped Architor-Revictus.
 ** Final Confrontation
 *** ! Architor-Revictus challenges Billy for the weapon [concluded] {concluded}

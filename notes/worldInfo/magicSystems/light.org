@@ -26,6 +26,7 @@ Deflect kinetic energy back where it came from
 ** Contempt
 - see and target others weaknesses, create new weakness
 ** Hate
+** Othering?
 * Negative-Self
 ** Depressed
 ** Sorrow
@@ -47,3 +48,10 @@ light grows more, shining brighter from body, can incinerate foes
 ** Sentimental
 ** Romantic
 * Fear (debuff others)
+** Terrified
+** Anxious
+** Threatened
+** Overwhelmed
+** Insecure
+** Insignificant
+** Excluded

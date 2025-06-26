@@ -6,8 +6,8 @@ Intillia: Generosity, Discipline, Loyalty, Justice/Integrity
 
 Nexon: Creativity, Peace, Care, Joy
 
-Temperance: (Lust) [Youth, Average Person, Clergy]
-Compassion: Oktalus (Wrath) [Average Person, Nurses, Health] 
+Temperance: Rentar (Lust) [Youth, Average Person, Clergy]
+Compassion:  (Wrath) [Average Person, Nurses, Health] 
 Bravery: Votaas (Cowardice)  [Police, Military]
 Truth: Palno (Deception)  [Elderly, Scientists, Judges, Administrators, Scholars]
 
@@ -35,11 +35,11 @@ Deionis: Deception, Treason
 
 Meanthos: Decay, Sloth
 
-Rentar: Lust, Gluttony
+Commegor: Lust, Gluttony
 
-Ovolo: Corruption, Cowardice
+Oktalus: Corruption, Cowardice
 
-Sarttlmisch: Foolishness, Stagnation/Intolerance
+Parsalinah: Foolishness, Stagnation/Intolerance
 
 
 Pros: 4x4 synergy for Gods, 4 as lucky number

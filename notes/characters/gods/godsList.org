@@ -6,126 +6,149 @@ Gender:
 Ethnicity:
 
 * Big Five
-*** Aredal [ ]
-Type:
-Name:
-Gender: 
-Ethnicity:
-*** Tregale [ ]
-Type:
-Name:
-Gender: 
-Ethnicity:
+*** Aredal [A]
+Type: Total Light
+Special: All Light, Compassion Ability
+Name: Ty-Shou Xing
+Gender: M
+Ethnicity: Bei-San/Beisanian
+*** Tregalei [ ]
+Type: Tri Dark
+Special: Self-Evolution !
+Name: Trevari Galé
+Gender: M
+Ethnicity: Terillié/Terilli
 *** Olitheon [X]
 Type: Dual Space
+Special: Move Living Things
 Name: Filip ere Ducére
 Gender: M
-Ethnicity: Trentanian
+Ethnicity: Monasquen/Monaskan
 *** Nexon [A]
-Type: Dual TimeSpace
+Type: Dual Time
+Special: Melded Dual, Going into other timelines
 Name: Samson ere Ducére
 Gender: M
-Ethnicity: Trentanian
+Ethnicity: Monasquen/Monaskan
 *** Intillia [X]
 Type: Tri-elemental
-Name: Intillia Tsuman
+Special: Atomic Manipulation
+Name: Misun Ito
 Gender: F
-Ethnicity: 
+Ethnicity: Feixiangian
 * Aredal Aligned
-*** Geatro(E) [A]
-Type:
+*** Geatro [A]
+Special: When he's reading, time goes even slower
+Type: Time Subject
+Name: Ivopp Kosh
+Gender: M
+Ethnicity: Wolstammish
+*** Votaas [X]
+Special:
+Type: Love
 Name:
-Gender: 
-Ethnicity:
-*** Oktalus
-Type:
+Gender: M
+Ethnicity: Colonial
+*** Palno []
+Special:
+Type: Depression
 Name:
-Gender: 
-Ethnicity:
-*** Palno
-Type:
+Gender: M
+Ethnicity: Far West Island
+*** Tiarna [X]
+Special:
+Type: Flying
 Name:
-Gender: 
-Ethnicity:
-*** Tiarna
-Type:
+Gender: F
+Ethnicity: GaoLei
+*** Nolor [X]
+Special:
+Type: Happy
 Name:
-Gender: 
-Ethnicity:
-*** Nolor
-Type:
-Name:
-Gender: 
-Ethnicity:
+Gender: M
+Ethnicity: Kainese
 *** Revictus
-Type:
-Name:
-Gender: 
-Ethnicity:
+Special:
+Type: Dual Space
+Name: Rosthand Hon Uvrich
+Gender: M
+Ethnicity: Nairfalk
 *** Feiza(E)
 Type: Gas
-Name: Mia Si-Yeon
+Special:
+Name:
 Gender: F
-Ethnicity: Bei-Sanian
+Ethnicity: Khuan
 *** Vaskiel(E)
 Type: Liquid
+Special:
 Name: Victor Cor
 Gender: M
-Ethnicity: 
+Ethnicity: Ottencollen
 *** Theia(E)
 Type: Solid Herald
+Special:
 Name: Arellia Oralie
 Gender: F
-Ethnicity: 
+Ethnicity: Monasque
 *** Architor(E)
-Type:
-Name:
-Gender: 
-Ethnicity:
+Type: Liquid Solid
+Special: Recreate anything through visualization
+Name: Azhir Arsunni
+Gender: M
+Ethnicity: Farsunni
 *** Mezenius
 Type:
+Special: Time Object
 Name:
-Gender: 
-Ethnicity:
+Gender: M
+Ethnicity: Hyshoan
 *** Aleine
-Type:
+Type: Time Dual
+Special:
 Name:
-Gender: 
-Ethnicity:
+Gender: M
+Ethnicity: Whenran
+***
 * Tregale Aligned
 ** Tregale Five
 *** Neiman(S) [A]
 Type:
+Special:
 Name:
 Gender: 
-Ethnicity:
+Ethnicity: Terillié
 *** Deionis(D) [A]
 Type:
+Special:
 Name:
 Gender: 
-Ethnicity:
+Ethnicity: Delmian
 *** Meanthos(T) [A]
 Type: Object
+Special:
 Name:
 Gender: 
-Ethnicity:
+Ethnicity: Jaraladi
 
-
-The Meanthos in the story is not Meanthos prime. Meanthos prime died during a mission with the current Meathos allowing him to take over the timeline.
+The Meanthos in the story is not Meanthos prime. Meanthos prime died during a mission with the current Meanthos allowing him to take over the timeline.
 
 There is a council of Meanthos which Meanthos from all timeliness collaborating and assigning missions.
-*** Rentar(L) [A]
+*** Commegor (L) [A]
 Type: Light
-Name: Adul Fazil
+Special:
+Name:
 Gender: M
-Ethnicity: Farsunian
-*** Ovolo() [ ]
+Ethnicity: Colonial
+*** Parsalinah () [ ]
 Type:
-Name:
+Special:
+Name: Parsalinah
 Gender: 
-Ethnicity:
-*** Sarttlmisch() [ ]
-Type:
-Name:
+Ethnicity: Trentanian
+*** Oktalus () [ ]
+Type: Dual Space
+Special:
+Name: Sarttlmisch
 Gender: 
-Ethnicity:
+Ethnicity: Surkusch

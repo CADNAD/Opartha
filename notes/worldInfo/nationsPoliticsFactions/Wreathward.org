@@ -1,6 +1,5 @@
 * Wreathward
 Revictus uses religous overtones and administrative tricks to control the populous
-
 ** Societal Roles
 *** Clergy
 All Lords have a compliment of clergy men.
@@ -13,5 +12,31 @@ In a close race, the Mouth appoints one of the front runners
 Mostly do educated/adminstrative roles
 *** Gender
 Only Males can be Clergy
-
-
+** Nations
+(from to East to West, then North to South)
+*** Nairfalk
+- Citadel
+*** Ottencollen
+- most recently joined, enemies of Delmia
+*** Trenta
+- Old Trentanian = Middle English
+- Trentanian = New English, Lingua Franca
+- -ro M names
+*** Monasque
+- Monask in Trentanian
+*** Whenran
+- where Okin, (Cynin) Billy etc is from
+- -in, -ia M names
+- -an F names
+*** Golzen
+- -esh, -ol M names
+- former Sürkusch empire
+*** Wolstamm
+- former Sürkusch empire
+*** Terillié
+- former Sürkusch empire
+*** Sürkusch
+- Sirkush in Trentanian
+- Sarttlmisch's empire
+***
+*** Farsun

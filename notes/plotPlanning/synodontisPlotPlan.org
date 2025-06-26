@@ -20,14 +20,15 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [] Ty-Shou does not see the point in attending, Wosa has to remind him of the importance
 - [] Ty-Shou sees Kitsai and her brother and Anut
 - [] Messenger arrives delivering news of the Dragon Lord crossing into Vang Do
-- [] Coalition head commits to protecting all central Marthians 
+- [] Coalition head commits to protecting all central Marthians
+*** Chapter 2
 **** Ty-Shou meets with Maalesh
 - [] Ty-Shou watches the Cong Lang army, and some contigents of other nations leave through portals to Vang Do
 - [] Maalesh meets him there, Wosa introduces the two, she flirts with him
 - [] Wosa does much of the talking with Malesh, Ty-Shou is more interested in the army than economics
 - [] Maalesh calls Ty-Shou out direcetly
+- [] Wosa comments that Maalesh is out of line, attributes it to lack of order and civility in Vaareshi
 - [] Wosa leaves to prepare Bei-San ahead of his arrival, reminds Ty-Shou to ensure he is back in Bei-San before King Making begins
-*** Chapter 2
 **** The brother hosts a formal banquet to welcome the start of king making
 - [] Ty-Shou observes the differing fashion of the multiple nations
 - [] Meets Kitsai, she asks if he is a god like his people say he is
@@ -54,7 +55,7 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [] Kitsai laughs, confusing Ty-Shou, before saying she must leave as to not draw attention to the Bei-Sanians
 - [] Ty-Shou offers his protection to her and orders his men to take what they can and prepare to flee
 - [] Kitsai asks if he has a plan, Ty-Shou says that his light will guide them
- *** && Chapter 4
+*** && Chapter 4
 ****  Ty-Shou and Kitsai have a private conversation where she ends with asking permission to call him Ty-Shou
 - [] Ty-Shou's soldiers are prepping to move out, packing carriages
 - [] Kitsai follows Ty-Shou through the compound to his private section
@@ -78,6 +79,7 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [] They manage to leave the city, but have to walk on foot to the nearest friendly town
 - && Add a lecture here or next chapter from Ji-Xing about him needing to kill, but Ty-Shou is unable to reconcile it with his goals to help and save the people of this world
 *** Chapter 6
+** Break Into Two
 **** The party makes it on foot to a smaller nation between Cong Lang and Bei-San
 - [] The party has been traveling for a few days, King Making should start today
 - [] Kitsai has picked up some small number of followers
@@ -91,14 +93,19 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 **** Wosa tells Ty-Shou to turn Kitsai over to the monks
 - [] Wosa is outside the walls of Bei-san with troops, and Vareeshi monks when Ty-Shou arrives
 - [] Ty-Shou is confused, Wosa tells him that Anut has formally requested Kitsai be investigated by the monks for illegal non-king making murders
+<<<<<<< HEAD
 - [] Wosa says that it isn't their place to judge right and wrong for the Vareeshi, and that there are procedures in place for this. Believes they shoudl stick to tradition
 - [] Kitsai explains that Anut is the one that should be investigated and refuses to be handed over,
 - [] Lai-Ren greets them
 - [] Kitsai marvels at the wonder of the city, maintaned since the time of the Gods
 - [] Lai-ren informs Ty-Shou many of the nobles have yet to heed his call
+=======
+- [] Wosa says that it isn't their place to judge right and wrong for the Vareeshi, and that there are procedures in place for this. Believes they should stick to tradition
+- [] Kitsai explains that Anut is the one that should be investigated and refuses to be handed over
+- [] Ty-Shou sides with her, insisting she is innocent until proven guilty and that there should be no problem with her styaing in Bei-san
+>>>>>>> 7b2eca65d7d32a18b0ee03300e6a96d36f77cf34
 - [] Ji-Xing subtly accuses Lai-ren of not summoning them
 - [] Lai-ren asserts he has always been loyal, even before Ty-Shou's arrival, and that he only ever ruled in the name of Ty-Shou
-- [] Ty-Shou reissues his decree, feeling like he is loosing his grip on control he tells Lai-ren to threaten any nobles not on their
 *** %% Kitsai pleads her case to the Bei-Sanian nobility, Ty-Shou declares war 
 - [] The nobles all physically kowtow when Ty-Shou enters. He has to tell them to rise
 - [] He tell his nobles that a great injustice has come upon Cong Lang, and that Kitsai requires their help to correct it
@@ -117,7 +124,6 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [] Ji-Xing becomes Ty-Shou's second, suggest Kazon to be high up in the pyramid
 - [] Ty-Shou asks Kitsai to join her pyramid to his. She tries to politely and quietly refuse, he forces the issue and she publicly rejects him before leaving the scene
 - [] Maalesh asks him why just Cong Lang. Points out that as soon as he declares himself others will come to fight him, regardless of whether he wants to fight them. It is just the Vareeshi way, and Bei-San and Ty-Shou are too great a prize to ignore
-** Break Into Two
 *** Ty-Shou's inner circle reviews all the King Making decelerations. Wosa pushes Ty-Shou to argue with Kitsai
 *** Ty-Shou summons Kitsai to demand again that she submits.
 - [] Ty-Shou summons her to his throne room for a private audience. (Maybe Kazon can be there as named guard)

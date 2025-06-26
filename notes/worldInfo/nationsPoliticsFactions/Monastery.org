@@ -1,0 +1,43 @@
+* NATION NAME
+
+* Environment
+
+* Population
+** Ethnic Groups
+** Heraldry
+
+* Culture
+People are encouraged to engage in their ethnic cultures, but not mandatory
+** Apparel
+** Music
+** Trades
+Liquid Heralds serve to filter water, and as pumps to get water around
+** Language
+
+** Taboos and Customs
+** Subcultures
+*** Divergent
+*** Accepted
+*** Unaccepted
+
+* Society
+** Government Type
+*** Factions
+**** Isolationists
+- Think Intillia is a divinely inspired prophet, but not an actual god.
+- Believe the world is morally corrupt, and that they will be corrupted by contact with it
+- 
+**** Sentinel
+- See Intillia as just a perosn
+**** Revenants
+** Religion and Philosophy
+** Class Structure
+** Technology
+** Economics
+** Military
+
+# Affiliations
+## Allies
+## Enemies
+## Subjects
+

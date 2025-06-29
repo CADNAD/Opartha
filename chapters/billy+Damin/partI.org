@@ -1,9 +1,10 @@
-#+title: Part I
+#+title: Billy
 * To-Do
 - make more moments showing Billy's tenderness towards Damin
   - sacrifices food for Damin
   - plays game
 - Billy recounts how he didn't have time to feel anything after killing Aldwin
+- for chapter i-v, swap time powers for light ones
 * Chapter I
 "HRGH!" *Chhnk.*
 "HRGH!" *Chhnk.*
@@ -664,11 +665,13 @@ Just as soon as the ring of the shot faded, Billy snapped back into alertness--
   But he froze as the crowd scattered and he lowered his gun. A bald man, in his early thirties, stared right at him, the only one in a sea of panic to spot the killer. With just a look, he said to Billy, "You-- I know you did this."
 And Billy knew his eyes returned a look of pure recognition.
 "Okin?"
-Billy raised the sixshot at the bald man, but the crowd interspersed like a mass of crows, changing the background until the bald man no longer remained. Billy thrust through the crowd a few paces. His eyes were fixed on the same spot where he saw the bald man. He was yanked back.
+Billy raised the sixshot at the bald man, but the crowd interspersed like a mass of crows, a sea of skin crossing and overlapping until the bald man no longer remained in Billy's sight. Billy thrust through the crowd a few paces. His eyes were fixed on the same spot where he saw the bald man.
+He was yanked back.
 "Billy!" Billy turned to see Damin's arms on his shoulder.
 "He's there! Okin! I saw him!" Billy spit and squirmed from Damin's grip.
 "If you try to find him, we'll be caught and killed!" Damin said. "What justice will that be?"
- Billy's bullish rage receded. He caught the armored Devinars descending on the crowd, and Okin nowhere in sight. He stuffed his gun back in his bag, and then turned and motioned with Damin to morph into the panicked, dispersing crowd.
+ Billy's bullish rage receded. He caught the armored Devinars descending on the crowd, and Okin nowhere in sight.
+ He stuffed his gun back in his bag, and then turned and motioned with Damin to morph into the panicked, dispersing crowd.
  Shouting and flailing limbs spiked the atmosphere, shrinking Billy's perception to the immeadiate. Commoners burst back and forth like cotton balls in a vacuum, spirred by panic, but unsure where to really go. Billy's determination rushed back to his head; he held his bag close to his chest and grabbed his brother on a cut for where he hitched the horses.
  "Get on!" Billy shouted. Damin pulled himself onto his horse, and Billy cut both the hitches. He hoisted himself up onto his horse, and started to turn it around, when he heard rapid galloping approach him--
  "Billy!"
@@ -676,7 +679,7 @@ Billy raised the sixshot at the bald man, but the crowd interspersed like a mass
  Billy turned around and sprinted off. He could see Damin's horse ahead, far through the crowd. He shoved through, pushed forward by the encroaching rumble of the steel boots behind him.
  He dodged an approaching carriage. He passed face after face as andrenaline took over. The steel rumble did not stop. He sweated at the terrified anticipation of another plume of fire headed his way. He tried to hide behind crowds and carriages as he passed them, hoping the wrath of the Rothars would not permit them to burn down a crowd.
  "That guy! GET HIM!"
- Billy turned to see an approaching duo of Rothars from an intersecting street. They were jolted alive as they saw Billy running. Billy swerved off to the far side of a carriage, so they were blocked. Though his body could barely handle it, he sped up.
+ Billy turned to see an approaching duo of Devinars from an intersecting street. They were jolted alive as they saw Billy running. Billy swerved off to the far side of a carriage, so they were blocked. Though his body could barely handle it, he sped up.
  It seemed like both seconds and hours by the time he reached the outer wall. The boots of the Rothars had fallen behind, but they still rumbled in the distance. He glanced for Damin through the gate, and saw him atop his horse, next to the long line slowly moving in and out of the Citadel.
  Billy sprinted through the gate, passing once again from the dense, architectured space of the Citadel out into the outside world.
  "Rothars at the gate! The man running! Stop him!"
@@ -758,43 +761,56 @@ The dark-skinned man smiled.
 "Well. That's-- ," Rakaal chuckled. "A bit complicated."
 "What the fuck is that supposed to mean?" Billy asked.
 "It's not a fixed location," Allia said. "The Monastery travels in the clouds, far above the ground."
-"Okay, okay. That's enough of your fairy tails. Are you people fucking delusional?" Billy stomped towards the back of the ship, where a cabin lay.
+"Okay, okay. That's enough of your fairy tales. Are you people fucking delusional?" Billy stomped towards the back of the ship, where a cabin lay.
 "I mean, Billy, they got a flying ship, wouldn't it make sense they live in the sky?" Damin interjected.
-"I mean, you're all Heralds... maybe this is all one big Illusion. Is there a fourth person on board? Cause it just seems like something else is going on here," Billy eyed the three Heralds like a hawk.
+"I mean, you're all Heralds... maybe this is all one big Illusion. Is there a fourth person on board? Cause it just seems like something else is going on here," Billy eyed the three Heralds like a hawk. His senses rose as his Suspicion grew, but he just felt the breeze harder.
 "I know it's hard to believe, but we are serious. We are only here to help you, and hope you will join us," Allia said. "Now it looks like you've had a long week. Please, we have an empty room for you. Why don't we get you some rest."
-Billy's insides prickled at the prospects of sleeping on the ship of these oddballs. He *was* exhausted, but he planned to cycle staying on watch with Damin.
+Billy's insides prickled at the prospects of sleeping on the same ship as these oddballs. He *was* exhausted, but he planned to cycle staying on watch with Damin.
 "Okay," Billy nodded. "But this isn't over. You're not gonna make any decisions for us until I find out *exactly* what's going on here."
 Allia gave a curt nod. "Of course. As I said, you'll experience it soon enough."
 Billy followed Damin's childish gaze off into the endless horizon of the evening sky, the explosion of violets and crimsons before they followed Allia and Voshri into the cabin of the ship.
 
 
 "Can you believe it? We're flying!" Damin bounced up and down on his cot.
-"Yeah, yeah," Billy paced around the room, checking for anything that looked suspicious. The room was bare-bones, with two beds, and a nightstand upon which a lit candla nd a small pile of books lay. " But these people are so *weird*. And that silver-haired chick's stiffer than an Apathasawian cactus in the middle of a drought."
+"Yeah, yeah," Billy paced around the room, checking for anything that looked suspicious. The room was bare-bones, with two beds, and a nightstand upon which a lit candla nd a small pile of books lay. "But these people are so *weird*. And that silver-haired chick's stiffer than an Apathasawian cactus in the middle of a drought."
 "They saved our *lives*, Billy," Damin said.
 "Eh. We could've made it out of that."
-Damin gave Billy a look that said *seriously? Even you don't really believe that.*
+Damin gave Billy a look that said, *Seriously? Even you don't really believe that.*
 "Okay, fine."
 Billy sighed. He tried to think about what the future held, but there was nothing. It seemed like his situation in Apathasaw was an eternity, the starving, dry, desperate grind for the next meal. Could a hungry dog ponder the future, the meaning of life, the pursuit of wisdom and right living? Of course not. Billy's hunger for revenge and worries about Damin were the closest thing to non-animal desires that colored his days.
 "Isn't this what you've always wanted? An opportunity for something new, to connect with people that might actually care, instead of foremen who want to beat every living breath out of till you have none left?"
-Billy closed his mouth, and met Damin's wide, innocent eyes. As what had just been stirring in his mind, no, he had never really pictured any clear fantasy of the sort, only a desperate, uncolored, thirst for relief. If anything, his fantasies had been ones of death. But despite his small imagination, something *new* did sound appealing.
+Billy closed his mouth, and met Damin's wide, innocent eyes. Sometimes it seem like his brother could read his mind. But as for what had actually just been stirring in his mind, no, he had never really pictured any clear fantasy of the sort, only a desperate, uncolored, thirst for relief. If anything, his fantasies had been ones of death. But despite his small imagination, something *new* did sound appealing.
 "Yeah, I guess, if there isn't a disease-ridden rusty knife hidden underneath the tapestry," Billy said.
 Damin sighed and sat criss-crossed on his bed. "Billy, I know you've had it rough providing for us, and I know others have always been brutal towards you, but you can't always just go through life-- you know."
 "Listen Damin," Billy drew closer and knelt down next to Damin's bed, until he was below his eye level. "This is something you got to understand. I know you don't really remember Metheno, but I thought you would have known it by now after what happened to us at the circus. If you let your guard down, if you show weakness-- people will take from you, or they will hurt you, or both."
 "But--"
 "EVEN those who might wish to help you. It's not even just a conscious thing. It's an instinct that all men and all animals share. Things are scarce in this world. You must be alert. You must show strength."
-Damin pursed his lips, and Billy could tell the boy was seriously processing what he said. *Good*, he thought. *Better he learns this lesson the easy way.*
+Damin pursed his lips, and Billy could tell the boy was seriously processing what he said. *Good*, he thought. *Better he learns this lesson the easy way-- or, at least not any harder than he's already had it.*
 "Alright. Get some sleep."
 Billy stood up to snuff out the candlelight.
 "Billy-- if there's nothing wrong with these people, are we gonna stay here?"
 Billy stopped, his fingers hovering over the flickering fire. It seemed like if he accepted these people, it would change their entire future. And the only thing in the future Billy had thought of for the past few years was visiting his dad, and killing those primarily responsible for his death, Aldwin and Okin.
-"We'll have to see what they do."
+"We'll have to see what they do. And then we'll do what we have to."
 He snuffed out the candle.
 He waited until he heard Damin turn over, and then laid down in his bed.
-Aldwin and Okin. In all the adrenaline, in the chaos of The Citadel, Billy never stopped to realized that he *did* kill Aldwin. To relish that he did serve justice. He searched for feelings of accomplishment, of retribution, of relief, in the utter darkness, where deep feelings could best arise.
-But none arose. Perhaps it was just because of all this nonsense, or because him immediately seeing Okin set his mind on running the back half of the marathon.
-He knew why the catharsis owed to him of seeing his father again was unpaid, because his father wasn't given a grave, and thus, he never really saw him again. But where the sense of justice for killing Aldwin, the man who ruthlessly executed his best friend and tried to burn his son alive, should have been, there was just void.
-Billy turned over in his bed. Yes, it was because his conscience was serious, it would not be satisfied with just one half of the job done. He gathered up all his rage, his strength, and focused on Okin. The greatest betrayal of all, from his childhood best friend. A man who needed to die.
-<<<<<<< HEAD
-=======
-\
->>>>>>> 8f8cc527fac50637087beff935f77e717f8f94a9
+Aldwin and Okin. In all the adrenaline, in the chaos of The Citadel, Billy never stopped to realized that he *did* kill Aldwin. To relish that he did serve justice, that he fulfilled his fantasy of ten years in one moment. He searched for feelings of accomplishment, of retribution, of relief, in the utter darkness, where deep feelings could best arise.
+But none arose. Perhaps it was just because of all this nonsense, or more likely, because him immediately seeing Okin afterward set his mind on running the back half of the marathon.
+He knew why the catharsis owed to him of seeing his father again was unpaid, because his father wasn't given a grave, and thus, he never really saw him again. But where the sense of justice for killing Aldwin, the man who ruthlessly executed his best friend and tried to burn that man's son alive, should have been, there was just void.
+Billy turned over in his bed. Yes, it was because his conscience was serious, it would not be satisfied with just one half of the job done. He gathered up all his rage, his strength, his Resentment, and focused on Okin. The greatest betrayal of all, from his childhood best friend. A man who needed to die.
+* Nexon Chapter
+"You see the thing is about these things, especially ones THIS big, is that they're tougher than us regular Heralds. You can't just walk up to them with a pile of Shell and make their powers go away, and even stabbing them with a Shell spear won't do enough, unless you do it enough times till it looks like a big ol' snake had child with a big ol' porcupine. And that's not really doable, even with all the Time in the world, trust me, I'd know. But the thing about this kid is as a Spacie he's an especially tricky case, cause let's say you're somehow able to get a huge pile of it, he'll sense before it's able to really disable his Heraldry, and he'll just fuck right off. So, we need him to get exposed to a huge amount, without him knowing, until by the time he knows it's too late and his powers are already gone."
+Billy nodded.
+"And you know what all us boys like, men or beast? A good meal. So we stuff some Shell into several crates full of fishies. It'll take him some time to digest it enough and the Shell really to be exposed to his body, giving us enough time to feed him quite a few. And when he's tasted enough, I'll swim down there and give him a good ass-kickin'."
+* Krinosas First Chapter
+"I FORGIVE YOU!" Billy's hands shook as he tried to concentrate Light in his hands. "I FORGIVE YOU!"
+"Please, PLEASE, LET ME FORGIVE! I LOVE you. So I *must* FORGIVE you! Why is there no Forgiveness in me!?"
+The Light energy glowed in Billy's hands, and then he clutched a piece of driftwood, and it grew red. Indignation. He threw the driftwood in the air. It exploded, chips of wood falling around the beach.
+"ARGH!" He screamed. "I forgive--,"
+Billy caught himself, and swalllowed. His eyes grew red.
+"I don't forgive her. She's why we're here."
+He looked down.
+"I don't forgive him. Or HIM. They're why we're *here*. I still want to kill him! So of course I don't forgive him! I don't even forgive *him*! He should have protected you better! I don't forgive me, *I* should've protected you better! I don't-- I don't-- I don't forgive you..."
+He looked back to Damin's dead face. His eyes welled with tears.
+"I don't forgive y-you. I-- don't-- I don't--"
+"Oh-- I don't forgive you! I DON'T FORGIVE YOU!"
+Billy collapsed over Damin. His tears soaked into the boy's shirt.

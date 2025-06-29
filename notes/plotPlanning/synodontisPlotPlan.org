@@ -78,8 +78,8 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [] Ty-Shou is unable to kill his attackers, Ji-Xing (or is it better if it's Kazon) kills the attacker 
 - [] They manage to leave the city, but have to walk on foot to the nearest friendly town
 - && Add a lecture here or next chapter from Ji-Xing about him needing to kill, but Ty-Shou is unable to reconcile it with his goals to help and save the people of this world
-*** Chapter 6
 ** Break Into Two
+*** Chapter 6
 **** The party makes it on foot to a smaller nation between Cong Lang and Bei-San
 - [] The party has been traveling for a few days, King Making should start today
 - [] Kitsai has picked up some small number of followers

@@ -1,0 +1,62 @@
+#+title: Old Trentanian
+* Writing System
+Old Trentanian, aka Sarlanian, seems to use a logography system, but in actuality, it is just an extremely lengthy alphabet, where each what will be deemed "complex letter" is also a word with meaning, and then those "large letters" are actually used in pure ideography, not logography. A complex letter is simply a one-syllable word. The main theory of Sarlanian is to have a list of easily differentiable one-syllable words (do not use sounds that are too difficult to make, or "falling vs rising"/"short vs long"), which must be memorized and also link to symbols (or really, a large alphabet).
+
+Sarlanian is a language that is designed to be spoken and parsed quickly, but can be a bit cumbersome to write. A Sarlanian word in itself can store a lot of information about its etymology, which is why it has remained as a very popular academic language in the Citadel. The Sarlanian language is actually very analagous to the use of simple number bases to describe larger numbers, where basic symbols are analagous to 0s and 1s in binary, or 1-10 in decimal.
+
+Here, the common sounds in the Sarlanian language will be discussed using romanized terms.
+
+There are technically 10 vowels, best described phonetically as:
+ah
+ee or i
+eh
+ai or eye
+oi
+oh or o
+ow
+aw
+ew or u or oo
+uh
+
+Vowels are always viable in the same places, but consanants are technically divisible into 4 categories which affect where they can be used in conjunction with other vowels and consanants.
+
+Only-first-viable:
+- Y
+- H
+
+First-and-last-and-last-second viable (total 13):
+- Z
+- B
+- P
+- G
+- N
+- T
+- K
+- F
+- V
+- CH/J
+- ZH
+- TH
+
+Not-last-viable-but-first-and-second-viable:
+- W
+
+First-and-second and last-first viable:
+- S/Z
+- R
+
+For example, "hew" works but "ewh" does not, but "zew" and "ewz" do work. "twuh" works but "uhw" does not, but "tsuh" and "uhs" work.
+
+In total, with 17 consanants that be first before a vowel, and 10 vowels, there are 170 two-"letter" words with consanant-before vowel. With 14 consanants that can be used after a vowel, and 10 vowels, there are 140 two-"letter" words with consanant-after vowel. Thus, there are 310 two-"letter" words. However, since this is not an alphabetized language, several three-"letter" words, and a small amount of four-"letter" words,  are actually equivalent to this form of two-"letter" words, those being VCC, CVC, CCV, CCVC, CVCC.
+
+This means that for VCC, there are:
+
+One exception is that "ths" and "ts" are deemed too similar and therefore are treated as one, which is closer to pronounced "ths" when before a vowel and "ts" when after.
+
+For fluency in the Sarlanian language, almost all of these must be learned and serve as the basis of the Sarlanian language.
+
+Sarlanian is a language that is designed to preserve efficiency in both the speaking length as well as preserving their concept of being able to intuit a words meaning from its parts. To do this, Sarlanian words often have a shorter and longer version. However, this is where Sarlanian leaves room to evolve and also where context matters; the shortened versions are technically interchangeable, and sometimes the same shortened version will be used for two different words in two different contexts, they are meant to be derived from the longer version. the shortened version is less often used in writing as it is often just as efficient to write the longer version.
+
+
+
+However, even though some sounds are viable they are more uncomfortable to say, and have thus been somewhat avoided, at least using them to combine to create more complex words.

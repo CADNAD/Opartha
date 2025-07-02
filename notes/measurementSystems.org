@@ -1,0 +1,11 @@
+#+title: Measurement Systems
+* Distance
+** Wreathward
+*** length
+(base/m-ish): nirlongo
+(km-ish length): Dialongo, its the diameter of the Citadel, and actually the first measurement
+(cm): Shörlongo
+*** weight
+(base/kg):
+** Marthia
+()

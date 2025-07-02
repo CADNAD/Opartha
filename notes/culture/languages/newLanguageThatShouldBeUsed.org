@@ -1,0 +1,200 @@
+#+title: Old Trentanian
+* Basics
+Old Trentanian, aka Sarlanian, seems to use a logography system, but in actuality, it is just an extremely lengthy alphabet, where each what will be deemed "complex letter" is also a word with meaning, and then those "large letters" are actually used in pure ideography, not logography. A complex letter is simply a one-syllable word. The main theory of Sarlanian is to have a list of easily differentiable one-syllable words (do not use sounds that are too difficult to make, or "falling vs rising"/"short vs long"), which must be memorized and also link to symbols (or really, a large alphabet).
+
+Sarlanian is a language that is designed to be spoken and parsed quickly, but can be a bit cumbersome to write. A Sarlanian word in itself can store a lot of information about its etymology, which is why it has remained as a very popular academic language in the Citadel. The Sarlanian language is actually very analagous to the use of simple number bases to describe larger numbers, where basic symbols are analagous to 0s and 1s in binary, or 1-10 in decimal.
+
+Here, the common sounds in the Sarlanian language will be discussed using romanized terms.
+
+There are technically 10 vowels, best described phonetically as:
+ah
+ee or i
+eh
+ai or eye
+oi
+oh or o
+ow
+aw
+ew or u
+uh
+
+Vowels are always viable in the same places, but consanants are technically divisible into several categories which affect where they can be used in conjunction with other vowels and consanants.
+
+VIABLE IN 1 SPOT ONLY:
+Set I: Only-first-alone-viable:
+- H
+- Y
+
+VIABLE IN 2 SPOTS:
+Set II: Not-last-viable-but-first-and-second-viable:
+- W
+
+VIABLE IN 3 SPOTS:
+Set III: First-and-second-and-last-first viable:
+- R
+- L
+
+Set IV: First-and-last-first-or-last-second viable (total 13):
+- G
+- P
+- T
+- B
+- D
+- SH/ZH
+- K
+- M
+- F
+- V
+- N
+- J/CH
+- TH
+
+Set V: First-and-last-first-and-last-second viable:
+- S/Z
+
+For example, with the brackets in vowels, "h(ew)" works but "(ew)h" does not, but "z(ew)" and "(ew)z" do work. "tw(uh)" works but "(uh)w" does not, but "ts(uh)" and "(uh)s" work.
+
+In total, with 19 consanants [I, II, III, IV, V] that be first before a vowel, and 10 vowels, there are 190 two-"letter" words with consanant-before vowel. With 16 [III, IV, V] consanants that can be used after a vowel, and 10 vowels, there are 160 two-"letter" words with consanant-after vowel. Thus, there are 350 two-"letter" words. However, since this is not an alphabetized language, several three-"letter" words, and a small amount of four-"letter" words,  are actually equivalent to this form of two-"letter" words, those being VCC, CVC, CCV, CCVC, CVCC.
+
+Therefore:
+For CVC, there are 19 consanants [I, II, III, IV, V] * 10 vowels * 16 [III, IV, V] consanants, or 3040 combinations.
+For VCC, there are 10 vowels * (15 last-first [III, IV] * 1 last-second [V]) + (3 last-first [III, V] * 13 last-second [IV] + 2 [V]) consanants, or 560 combinations.
+For CCV, there are 19 first [I, II, III, IV, V] * 3 second [II, III] consanants * 10 vowels, or 220 combinations.
+For CCVC, there are 19 first [I, II, III, IV, V] * 3 second [II, III] consanants * 10 vowels * 16 last-first [III, IV, V] consanants, or 9120 combinations.
+For CVCC, there are 19 consanants [I, II, III, IV, V] * 10 vowels * (15 last-first [III, IV] * 1 last-second [V]) + (3 last-first [III, V] * 13 last-second [IV] + 2 [V]) consanants, or 10640 combinations.
+
+Not every combination is used, and there are many combinations that are barely suitable and thus have no words. For example, "ths" and "ts" are deemed too similar and therefore are treated as one, which is closer to pronounced "ths" when before a vowel and "ts" when after. There are also many words that have a "complex letter" aka monosyllabic version, and an extremely similar multisyllabic version. The CV and VC are not usually use, only for words that will almost definitely begin a sentence, as they can be confused. For example, let's say we have a word that sounds like ahr, from ah + r, and a word "baht" from b + ah + t, and are actually saying both words in succession. It is indistinguishable from another set of words, "bah" (b + ah) and "tahr" (t + ah + r), when said in succession, even though one is two monosyllabic words and another is one dualsyllabic words with a different meaning. This is why the VC and CV formats are usually avoided or always put at the beginning of a sentence. On the flip side, the most commonly used format, especially as a ratio to the actually used combinations over total possible combinations, is by far the CVC and CCV formats. For fluency in the Sarlanian language, almost all of these formats must be learned and serve as the basis of the Sarlanian language.
+
+Sarlanian is a language that is designed to preserve efficiency in both the speaking length as well as preserving their concept of being able to intuit a words meaning from its parts. To do this, Sarlanian words often have a shorter and longer version. However, this is where Sarlanian leaves room to evolve and also where context matters; the shortened versions are technically interchangeable, and sometimes the same shortened version will be used for two different words in two different contexts, they are meant to be derived from the longer version. the shortened version is less often used in writing as it is often just as efficient to write the longer version.
+
+
+
+However, even though some sounds are viable they are more uncomfortable to say, and have thus been somewhat avoided, at least using them to combine to create more complex words.
+* Basic Vocabulary
+** VC
+
+** CVC / CCV
+The first consanant in a complex letter is always the most important to determining the influence of its meaning, as it is always present.
+
+The "G" consanant is associated with moods, humanity, psychology and the emotional landscape or anything it touches.
+The "P" consanant is associated with society, group dynamics, politeness, ethics, positive change, and politics.
+The "T" consanant is associated with the abstract, intellectual, theoretical, formuliac, and mathematical.
+The "B" consanant is associated with wildlife and nature.
+The "D" consanant is associated with orientation, movement, adverbs and measurement.
+The "SH/ZH" consanant is associated with the body, health, and movement.
+The "K" consanant is associated with human-made objects and tools.
+The "M" consanant is associated with war, opposition, and negative change.
+The "F" consanant is associated with observation, aesthetics and the appearance of things.
+The "V" consanant is associated with law, order, hierarchy and declaratives.
+The "N" consanant is associated with the religious, spiritual, hierarchy and the hidden.
+The "J/CH" consanant is associated with domestic life, routine, roles, and personal relationships.
+The "TH" consanant is associated with language itself, archetypes, entertainment and art.
+
+The "S/Z" consanant is associated with verbs, movement, and transformation.
+The "R" consanant is associated with plurals, groups, and the world.
+The "L" consanant is associated with differences, adjectives and comparisons.
+The "W" consanant is associated with adjectives and opposites, or the lack of something.
+
+The "Y" consanant is associated with commerce, trade, and business.
+The "H" consanant is associated with the lack of something.
+
+| PRONUNCIATION | DEFINITION              |
+|---------------+-------------------------|
+| GAHN          | Satisfied, Calm         |
+| GIG           | Anxious, High-Strung    |
+| GOWG          | Happy, Cheery, Childish |
+| GWAIN         | Insane, Unreasonable    |
+| GEWSH         | Horny, Estatic          |
+| GUHSH         | Tired, Exhausted        |
+| GOWP          | Powerful, Proud         |
+| GWAHSH        | Hungry, Desperate       |
+| GAIB          | Disgusted               |
+| GOHN          | Sad                     |
+| GEHR          | Appreciated, Recognized |
+| GWAWCH        | Naked, Revealed         |
+| GAHG          | Emotions, Emotional     |
+| GEHCH         | Romantic, Love          |
+| GIB           | Fear of the environment |
+| GIN           | Adulation, Submission   |
+| GWEW          | Cold, Dull              |
+| GWAICH        | Bored                   |
+| GWAIG         | Depressed, Dull         |
+| GAWSH         | Angry                   |
+| GLOIP         | Greed                   |
+| GLAICH        | Envy                    |
+| GLOHM         | Confident, often overly |
+| YAHL          | Trade                   |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |

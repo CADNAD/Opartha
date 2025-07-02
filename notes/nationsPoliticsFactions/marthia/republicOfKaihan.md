@@ -57,7 +57,7 @@ The Helhan is held four times per year. The first session is primarily for senat
 
 **The Council of Tides**: (This is a reference so maybe we need to change it) Members of this council govern the direction and strength of the current produced by the Water Heralds in the bay. They are also in charge of approving and arranging the docking of all ships entering Kaihan.
 
-
+Council of Foreign Affairs: Council of Piracy
 
 ## Religion and Philosophy
 

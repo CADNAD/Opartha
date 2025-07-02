@@ -24,6 +24,8 @@ Si - Moderate Body of Water (Lake-puddle)
 
 Sei - Small body of water (puddle)
 
+Leesi - River
+
 Ship - Hele
 
 Shray - Land
@@ -34,7 +36,7 @@ Heen - Warrior
 
 Sheen - Water Warrior
 
-Sioum -Fish
+Sioum - Fish
 
 Shrium - Animal
 
@@ -53,5 +55,7 @@ Rutk - Want
 Han - together
 
 Kaihan - collective
+
+Lee - Fast
 
 ## 

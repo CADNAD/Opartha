@@ -74,127 +74,219 @@ However, even though some sounds are viable they are more uncomfortable to say, 
 ** VC
 
 ** CVC / CCV
-The first consanant in a complex letter is always the most important to determining the influence of its meaning, as it is always present.
+The first consanant in a complex letter is always the most important to determining the influence of its meaning, or more meaningfully, it is almost always the category in which the word is encapsulated, and it is always present.
 
-The "G" consanant is associated with moods, humanity, psychology and the emotional landscape or anything it touches.
-The "P" consanant is associated with society, group dynamics, politeness, ethics, positive change, and politics.
+The "G" consanant is associated with moods, humanity, psychology, mind, personal things, personality, the human experience, subjectivity, and the emotional landscape or anything it touches.
+The "P" consanant is associated with society, large group dynamics, politeness, ethics, positive change, and politics.
 The "T" consanant is associated with the abstract, intellectual, theoretical, formuliac, and mathematical.
-The "B" consanant is associated with wildlife and nature.
+The "B" consanant is associated with wildlife and nature, and the colors green and yellow.
 The "D" consanant is associated with orientation, movement, adverbs and measurement.
-The "SH/ZH" consanant is associated with the body, health, and movement.
-The "K" consanant is associated with human-made objects and tools.
-The "M" consanant is associated with war, opposition, and negative change.
-The "F" consanant is associated with observation, aesthetics and the appearance of things.
+The "SH/ZH" consanant is associated with the body, health, the sense of touch, and movement, and skin tones.
+The "K" consanant is associated with human-made objects and tools, and the color grey.
+The "M" consanant is associated with war, opposition, warm colors, and negative change.
+The "F" consanant is associated with observation, aesthetics, the sense of sight and the appearance of things.
 The "V" consanant is associated with law, order, hierarchy and declaratives.
-The "N" consanant is associated with the religious, spiritual, hierarchy and the hidden.
-The "J/CH" consanant is associated with domestic life, routine, roles, and personal relationships.
-The "TH" consanant is associated with language itself, archetypes, entertainment and art.
+The "N" consanant is associated with the religious, spiritual, hierarchy, spiritual or magical power, and the hidden, and the colors blue and purple.
+The "J/CH" consanant is associated with domestic life, routine, roles, small groups, the sense of touch, and personal relationships.
+The "TH" consanant is associated with language itself, archetypes, entertainment, the sense of hearing, and art.
 
-The "S/Z" consanant is associated with verbs, movement, and transformation.
-The "R" consanant is associated with plurals, groups, and the world.
-The "L" consanant is associated with differences, adjectives and comparisons.
-The "W" consanant is associated with adjectives and opposites, or the lack of something.
+The "R" consanant is associated with movement, and transformation when before the vowel but permanence when after the vowel, and transparency or changing colors. Also associated with verbs.
+The "S/Z" consanant is associated with groups, the world, amalgamation, and plurals or a large amount when at the end of a word, and the color white.
+The "L" consanant is associated with differences, adjectives and comparisons, or a small amount/singular when at the end of a word.
+The "W" consanant is associated with adjectives and opposites, or the lack of something, and the color black.
 
-The "Y" consanant is associated with commerce, trade, and business.
-The "H" consanant is associated with the lack of something.
+The "Y" consanant is associated with commerce, trade, and business, and the color gold.
+The "H" consanant is associated with the lack of something and the color black.
 
-| PRONUNCIATION | DEFINITION              |
-|---------------+-------------------------|
-| GAHN          | Satisfied, Calm         |
-| GIG           | Anxious, High-Strung    |
-| GOWG          | Happy, Cheery, Childish |
-| GWAIN         | Insane, Unreasonable    |
-| GEWSH         | Horny, Estatic          |
-| GUHSH         | Tired, Exhausted        |
-| GOWP          | Powerful, Proud         |
-| GWAHSH        | Hungry, Desperate       |
-| GAIB          | Disgusted               |
-| GOHN          | Sad                     |
-| GEHR          | Appreciated, Recognized |
-| GWAWCH        | Naked, Revealed         |
-| GAHG          | Emotions, Emotional     |
-| GEHCH         | Romantic, Love          |
-| GIB           | Fear of the environment |
-| GIN           | Adulation, Submission   |
-| GWEW          | Cold, Dull              |
-| GWAICH        | Bored                   |
-| GWAIG         | Depressed, Dull         |
-| GAWSH         | Angry                   |
-| GLOIP         | Greed                   |
-| GLAICH        | Envy                    |
-| GLOHM         | Confident, often overly |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
-|               |                         |
+| PRONUNCIATION   | DEFINITION                |
+|-----------------+---------------------------|
+| // emotions     |                           |
+| GAHN            | Satisfied, Calm           |
+| GIG             | Worried, High-Strung      |
+| GOWG            | Happy, Cheery, Childish   |
+| GRAIT           | Insane, Unreasonable      |
+| GEWSH           | Horny, Estatic            |
+| GUHSH           | Tired, Exhausted          |
+| GOWP            | Powerful, Proud           |
+| GWAHSH          | Hungry, Desperate         |
+| GAIB            | Disgusted                 |
+| GOHN            | Sad                       |
+| GEHR            | Appreciated, Recognized   |
+| GWOICH          | Naked, Revealed           |
+| GRAHG           | Emotions, Emotional       |
+| GEHSCH          | Romantic, Love            |
+| GIB             | Fear of the environment   |
+| GIN             | Adulation, Submission     |
+| GWEW            | Cold, Detatched, Dull     |
+| GWOHCH          | Bored                     |
+| GWAIG           | Depressed, Dull           |
+| GOHM            | Angry                     |
+| GLOIP           | Greed                     |
+| GLAICH          | Envy                      |
+| GLOHM           | Confident, often overly   |
+| GWUHSH          | Hurt, Pain                |
+| GOIT            | Curious                   |
+| GWIP            | Suspicious                |
+| GAWM            | Frustrated, Oppositional  |
+| GLUHP           | Offended, Indignant       |
+| GWOHWP          | Discouraged, Negative     |
+| GWEHV           | Unstable, Neurotic        |
+| GLOIN           | Guilty                    |
+| GLUHV           | Inferior                  |
+| GWUCH           | Disrespected              |
+| GWUSH           | Stressed/Overwhelmed      |
+| GUHG            | Friendly/Compassionate    |
+| GUHCH/GUHP      | Friendly                  |
+|                 |                           |
+| //tempermanents |                           |
+| GOHRM           | Irritable, Choleric       |
+| GOWRG           | Sanguine                  |
+| GRAIRT          | Manic                     |
+| GIRG            | Anxious                   |
+| GWIRP           | Paranoid, Not trusting    |
+| GLOHRM          | Arrogant                  |
+| GWAIRG/HUHRG    | Low Energy, Depressed     |
+| GREWP           | Social, Emotive           |
+| GUHRP           | Polite, Reasonable        |
+| GEHRT           | Rational, Measured        |
+| GLOIR           | Unique, Eccentric         |
+| GWOHRCH         | Boring, Conformist        |
+| GWORF           | Superficial, Vain         |
+| GLAHRSH         | Assertive                 |
+| GLISTH          | Talkative, Open           |
+| GWITH           | Quiet, Reserved           |
+| GEWRM           | Stubborn                  |
+| GWEP/YEWG       | Greedy, Miserly           |
+| GWUHT           | Stupid, Phillistine       |
+| GAHT            | Intellectual, Ivory Tower |
+| GLUHT           | Debating, Curious         |
+| GLUHTH          | Funny                     |
+| GAHR            | Stiff, Humorless          |
+| GWECH/HALG      | Morbid, Creepy            |
+|                 |                           |
+|                 |                           |
+| // life stages  |                           |
+| GROIB           | Baby                      |
+| GAHG            | Child                     |
+| GROSH           | Adolescent/Teen           |
+| GOHCH           | Adult                     |
+| GAIN            | Elder                     |
+| GROM            | The Dying                 |
+| GEHRN/HEHSH     | The Dead                  |
+|                 |                           |
+| // heraldry     |                           |
+| SEWN            | Heraldry, the Heavens     |
+| GRAHB           | Light                     |
+| GROHT           | Dark                      |
+| RAIRD           | Time                      |
+| DRAHSH          | Space                     |
+| BAHLSH          | Elements                  |
+| GAHF            | Illusion                  |
+| GRUHG           | Mind                      |
+| TUHGS           | Creation                  |
+| GRAIRSH         | Subject                   |
+| RAIRK           | Object                    |
+| DRUHD           | Transportation            |
+| DREHSH          | Teleportation             |
+| BAHRSH          | Solid                     |
+| BRAHSH          | Liquid                    |
+| BWAHSH          | Gas                       |
+| BEWN            | Crystal                   |
+|                 |                           |
+| //numbers       |                           |
+| THOITH          | Numbers/Arithmetic        |
+| HAHT/TWAH       | Zero                      |
+| TAHL            | One                       |
+| TIHT            | Two                       |
+| TEH             | Three                     |
+| TAIT            | Four                      |
+| TOI             | Five                      |
+| TOHT            | Six                       |
+| TOW             | Seven                     |
+| TAWT            | Eight                     |
+| TEW             | Nine                      |
+| TUHT            | Ten                       |
+| TLUHL           | Eleven                    |
+| TRAHT           | Twelve                    |
+| TLUHS           | Duodecimal Point          |
+| TIN             | -ty as in "twenty"        |
+|                 |                           |
+| //arithmetic    |                           |
+| TLOHP           | Add                       |
+| TLAHM           | Subtract                  |
+| TUHP            | Multiply                  |
+| TOIM            | Divide                    |
+| TIPS            | Exponent                  |
+| TRAIMS          | Logarithm                 |
+| TUHS            | Root                      |
+| TREHLS          | Fraction/Ratio            |
+|                 |                           |
+| //geometry      |                           |
+| TOHV            | Square                    |
+| TAWN            | Triangle                  |
+|                 |                           |
+|                 |                           |
+| // colors       |                           |
+| FOHM            | Red                       |
+| FIM             | Orange                    |
+| FUHB            | Yellow                    |
+| FAIB            | Green                     |
+| FAWN            | Blue                      |
+| FEHN            | Purple                    |
+| FEWK            | Grey                      |
+| FEHSH           | Light Brown               |
+| FAWSH           | Peach/Pink                |
+| FUHSH           | Light Brown/Black         |
+| FAISH           | Olive/Very Light Brown    |
+| YUHF            | Gold                      |
+| HOHF            | Black                     |
+| FOHSK           | White                     |
+| FWOHK           | Black                     |
+|                 |                           |
+| //adjectives    |                           |
+| KWEHS           | Ersatz, Artifice          |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |

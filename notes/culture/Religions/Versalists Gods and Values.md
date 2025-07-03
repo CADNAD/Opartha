@@ -11,25 +11,25 @@ Compassion:  (Wrath) [Average Person, Nurses, Health]
 Bravery: Votaas (Cowardice)  [Police, Military]
 Truth: Palno (Deception)  [Elderly, Scientists, Judges, Administrators, Scholars]
 
-Exploration/Curiosity: Tiarna (Stagnation/Intolerance)  [Youth, Scientists, Explorers]
+Curiosity: Tiarna (Intolerance)  [Youth, Scientists, Explorers]
 Humility: Nolor (Pride) [Average Person, Upper Classes]
 Wisdom: Revictus (Foolishness)  [Elderly, Administrators, Scholars, Scientists, Teachers]
 Sacrifice: (Selfishness) [Public Servants, Caretakers, Military]
 
-Generosity: Fieza (Gluttony) [Average Person, Upper Classes] 
+Charity: Fieza (Gluttony) [Average Person, Upper Classes] 
 Discipline: Vaskiel (Sloth)  [Military, Average Person, Artisans]
 Loyalty: Architor (Treason) [Military, Average Person]
-Justice/Integrity: (Corruption) [Elderly, Judge, Administrator, Clergy]
+Justice: Dalphily (Corruption) [Elderly, Judge, Administrator, Clergy]
 
 Joy: (Pessimism) [Youth, Artists, Artisans]
 Creativity: Geatro (Destruction) [Artists, Artisans, Average Person]
-Peace: Mezenius (Rage) [Elderly, Average Person, Police]
+Humility: Mezenius (Envy) [Elderly, Average Person, Police]
 Care: Aleine (Decay)  [Artisans, Nurses/Health, Caretakers]
 
 (Either Neiman or Revictus was essentially the stenographer for the Gods creating the *Versalist Onorun)*
   
 DEMONS/TREGALE 5
-Tregale: Wrath, Destruction, Selfishness, Pessimism, Pride, Rage
+Tregale: Wrath, Destruction, Selfishness, Pessimism, Pride, Envy
 
 Deionis: Deception, Treason
 
@@ -44,7 +44,7 @@ Parsalinah: Foolishness, Stagnation/Intolerance
 
 Pros: 4x4 synergy for Gods, 4 as lucky number
 
-# DRAft 2
+# Draft 2
 
 Aredal: Truth, Compassion, Bravery
 

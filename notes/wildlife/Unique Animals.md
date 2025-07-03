@@ -18,5 +18,5 @@ Diregat: Large predator which projects dark illusions of small animals, and then
 
 Boomkahs: Large, Land-whale like creatures which have a form of gravitational pull when they walk, that helps them consume smaller animals and bugs. they walk very slowly.
 
-
+TongTongei: Light flying chinese-style dragon
 

@@ -1,11 +1,12 @@
 add Okin visit to synodontis
 
 Concerns:
--Plot is too boring/not compelling, Okin is not a good character for this plot
 -Considering:
   - Add more beats between Okin and the Mouth of the Gods (main antagonist)
-    - Backuh and/or Revictus use the mind-wiping powers on Okin after Okin discovers a big secret (if Backuh, that Okin is a Dark Herald)
+  - Backuh uses more mental influence powers
 
+Additions:
+- Okin just temporarily replaces Aldwin
 
 * ACT I
 ** Opening Image
@@ -37,18 +38,20 @@ Concerns:
 - [ ] Okin tells Previa he is surprised the Synodontis vote is so one-sided. Previa tells Okin he suspects this all ties together in the assasination as an attempt to silence Aldwin for speaking out that Synodontis is the antichrist. Okin tells Previa that is crazy and he thought it was actually Billy. Previa says that's crazy and that Billy is probably dead.
 - [ ] Okin is surprised that by the second debate everyone has shifted (except him) to the pro-Synodontis side. (9/10)
 - [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
-
-* ACT III
-** Midpoint
-*** !
-***
+*** Okin goes to the opposition meeting
 - [ ] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
 - [ ] Deionis introduces himself to Okin.
-
+* ACT III
+** Midpoint
+*** ! The Mouth is upset Okin is not voting for Synodontis and calls for an election in Whenran
+- [ ] Okin confronts the Mouth, the Mouth justifies that this is the way it was supposed to be.
+- [ ] Okin does a campaign with Previa and the opposition to vote for him.
+*** Okin runs against the other Impalias
+- [ ] Soldiers from Farsun are brought to slander Okin.
+- [ ] Deionis talks to Okin about rumors that many Impalias elections have been rigged. Okin doesn't believe him.
 ** Second Pinch Point
 *** !  Okin's allies are found and murdered. Okin's life is barely saved by his own accidental activation of Illusion Heraldry.
 - [ ] The meeting is attacked.
-*** - Okin
 - [ ] Okin is in denial about himself being an Illusion Herald.
 - [ ] Okin is insecure and still in denial about whether he should tell the truth about being an Illusion Herald and gets guidance from Gendro at a Dark Herald execution without getting into details. Gendro stands by his Versalist values.
   - This time, Okin looks away.
@@ -58,7 +61,8 @@ Concerns:
 - [ ] Okin confronts the most cowardly Impalias directly about why all the other Impaliases are so gung-ho about Synodontis, and also about who attacked the meet. The cowardly Impalias reveals that this was all planned out ahead of time.
 ** Third Act Turn
 *** ! Okin meets Synodontis
-
+- [ ] Since Okin agreed, the Impalias' all travel to see Synodontis. Okin and Deionis discuss that Okin will test Synodontis based on passages in the Onorun.
+- [ ] Synodontis is frustrated by Okin's games and
 * ACT IV
 ** Break Into 4
 *** ! Okin chooses to ambush Revictus at their second meeting

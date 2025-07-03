@@ -98,6 +98,7 @@ The "W" consanant is associated with adjectives and opposites, or the lack of so
 The "Y" consanant is associated with commerce, trade, and business, and the color gold.
 The "H" consanant is associated with the lack of something and the color black.
 
+<<<<<<< HEAD
 | PRONUNCIATION   | DEFINITION                |
 |-----------------+---------------------------|
 | // emotions     |                           |
@@ -290,3 +291,105 @@ The "H" consanant is associated with the lack of something and the color black.
 |                 |                           |
 |                 |                           |
 |                 |                           |
+=======
+| PRONUNCIATION | DEFINITION              |
+|---------------+-------------------------|
+| GAHN          | Satisfied, Calm         |
+| GIG           | Anxious, High-Strung    |
+| GOWG          | Happy, Cheery, Childish |
+| GWAIN         | Insane, Unreasonable    |
+| GEWSH         | Horny, Estatic          |
+| GUHSH         | Tired, Exhausted        |
+| GOWP          | Powerful, Proud         |
+| GWAHSH        | Hungry, Desperate       |
+| GAIB          | Disgusted               |
+| GOHN          | Sad                     |
+| GEHR          | Appreciated, Recognized |
+| GWAWCH        | Naked, Revealed         |
+| GAHG          | Emotions, Emotional     |
+| GEHCH         | Romantic, Love          |
+| GIB           | Fear of the environment |
+| GIN           | Adulation, Submission   |
+| GWEW          | Cold, Dull              |
+| GWAICH        | Bored                   |
+| GWAIG         | Depressed, Dull         |
+| GAWSH         | Angry                   |
+| GLOIP         | Greed                   |
+| GLAICH        | Envy                    |
+| GLOHM         | Confident, often overly |
+| YAHL          | Trade                   |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+|               |                         |
+>>>>>>> 63fd2d7e1097fd2b6cb9547f1bbdfb74404ba45c

@@ -1,0 +1,14 @@
+#+title: Writing Styles Comparison
+* General Notes
+** Root Language Vocabulary Selection
+- higher class and more pretentious characters use more latinate/greek words, lower class and straight forward more germanic.
+
+* Ty-Shou Chaper 1 and 1/2 Chapter 3 (Marco) vs Okin Chapters 1-3 (Logan)
+** Root Language Vocabulary Selection
+(M):
+| Unidentified | Excluded | French | Germanic | Greek | Latinate | Total | Latinate Density |
+|          234 |     2334 |    401 |     1213 |    59 |      395 |  4672 | 28.5 %           |
+(L):
+| Unidentified | Excluded | French | Germanic | Greek | Latinate | Total | Latinate  ensity |
+|          625 |     5227 |    630 |     2474 |    71 |      755 |  9890 | 27.47 %          |
+** Sentence Structure and Syllable Count

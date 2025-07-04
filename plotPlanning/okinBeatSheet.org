@@ -18,12 +18,12 @@ Additions:
 - [X] They are tried, and Okin tells the truth despite Previa's insistence otherwise which gets them sent back to the Citadel.
 ** Inciting Incident
 *** ! Billy puts Aldwin into a coma, and Okin is his impromptu replacement
-- [ ] Okin and Previa try to meet Aldwin again in the Citadel
-- [ ] Okin witnesses the Dark Herald execution led by Aldwin
-- [ ] Okin sees the assasination and is traumatized, the doctors are unsure whether Aldwin is alive. Previa tries to hide his feelings but later breaks down.
-- [ ] Okin interrogates the guards about Billy's wherabouts and tells them that he suspects it's Billy.
+- [X] Okin and Previa try to meet Aldwin again in the Citadel
+- [X] Okin witnesses the Dark Herald execution led by Aldwin
+- [X] Okin sees the assasination and is traumatized, the doctors are unsure whether Aldwin is alive. Previa tries to hide his feelings but later breaks down.
+- [X] Okin interrogates the guards about Billy's wherabouts and tells them that he suspects it's Billy.
 *** - Okin becomes an Impalias
-- [ ] Okin is named as Aldwin's replacement.
+- [X] Okin is named as Aldwin's replacement.
 - [ ] Okin leads the hunt for Billy, and commands the guards to search for the escaped Dark Herald.
 - [ ] Okin hears the Mouth of the Gods.
 - [ ] Okin meets the other Impaliases.
@@ -40,7 +40,9 @@ Additions:
 - [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
 *** Okin goes to the opposition meeting
 - [ ] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
-- [ ] Deionis introduces himself to Okin.
+- [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together.
+*** Okin fights in the debate
+
 * ACT III
 ** Midpoint
 *** ! The Mouth is upset Okin is not voting for Synodontis and calls for an election in Whenran

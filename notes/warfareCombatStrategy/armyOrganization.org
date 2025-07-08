@@ -1,0 +1,22 @@
+* Versalist Empire
+Total Soldiers: 450k
+18k Heralds
+** Organization
+Krusadar's typically have an Athar or Rothar attached as their quartermaster. If a Rothar or Athar is unavailable,
+*** Non-Herald
+**** Squad (6-12) - High Devinar
+Squads with Heralds are all a single School, led by a Krusadar lieutenant.
+Non-herald squads, are led by a Devinar Sergent
+**** Company (6 squads, 4 Krusadar, 70-80 men) - Krusadar
+Captain - Krusadar
+Quartermaster - Rothar
+Messenger - Rothar
+Three Lietuenants - Krusadar
+**** Battalion - Krusadar
+**** Regiment - 
+**** Brigade -
+**** Army - 
+*** Herald
+**** Squad (6-12)
+**** Company (4 Squads, 50 men)
+**** Brigade - (1000 men

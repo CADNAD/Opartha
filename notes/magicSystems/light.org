@@ -1,39 +1,54 @@
 #+title: Light
+* general scheme:
+fear, sadness: defense myself
+anger: offensive energy
+love: buff others
+selfish: buff myself/debuff others
+powerful: buff myself
+negative others (hate contempt etc): debuff others
+happy: buff myself
 * Joy (physical buffs)
 ** Excitement
 Get bigger and bigger and stronger
-** Eager
 
 ** Euphoric
 
 ** Asthonished
-** Confidence
-Higher defense
+** Hope
 * Anger (energy)
 ** Resentment
-
+Suck out life force, leaving someone metaphysically dead.
 ** Indignation
 He can store more energy in his body when he gets hit, and it shines with light, and he can transfer that energy and it explodes.
-** Righteous Anger
 ** Irritable
 Punching harder
 ** Exasperated
+Shout
 ** Annoyed
 ** Combative
 Deflect kinetic energy back where it came from
+** Fury
+
 * Negative-Others
 ** Revolsion
 ** Contempt
 - see and target others weaknesses, create new weakness
 ** Hate
 ** Othering?
-* Negative-Self
+* Sadness
 ** Depressed
 ** Sorrow
 ** Hurt
 ** Guilty
 ** Lonely
+Invisibility
 ** Grief
+* Powerful
+** Passionate
+physical superhuman, speed, agility, strength
+** Confidence
+Higher defense
+** Determination
 * Selfish
 ** Greed
 ** Pride
@@ -46,7 +61,12 @@ light grows more, shining brighter from body, can incinerate foes
 ** Compassion
 ** Passion
 ** Sentimental
-** Romantic
+** Romance
+** Empathy
+Healing to my state
+** Forgiveness
+General healing
+** Mercy
 * Fear (debuff others)
 ** Terrified
 ** Anxious
@@ -55,5 +75,6 @@ light grows more, shining brighter from body, can incinerate foes
 ** Insecure
 ** Insignificant
 ** Excluded
-** Suspicion
+** Suspiscion
 Spider Sense
+** Powerlessness

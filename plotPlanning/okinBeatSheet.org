@@ -22,14 +22,16 @@ Additions:
 - [X] Okin witnesses the Dark Herald execution led by Aldwin
 - [X] Okin sees the assasination and is traumatized, the doctors are unsure whether Aldwin is alive. Previa tries to hide his feelings but later breaks down.
 - [X] Okin interrogates the guards about Billy's wherabouts and tells them that he suspects it's Billy.
-*** - Okin becomes an Impalias
+*** - (Ch 3 + 4) Okin becomes an Impalias
 - [X] Okin is named as Aldwin's replacement.
 - [ ] Okin leads the hunt for Billy, and commands the guards to search for the escaped Dark Herald.
-- [ ] Okin hears the Mouth of the Gods.
 - [ ] Okin meets the other Impaliases.
+- [ ] They debate the war in Farsun and Surkusch. They are debating how much resources to put into ships, so that they can maybe do a naval invasion of Farsun. The landlocked Impaliases think its unfair.
+- [ ] Timeskip: Okin has done some Impalias duties, like naming a new Council member.
 * ACT II
 ** Break Into 2
 *** ! The Synodontis debate begins
+- [ ] Synodontis arrives in the city
 - [ ] Okin is introduced to the Synodontis debate. The consensus needs to be unanimous. Right now it is (7/10).
 - [ ] Another Impalias tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
 - [ ] Okin brings up the other Impaliases' corruption before the Council and the Council pretends to be flabbergasted.
@@ -41,8 +43,6 @@ Additions:
 *** Okin goes to the opposition meeting
 - [ ] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
 - [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together.
-*** Okin fights in the debate
-
 * ACT III
 ** Midpoint
 *** ! The Mouth is upset Okin is not voting for Synodontis and calls for an election in Whenran

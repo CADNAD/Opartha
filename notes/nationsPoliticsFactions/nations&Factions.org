@@ -9,12 +9,13 @@
 (from to East to West, then North to South)
 *** Nairfalk
 - Citadel
+- -ro M names
 *** Ottencollen
 - most recently joined, enemies of Delmia
 *** Trenta
 - Old Trentanian = Middle English
 - Trentanian = New English, Lingua Franca
-- -ro M names
+- -un M names
 *** Monasque
 - Monask in Trentanian
 *** Whenran
@@ -30,7 +31,7 @@
 - former Sürkusch empire
 *** Sürkusch
 - Sirkush in Trentanian
-- Sarttlmisch's empire*** Nairfalk*
+- Sarttlmisch's empire
 *** Farsun
 12 million 
 ** Marthia
@@ -95,6 +96,3 @@
 *** Kehousee
 *** Lanodan
 ** Krinosas
-=======
-Find file: ~/hobbies/writing/opartha/notes/worldInfo/
->>>>>>> 8f8cc527fac50637087beff935f77e717f8f94a9

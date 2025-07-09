@@ -7,12 +7,12 @@ Intillia: Generosity, Discipline, Loyalty, Justice/Integrity
 Nexon: Creativity, Peace, Care, Joy
 
 Temperance: Rentar (Lust) [Youth, Average Person, Clergy]
-Compassion:  (Wrath) [Average Person, Nurses, Health] 
+Compassion: (Wrath) [Average Person, Nurses, Health] 
 Bravery: Votaas (Cowardice)  [Police, Military]
 Truth: Palno (Deception)  [Elderly, Scientists, Judges, Administrators, Scholars]
 
 Curiosity: Tiarna (Intolerance)  [Youth, Scientists, Explorers]
-Humility: Nolor (Pride) [Average Person, Upper Classes]
+Peace: Nolor (Envy) [Average Person, Upper Classes]
 Wisdom: Revictus (Foolishness)  [Elderly, Administrators, Scholars, Scientists, Teachers]
 Sacrifice: (Selfishness) [Public Servants, Caretakers, Military]
 
@@ -23,7 +23,7 @@ Justice: Dalphily (Corruption) [Elderly, Judge, Administrator, Clergy]
 
 Joy: (Pessimism) [Youth, Artists, Artisans]
 Creativity: Geatro (Destruction) [Artists, Artisans, Average Person]
-Humility: Mezenius (Envy) [Elderly, Average Person, Police]
+Humility: Mezenius (Pride) [Elderly, Average Person, Police]
 Care: Aleine (Decay)  [Artisans, Nurses/Health, Caretakers]
 
 (Either Neiman or Revictus was essentially the stenographer for the Gods creating the *Versalist Onorun)*

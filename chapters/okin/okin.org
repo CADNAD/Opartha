@@ -1,5 +1,11 @@
 #+title: Okin
+:generalnotes:
+
+:END:
 * Chapter I
+:chapterOneNotes:
+Explain Farsun earlier. Probably around the first mention, so the reader understand the context of the war and the front.
+:END:
 "...and instill your Bravery in each of these men's hearts, every one, especially those of your Light, so that none may be deterred either by fickle emotions or the Vices of the One and the Five."
 The square-faced man took a pause from his whispers. The flame sang a rhythym under his breathe. He remained hunched over with his arms raised in a reverent kneel in the corner of the room. His palms shouted to the ceiling above.
 "And if I may ask again, that you may instill that same Bravery into my heart, not for my achievement, nay, but for my Arising to you."
@@ -9,26 +15,37 @@ He raised his finger and brought it back in place to repeat the motion.
 "Bravery."
 Again, and again.
 *SLAM!* The door, feet from him, smashed against the wall. The square-faced man jumped. He swung around. He raised his arms in an awkward stance; it barely intelligible that it was a defensive one.
+:question:
+where is Okin? is he in a small prayer chamber in the fortress?
+:END:
 They lowered, along with his wide eyes, as he noticed his intruder. From a violent shake, his body gradually stilled.
 "Devinar Previa!" he said. "What is the meaning of this?!"
 "S-sorry, Okin," an adolescent, crooked smile and slight blush appeared on Previa's face.
-Okin shook his head. "I know your father taught you not to disturb a man during his prayers. So I must conclude that this is just carelessness on your part. And that's /Athar/ Okin to you."
+Okin shook his head. "I know your father taught you not to disturb a man during his prayers. So I must conclude that this is just carelessness on your part. And that's ATHAR Okin to you."
 Previa rolled his eyes. "Since Krusadar Caldro is gone, I was more focused on maintaining the chain of command," he said. "You know me, it's hard to focus on more than one thing to remember at a time... and there's something much more important to remember than that."
 Okin raised an eyebrow.
+:comment:
+maybe explain Previa and Okin's relationship a bit here. Call Previa a childhood friend or someting
+:END:
 "Maldin tracked the Farsunni who captured Islovol's squad. We're gonna get 'em back!" Previa's eyes lit up.
 Okin's eyes narrowed on Previa. The young man's childish declarations always poked something inside him.
-"That is Caldro's decision to make," Okin replied. He turned back to the candlelit corner, even though he knew that it wouldn't be the end of the conversation.
+"That is Krusadar Caldro's decision to make," Okin replied. He turned back to the candlelit corner, even though he knew that it wouldn't be the end of the conversation.
 Previa looked at the back of Okin's head with wide eyes. He stepped to the right so his shout was basically in Okin's ear. "They'll be killed by then!"
 Okin's stare didn't flinch from the light in the corner. "As much as it pains both you and me, if they wanted to kill them, they'd be dead by now."
-Previa shook his head. He turned away and opened the door again. "Every second we wait, is a second they're more likely to be killed by those monstrous heretics. What if you're saying that, and they're still alive, then their blood is on our hands!"
+Previa shook his head. He turned away and opened the door again. "Every second we wait, is a second they're more likely to be killed by those monstrous heretics. If you're saying that, and they're still alive, then their blood is on our hands!"
 Previa turned back to Okin. "Isn't it in Bravery that we risk our lives to save those that need us?"
 Okin's lips pursed. His harsh stare softened, and his shoulders shrunk. *Bravery.* He felt his finger against the back of his hand again. *Bravery. Bravery.*
 "No." Okin's sternness returned to him. "It is in Temperance and Truth that remain patient, that we get more information about the Farsunni outpost, and most importantly that we follow the orders of Krusadar Caldro to remain on the defensive."
 Previa turned and ran like a petulant child, the door sputtering shut on his way out.
-"Previa!" Okin shouted after him. He strut through the doorway and turned into the hallway. Previa was quick, and Okin just made out the end of the young man's leather boots turning down one of the fortress' stone brick hallways ahead.
+"Previa!" Okin shouted chasing his friend out the door and into the hallway. Previa was quick, and Okin just made out the end of the young man's leather boots turning down one of the fortress' stone brick hallways ahead.
 Okin looked down to his unathletic rounders. He grit his teeth and made off, his awkward, intense strides being made by the softness of his rounders and flowing Athar's robes made him look comedic, and he knew it, but he had to catch Previa.
-As Okin turned down the hallway Previa had, the young man was nowhere in sight, his footsteps could be heard in the distance but the echo diminished. Still, Okin kept running, he knew where Previa was headed.
-A load of heavy breathes and a forehead of sweat later, it was Okin's turn to burst through a wooden door. Before even shoulder-checking it open, he could hear the clank of iron boots being fastened and swords being sharpened.
+:comment:
+Not sure what a rounder is, a shoe type?
+:END:
+As Okin turned down the hallway Previa had, the young man was nowhere in sight. His footsteps could be heard in the distance but the echo diminished. Still, Okin kept running, he knew where Previa was headed.
+The Ather passed out from the stone halls into the fortress' central courtyard. Devinars in polished armour spared with each other or ran drills. Okin heard his name called in greeting as he passed. He gave the voices a slight nod as he tried to keep pace.
+Previa had disappeared in the crowd, but Okin didn't need to see him. He passed through an arch way at the opposite end of the courtyard sprinting into the barracks. He passed the Krusadar's private rooms and the Devinar's dormitories. Pass the officer's mess and towards the armory used by Caldro's unit.
+Okin's burst through the wooden door. Before even shoulder-checking it open, he could hear the clank of iron boots being fastened and swords being sharpened.
 *THUD.* He burst through, before instantly grasping his forearm in pain. However, he was given no attention, the few dozen soldiers scattered around the benches were focused on hastily equipping their armor, and clammoring with a mess of different chants.
 He was shoved aside by an armed soldier already leaving the barracks.
 His eyes urgently danced around the room for Previa. The young soldier had armor like an alien quartz statue, shimmering with an austere beauty. It was not painted steel, but a material of its own, like a glowing pearl.
@@ -51,6 +68,9 @@ Previa raised his sword again. The rest of the men did in unison.
 "VIR VERSALIS!" The men shouted. "VIR CITADEL! VIR VOUR!"
 "CHARGE!" The men hilted their weapons, then screamed and whipped their horses into a sprint. Previa raised his sword even higher to the sky.
 Okin was thrust out of the moment-- he was here to stop this. But it seemed his chances were charging away towards the enemy camp.
+:comment:
+probably establish where the enemy camp is in relation. And they probably wouldn't charge from so close. Depends on the distance to enemy camp.
+:END:
 "Previa!" Okin shouted with his whole body just as the white-armored soldier had finally hilted his sword to join the rest of his charging army.
 Previa stopped just as he was about to whip the reins of his horse. He turned around just as Okin ran up to his saddle-side.
 "Okin?" Previa stopped and pulled up his visor. His face was mired with geniune concern and shock. "Get back in the bunker!"
@@ -72,14 +92,20 @@ Previa's hands clapsed the bottom of the wooden chair, and he rocked back in for
 "Now you, Athar," he turned to Okin. "I put you in charge of the men, despite your lack of military experience, as I wanted someone higher than a Devinar to be my substitute. I saw how the men respected your character. I hate to be wrong, but I was, wasn't I?"
 Okin looked down. "You are right. I tried to bring order, but it was my lack of character that got in the way."
 "Honest as ever, even when it hurts you," the Krusadar paused, his large hands clasped just under his wide chin. "But I cannot respect your lack of authority when I put you in charge."
-"You are both hereby dismissed as acting service members of the Versalist military. Athar Okin, as we are equals, and as I assigned you to a post of which you would not normally be expected, you are merely released to go back to your regular town cycle or to return to The Citadel or another center for reassignment. Devinar Previa, as you were the instigator of this unauthorized assault, as your commanding officer I am issuing a discharge and a description of this incident will be added to your permanent record. Any questions?"
+"You are both hereby dismissed as acting service members of the Versalist military. Athar Okin, as we are equals, and as I assigned you to a post of which you would not normally be expected, you are merely released to go back to your regular town cycle or to return to The Citadel for reassignment. Devinar Previa, as you were the instigator of this unauthorized assault, as your commanding officer I am issuing a discharge and a description of this incident will be added to your permanent record. Any questions?"
 Previa's head hung low. Okin just shook his head.
 "Good. Now get out of my sight."
 
 
-Okin stared out over the horizon which stretched across over the sandy mountains, where a light breeze created a pleasant translucent curtain of sand, the red sun comfortably veiled by both the curtain and its seat between two mountains. He appreciated the natural beauty of all lands he came across, and always thought to how each of the Four contributed. All gave an equally necessary contribution, but some he had an easier time than others understanding; Intillia brought both the earth, and the waters, and the gasses and winds in the sky; Aredal brought the Light for all living things to see by, through which this view would otherwise be impossible, and by it the heat which allows all living things to survive, and according to some of the newer Istars apparently, also the sustenance for plants; Olitheon, he could somewhat understand, brought the actual area where all things are, even the stars, but not the actual objects itself, those were still Intillia and Aredal. Him and Nexon brought many other things that were quite confusing. Okin tried to comprehend it abstractly on his own time, and even ask Istars he met in the natural sciences, though it made him uncomfortable, but still, he could not really comprehend it. Still, he trusted it and felt it in his prayers, which was what was most important.
+Okin stared out over the horizon which stretched across over the sandy mountains, where a light breeze created a pleasant translucent curtain of sand, the red sun comfortably veiled by both the curtain and its seat between two mountains. He appreciated the natural beauty of all lands he came across, and always thought to how each of the Four contributed. All gave an equally necessary contribution, but some he had an easier time than others understanding. Intillia brought both the earth, and the waters, and the gasses and winds in the sky; Aredal brought the Light for all living things to see by, through which this view would otherwise be impossible, and by it the heat which allows all living things to survive, and according to some of the newer Istars apparently, also the sustenance for plants; Olitheon, he could somewhat understand, brought the actual area where all things are, even the stars, but not the actual objects itself, those were still Intillia and Aredal. Him and Nexon brought many other things that were quite confusing. Okin tried to comprehend it abstractly on his own. He had even asked Istars in the natural sciences he met, though it made him uncomfortable, but still, he could not really comprehend it. Still, he trusted it and felt it in his prayers, which was what was most important.
+:comment:
+Is he uncomfortable because he is asking women?"
+:END:
 "I'm sorry Okin."
 Previa interrupted Okin's tranquil observation, and brought him immeadiately back to his current air of disdain. Okin turned around and continued heading forward with Previa up the hill.
+:comment:
+They should probably be in carriage here or on horse back. Also, maybe it makes sense for them to travel with some baggage. Maybe mail? Or for them to take a space network trip back so we can establish the space network.
+:END:
 "That's Athar Okin to you."
 Previa raised his hands, "Oh come on, Okin, we've known each other since we were kids--"
 "That's Athar Okin to you," Okin's voice sunk like a swamp.
@@ -92,10 +118,16 @@ Okin's glare snapped onto Previa.
 Okin glared at Previa. Previa gave a sheepish smile, before sighing.
 "This was important to me, too. This was a chance for me to grow in Bravery, and Temperance, too. I know how you feel."
 Okin's glare softened. He waited for Previa to hoist himself upwards into the cart. Previa offered Okin a hand, but by then Okin was already himself getting into the cart, and he didn't take it.
+:description:
+Add some description here about the cart starting to move after they get it. Right now its a bit confusing
+:END:
 Previa collapsed against the side of the cart, and rested his cheek on his arm which he rested on the side of the cart. The cart bumped up and down against the cobbly road, and the young Devinar just let his face slide into his hand like melting wood.
 "Well, if you have to know, I'm going to the Citadel. Probably to see Impalias Aldwin."
 Previa sighed again. He stretched his arms and readjusted so his arms provided a cushion for his back against the cart.
 "Yeah, I think I'm gonna have to go see dad too."
+:style:
+I feel like Previa would say father
+:END:
 Okin stared away from Previa, outside the cart. His eyes drifted, not on any of the dry yellow countryside, but past it. His mind was on what the future could hold, but it was just soft, meaningless impressions.
 He raised the back of his hand into his gaze. The singular golden stroke shone in the Light. *Truth.*
 He stretched his other index finger against it. He drew out an invisible stroke, coming out from the other golden stroke. *Bravery*, he said to himself.
@@ -110,6 +142,10 @@ He drew the stroke again, keeping his finger on it even as the cart jumped upwar
 ** Chapter
 "Impalias Aldwin," Previa said. He bit his lip till it formed like a parted wave, and his eyelids covered his irises in a bored expression. "You know, *Impalias.* There's only like ten of them."
 "Yeah, exactly, I know, *Impalias*," the bearded man shot back. "But for what reason on Opartha would a kid like you need an Impalias for? Or better yet, why would an Impalias take their precious time to meet with a kid like you?"
+:comment:
+Establish where they are at the start of the chapter. And some indication of who the breaded guy is.
+Give time that it took them to travel to the citadel
+:END:
 "It's not for clerical duties, Virtues, or anything of the sort," Okin stepped in, already feeling enough embarrassment from Previa. "It's a personal matter. We know Impalias Aldwin personally."
 "He's my father," Previa scratched the back of his neck and smiled sheepishly. The bearded man gave an unimpressed nod, and Okin scowled.
 "Oh. Well, regardless, I don't really have anything to give you beside the common knowledge that the Impaliases spend most their time near the center of The Citadel," the mustached man grunted.
@@ -124,7 +160,10 @@ Okin just bit his lip.
 "I coulda sworn I saw you got in trouble with one of the Istars," Previa rubbed his chin. "Yeah."
 A slight smile appeared on Okin's face. "Your memory is better than I expected, Previa."
 Previa matched Okin's smile with a toothy grin. "I knew it! I told Vashod you were one of us!"
-Previa gave Okin a friendly slap on the shoulder, and Okin's smile faded. Previa chuckled a bit more, and Okin let it fade off into awkward silence between them, and the bustling of The Citadel to fill their ears. Okin and Previa both glanced around for a while. Though he was by no means a listless slacker, and Previa, though less conscientious, was definitely more filled with actual energy which caused a certain form of industriousness, Okin was surprised and with the Citadelian's sureness of movement, in a sea of other men, inches away from them, all on their own path and mission, they just stared straight ahead as if they were the only ones in existence. It reminded Okin of the preoccupation of wild animals, and in that way, it made the people feel less human, and though definitely more alive in some senses, less in others.
+Previa gave Okin a friendly slap on the shoulder, and Okin's smile faded. Previa chuckled a bit more, and Okin let it fade off into awkward silence between them, as the bustling of The Citadel to fill their ears. Okin and Previa both glanced around for a while. Though he was by no means a listless slacker, and Previa, though less conscientious, was definitely more filled with actual energy which caused a certain form of industriousness, Okin was surprised and with the Citadelian's sureness of movement, in a sea of other men, inches away from them, all on their own path and mission, they just stared straight ahead as if they were the only ones in existence. It reminded Okin of the preoccupation of wild animals, and in that way, it made the people feel less human, and though definitely more alive in some senses, less in others.
+:question:
+I don't understand what exactly you're trying to convey here. Is it just the hustle and bustle and energy of the city?
+:END:
 Okin cleared his throat before turning back to Previa and continuing. "But I liked your attitude on our trip here more than this distracted nostalgia. Now is a time to learn from what happened and look ahead, regardless of your feelings of shame."
 Previa's lips pursed, and then he nodded. Okin often debated with himself whether Previa really took his advice to heart as best as he could and mostly suffered due to his own undisciplined nature, or if the lad just wanted Okin to like him and thus just tried to appear as if he was processing things.
 "Good advice, Okin," Previa said, but his focus was obviously on something else. Okin peeked over the young man's shoulder and saw what he was staring at-- a market stand where some young dough-faced boys were being handed a large, thick yellow pastry covered with thick sugars on the top.
@@ -140,30 +179,40 @@ Previa ran to the stand, excitedly exchanged some coins for the pastry, split it
 "So, do you think," Previa said between bites, "that the Citadel will be able to beat Farsun and Surkusch without us?"
 Okin bit into his snack. His eyelids lowered to say, *seriously*?
 "I'm kidding. But I mean, in seriousness, do you think we'll win?"
-"Well, the Onorun says we will encompass the world. And we beat them before, and they have less men then us, and they seem to be losing now," Okin said. "So of course we will win."
+"Well, the Onorun says we will encompass the world. We've beat them before, and they have less men then us, and they seem to be losing now," Okin paused. "So of course we will win."
 "Yeah, but I mean like, when? Like you know, do you think we're living in... like, the Advent?"
 Okin's eyes narrowed, but his head was obviously spinning.
 "Only a fool or a demagogue, will say, before the signs have come, that they are near, and therefore, change should be upon us."
 "Neiman Seven, Eighteen Four," Previa finished with Okin in unison. Okin raised an eyebrow and smiled.
 "But I mean... you've heard the rumors that there's a man in the East..."
 "Enough," Okin said.
-Previa nodded. Okin looked away to get his mind on something else. It was true that he did think of these things, but he trusted in that verse, and understood why it was there, not just to heed people against manipulative opportunists, but also for the sake of the ordinary Versalist's sanity. Though the Onorun ultimately foretold the events during and after the Advent as ultimately the lead up to paradise for all, Okin was still fearful that things would change too fast, that his lifetime would be derailed. But those were selfish, small-minded, unholy thoughts.
+Previa nodded. Okin looked away to get his mind on something else. It was true that he did think of these things, but he trusted in that verse, and understood why it was there, not just to heed people against manipulative opportunists, but also for the sake of the ordinary Versalist's sanity. Though the Onorun ultimately foretold the events during and after the Advent as they lead up to paradise for all, Okin was still fearful that things would change too fast, that his lifetime would be derailed. But those were selfish, small-minded, unholy thoughts.
 Okin looked forward as the already busy streets got more dense and noisy. Ahead, a large crowd had gathered, all within the shadow of the massive statue of Olitheon, which was being cast to the left. He and Previa stopped just at the edge of the crowd. Near the front of the crowd, low horns rumbled.
+:comment:
+Add a description of the statues or cathedral here. Or earlier in the chapter
+:END:
 "Dad should be serving near here... but this is an awfully large crowd just to get into one of his services," Previa said. "Still it is Olithday, so..."
 Okin tiptoed to get a better view, and could see a large wooden pole peeking above the crowd. His stomach twisted. "I-I don't think it's a service."
 "Let's get closer," Previa said as he started manuevering through the crowd. Okin squeezed behind him, uttering constant "excuse me"s and "sorry"s.
 As they reached a few rows from the front of the crowd, Okin's suspicions were confirmed. He stared up at the wooden platform, upon which the large wooden hanging post sat. His throat squeezed up.
-"Oh," Previa said as he also looked upon the wooden post. The Devinar's eyes bounced away to group of men on the side, just next to the stairs where the post, coming out from the entrance of a large cathedral made of painted stone.
-"There he is," Previa pointed to one of the men, in the middle, who wore robes similar to Okin's, but with purple stripes instead of golden ones, and with a large cape that also came out in an apron-like structure but split in the middle, outfitted with geometrical engravings. He was clearly the central figure of the group, being guarded by many heavily armed men. "I think he's the one hosting this."
-The horns, which had been playing a low, ambient rumbling, suddenly erupted. The man in the ornate robes marched onto the stage, surrounded by five guards all in different, unusual colored armor-- one was the same as Previa's, glowing with a softer version of the sun's glare, one a goldish yellow, one a crimson red, one a deep blue, and one a mix of several colors in a swirl, all glazed over with the same glow, which was shiny, yet contained. They separated out onto different corners of the stage, except the one with the white armor, who grasped a thin, dirt-faced man, pushing him forward, just behind the central robed figure.
+"Oh," Previa said as he also looked upon the wooden post. The Devinar's eyes bounced away to the group of men on the side, just next to the stairs where the post, coming out from the entrance of a large cathedral made of painted stone.
+"There he is," Previa pointed to one of the men in the middle who wore robes similar to Okin's, but with purple stripes instead of golden ones. A large cape came out in an apron-like structure but split in the middle, outfitted with geometrical engravings. He was clearly the central figure of the group, being guarded by many heavily armed men.
+:comment:
+We can probably just say this is Aldwin here. Works better and makes Previa's line less confusing later.
+:END:
+"I think he's the one hosting this."
+The horns, which had been playing a low, ambient rumbling, suddenly erupted. The man in the ornate robes marched onto the stage, surrounded by five guards all in different, unusual colored armor-- one was the same as Previa's, glowing with a softer version of the sun's glare, one a goldish yellow, one a crimson red, one a deep blue, and one a mix of several colors in a swirl, all glazed over with the same glow, shiny yet contained. They separated out onto different corners of the stage, except the one with the white armor. They grasped a thin dirt-faced man, pushing him forward, just behind the central robed figure.
 "I'm gonna move back just a bit," Previa whispered into Okin's ear. "I don't want dad to see me and get distracted."
 Before Okin could protest, Previa snuck backwards and the crowd moved forward to fill the gap. Okin's eyes returned to the thin man, shivering under the massive shadow of the armored white man behind him.
 The horns erupted again, even louder this time. The robed man raised one arm, and there was silence on the other side of the blast.
-"Olitheon bless you on his day," the robed man smiled. "Let us all, and especially those moving towards his heaven, be filled with Curiosity, Humility, Wisdom, and Sacrifice. We are standing under him today in more ways then one." the robed man looked up at the massive statue above, and there was some chuckles.
+"Olitheon bless you on his day," the robed man smiled. "Let us all, and especially those moving towards his heaven, be filled with his Virtues. Curiosity, Humility, Wisdom, and Sacrifice. We are standing under him today in more ways then one." the robed man looked up at the massive statue above, and there was some chuckles.
 "As we observe our world, and our language, without the enlightenment of Versalism, we often see the opposite of Darkness as Light. This, while intuitive, is a Deception from the Darkness itself. It is a misunderstanding that creates an imbalance in our worldview and priorities. The reality is, that it is all Four, in balance, that stand in opposition to the Darkness. And today, as every Olithday, we stand in recognition of how Space works in opposition to the Darkness. In fact, it was the Wisdom of Olitheon which first saw the evil of Tregale, as well as the Sacrifice of Olitheon which saw to his banishment."
-The white-armored man threw the thin man against the post as the robed man continued his speech. The thin man groaned, and Okin could see that he was barely a man, moreso an adolescent.
-"But even though Tregale's banishment prevented Darkness from taking over our world, the war against its evil was not finished, nay, the Gods desired that many things be spread to us, that we be a part of their mission so that we could join them in the Four heavens. That we all take part in the war against Darkness, and spread the Four rightfully across the Earth."
+The white-armoured man threw the thin man against the post as the robed man continued his speech. The thin man groaned, and Okin could see that he was barely a man, moreso an adolescent.
+"But even though Tregale's banishment prevented Darkness from taking over our world, the war against its evil was not finished, nay, the Gods desired that many things be spread to us, that we be a part of their mission so that we could join them in the Four heavens. That we all take part in the war against Darkness, and spread the Four rightfully across Opartha."
 The thin man let out a moan like a pleading animal. He was silenced by a backhand from the white-armored man, which erupted in a squeal, and a pang in Okin's chest. Okin shielded his eyes.
+:question:
+What made the squeal?
+:END:
 /These are the Forces of Darkness... they seek to destroy Versalism, the Citadel, and the world... there should be no mercy for them, as they have no mercy.../
 Okin looked back to the stage. The robed man pulled out a torch.
 "Every destruction of the followers of the Darkness is one step closer to its total banishment, to the total arrival of the Four on Opartha."
@@ -178,16 +227,28 @@ FTSK! Several balls of fire sparked into large plumes of smoke near the stage. S
 ** Notes
 - feet mentioned as measurement
 ** Chapter
+<<<<<<< HEAD
 Coughing. Screaming. The crowd crashed like restless waves. The central cloud of smoke consumed the platform. . The colored armed guards ran into the smoke. Okin knew something was happening... that his mentor and friend, and his friend's father, was under attack. But what would he do? He would get in the way of those who could actually defend. And the screaming, the smoke, the fear he admittedly felt but hated at the prospect of the thin man being burned... it was too much. Okin was taken up by the waves of the crowd. He surrendered himself into its waters.
 But after running a few paces with the crowd, he had to turn back to the chaos of the central platform. A man emerged from the smoke. He was dressed as an ordinary urban peasant of the Citadel, in a long tunic of natural browns. But Okin knew the man was not just an ordinary peasant, he was the one who had created the smoke. Okin was some twenty paces past the man, with the crowd flowing in between them. The colored guards were stuck in the smoke, and it seemed that neither them nor the crowd noticed this man descending from the platform. Maybe this was his chance. His chance for Bravery.
 Okin turned against the weight of the crowd. The shoulders moving against him bucked against his, but he stood his ground. Suddenly, Okin's gaze met the man's eyes. His  face was gaunt and scarred, more dark and weathered than most peasants in the eastern Versalist lands, though it was still obvious that this was a rather young man. But something in the man's eyes, a deep, fiery hatred, screamed that he knew Okin. And with that gaze, and some features of the man's face, and with the knowledge that that man had attacked the robed man, Previa's father, a thought coalesced in Okin's mind.
+=======
+Coughing. Screaming. The crowd moved like restless waves. The central cloud of smoke consumed the platform. . The colored armed guards ran into the smoke. Okin knew something was happening... that his mentor and friend, and his friend's father, was under attack. But what would he do? He would get in the way of those who could actually defend Aldwin. The screaming, the smoke, the fear he admittedly felt and the hated at the prospect of the thin man being burned... it was too much. Okin was taken up by the waves of the crowd. He surrendered himself into its waters.
+After running a few paces with the crowd, he had to turn back to the chaos of the central platform. A man emerged from the smoke. He was dressed as an ordinary urban peasant of the Citadel, in a long tunic of natural browns. But Okin knew the man was not just an ordinary peasant, he was the one who had created the smoke.
+Okin was some twenty paces past the man, with the crowd flowing in between them. The colored guards were stuck in the smoke, and it seemed that neither them nor the crowd noticed this man descending from the platform. Maybe this was his chance. His chance for Bravery.
+Okin turned against the weight of the crowd. The shoulders moving against him bucked against his, but he stood his ground. Suddenly, Okin's gaze met the man's eyes. His face was gaunt and scarred, more dark and weathered than most peasants in the eastern Versalist lands, though it was still obvious that he was a rather young man. Something in the man's eyes, a deep, fiery hatred, screamed that he knew Okin. With that gaze, the features of the man's face, and with the knowledge that that man had attacked the robed man, Previa's father, a thought coalesced in Okin's mind.
+>>>>>>> 88e198603f772eab3a1c5d805abdd1e2db78bdc1
 /Is that-- is it Cynin?/
 And then, as it often does, Okin's mind exploded in panic. /He's a Herald. And he just killed Aldwin. And he's here to kill you too./
 Okin dived back into the mass of the crowd and ran with it. He crossed shoulders with many people, hoping to lose Cynin in the sea of the crowd. He did not look back.
-Finally, the crowd slowed their movement, but Okin was still stuck inside its mass. It became clear to them that they had dispersed far away enough from the conflict, which seemed to not have escalated further. Okin, along with many of the others, turned back to the scene. Okin searched for Cynin, but he couldn't find him. He pushed through, ignoring the murmurming and cursing. Reaching the edge, he ran back toward the platform. The smoke was still building, half covering the face of the cathedral behind it and half covering the bottom of the much taller statue of Olitheon to its right. However, the guards had all descended from the platform. They were running to surround someone who was knelt down-- it was Previa, with his father in his hands. Okin glanced around the entire intersection, and down the street him and Previa had come down before. Finally, he caught a man running to get on a horse. He wasn't certain, but was quite sure it was Cynin.
+:comment:
+Be more explicit about Okin's emotions. Because he turns back pretty soon after, it feels jarring as is.
+:END:
+Finally, the crowd slowed their movement, but Okin was still stuck inside its mass. It became clear to them that they had dispersed far away enough from the conflict, which seemed to not have escalated further. Okin, along with many of the others, turned back to the scene. Okin searched for Cynin, but he couldn't find him.
+He pushed through, ignoring the murmurming and cursing. Reaching the edge, he ran back toward the platform. The smoke was still building, half covering the face of the cathedral behind it and half covering the bottom of the much taller statue of Olitheon to its right.
+The guards had all descended from the platform. They were running to surround two figures on the ground-- it was Previa, with his father in his hands. Okin glanced around the entire intersection, and down the street him and Previa had come down before. Finally, he caught a man running to get on a horse. He wasn't certain, but was quite sure it was Cynin.
 "It was him!" Okin shouted at the group of Devinars and colored armed guards, and pointed towards the man getting on the horse. "I saw him come out of the smoke!"
 The guards took a second between them to decide if they trusted Okin, then nodded and ran towards the man on the horse. Okin watched them run towards Cynin. He could follow, but it was probably pointless for now, they would catch him or they wouldn't.
-Instead, he turned back towards the knelt Previa, who was actually sitting on the floor. The young Devinar sobbed. Okin moved to the side to get a better view of the robed man, who was collapsed in his son's arms. Okin grimaced; Previa's father looked beyond old, like if a man kept growing after he was dead. The first thing Okin noticed were the offness of the man's colors, his hair was much longer than before but scraggly and twisted in many different directions, though it was gray before, now it was streamed in several uncomfortable shades of grey, his teeth were yellow, and his skin was also a whitish-gray. The man's gaunt hands lay motionless. His fingernails, colonized by dust and puss, were half as long as his fingers. His eyes were stretched open, and massive drooping bags contrasted against his now ghoulish skin.
+Instead, he turned back towards  Previa, who was sitting on the floor. The young Devinar sobbed. Okin moved to the side to get a better view of the robed man, who was collapsed in his son's arms. Okin grimaced; Previa's father looked beyond old, like if a man kept growing after he was dead. The first thing Okin noticed were the offness of the man's colors, his hair was much longer than before but scraggly and twisted in  different directions, though it was gray before, now it was streamed in several uncomfortable shades of grey, his teeth were yellow, and his skin was also a whitish-gray. The man's gaunt hands lay motionless. His fingernails, colonized by dust and puss, were half as long as his fingers. His eyes were stretched open, and massive drooping bags contrasted against his now ghoulish skin.
 "Dad! No, no, no, no!" Previa shouted and kept shaking his father. Previa held his father's cold face against his cheek. "Please! Oh Aredal!" He screamed up, but past, the massive statue above. "Oh Aredal! Give your Compassion to my father! Oh Nexon! Give him your Care!"
 He screamed directly at the statue just above them, with both its palms outstretched as if it was holding a large ball in front of its chest, "Oh, Olitheon, on your day, if it is my father's final hour, I know he will be blessed in your heaven, but please, give him some more time on Opartha, please!"
 Okin's heart wrenched at Previa's sobs. He walked close enough that Previa could see it was him and leaned down and hugged his friend.
@@ -197,8 +258,8 @@ Previa kept hugging his father's cold body close to his chest, but he leaned int
 Okin's throat froze as he pulled away from Previa and met the Devinar's teary eyes. "I-I'm not sure, but I think-- I think it was Cynin."
 Previa's jaw tensed. "That's not-- he'd be dead, Okin."
 "But, it would make sense, him coming to kill Aldwin. And he--," Okin said.
-"How would you even know it was him?" Previa asked.
-"I-- like I said, I don't. But it just, it looked enough like him," Okin said.
+"How would you even know it was him?"
+Okin flinched at the slight venom in his friend's words, "I-- like I said, I don't. But it just, it looked enough like him."
 "I mean how far away were you?" Previa asked.
 "I don't know. Twenty paces, or something."
 Previa's fist clenched and he stared off in the direction of the street they came from.
@@ -209,21 +270,28 @@ Previa immeadiately jumped to his feet like an angry teenager itching to get int
 Previa wooshed passed Okin, nearly knocking him over. The Athar sighed. He looked up to the statue of Olitheon, some several buildings' height worth above, just as the smoke was clearing from his face.  His head was numb, the events that just happened felt unreal.
 /Oh Olitheon, I am sorry for all the evils that happen on your day... in all your Wisdom, you are probably looking down on us and shaking your head. Please guide us. I know I am of Aredal, but please guide me... through whatever this is.../
 "Athar Okin," Okin was brought out of his trance by a fully armored guard holding a long spear. "I need you to come with me."
-Okin met the guard's harsh blue eyes. He nodded and followed the man down the circular road which surrounded the statues and large cathedrals in the center of the Citadel. They turned into one of the cathedrals with paint that looked like navy leather with vines of bronze stretching down and around it. The guard led Okin up a set of stone stairs into a small but fancy room, outfitted with custom wood dressers, and a petite table and tea set that one would think fit for a rich old lady. The guard motioned for Okin to take a seat and he obliged.
+Okin met the guard's harsh blue eyes. He nodded and followed the man down the circular road which surrounded the statues and large cathedrals in the center of the Citadel. They turned into one of the cathedrals with paint that looked like navy leather with vines of bronze stretching down and around it.
+:comment:
+It's fine for Okin to recongize the catherdal
+:END:
+The guard led Okin up a set of stone stairs into a small but fancy room, outfitted with custom wood dressers, and a petite table and tea set that one would think fit for a rich old lady. The guard motioned for Okin to take a seat and he obliged.
 "We're just having everyone close to Impalias Aldwin and any other potential targets under watch for the time being," the Devinar said. "I hope you understand."
 Okin nodded. "We'll keep you fed and guarded and notify you if we have any updates," the guard continued.
-He gave Okin a curt nod before leaving the room and bounding down the stairs. Okin just stared out at the parially transparent window, sitting upright in the chair much too small for him, his eyes seeming to ponder nothing but the second floor of the stone building on the other side of the street. But though his eyes were still, his mind was not. /How did Cynin survive all this time? Had he been waiting under their nose, just waiting for an opportunity, or was he living far away? Was Damin still alive? Did Cynin want to kill Okin? Was it really Cynin, or was it just Okin's fears that were getting in the way? What will Previa do now? Is Aldwin dead? Who will be the next Impalias?/
+He gave Okin a curt nod before leaving the room and bounding down the stairs. Okin just stared out at the parially transparent window, sitting upright in the chair much too small for him. His eyes seemed to ponder nothing but the second floor of the stone building on the other side of the street. But though his eyes were still, his mind was not. /How did Cynin survive all this time? Had he been waiting under their nose, just waiting for an opportunity, or was he living far away? Was Damin still alive? Did Cynin want to kill Okin? Was it really Cynin, or was it just Okin's fears that were getting in the way? What will Previa do now? Is Aldwin dead? Who will be the next Impalias?/
 His train of thought was interrupted by a knock on the door. His head whipped to it like a bird noticing a predator, and his fingers grew white against the table. The door squeaked open, and he readied his fists--
-He lowered them in a sigh as a short old woman with a pushed open the door with her lower back. She gave Okin a kind smile and he got up to help her with the tray she was holding, a plate with a loaf of sugared bread and some tea.
+He lowered them in a sigh as a short old woman pushed open the door with her lower back. She gave Okin a kind smile and he got up to help her with the tray she was holding, a plate with a loaf of sugared bread and some tea.
 "Thank you, Infantii", Okin smiled. He sat back down as she left the room, accidentally slamming the tea tray too hard against the table with his shaky hands. The tea in the cup jostled, just barely staying within.
+:question:
+Is infantii the persons name. Is this to esatblish that old ppl can be infantis?
+:END:
 Okin stared at the tea, which moved back and forth yet maintaining the top surface as a perfect oval, and the ever-so-slightly rattling cup. His eyes fixed on all the tiniest details, on the slight ripples in the brown water, on the chaotic triangles and small smudges in the leaf inside, to the little white specks quite natural for the stone the cup was made out of. His gaze shifted to the small loaf of sugared bread, running down the gradient from a soft yellow to a warm brown, over the distribution of sugar droplets. He sat down into the chair without moving his head, still focused on the treats in front of him. His stomach rumbled, but he didn't move a muscle.
 Okin stayed like that, waiting, salivating, feeling the dryness of his own body, analyzing the snacks before him, as the same thoughts bounced through his mind. He didn't know how long he stayed there. Eventually he started to hear the rhythym of his own breathes.
 The door squeaked open again. This time, two guards in the same steel armor, indistinguishable from the one who brought him in before, shifted and crouched to fit through the small wodden door. Okin stood to his feet to greet them.
 "Athar Okin, sorry for the wait," the first one said, plopping down his visor to reveal a face marked by spotted dark hair, on both his beard and eyebrows. His eyes went to the plate of snacks, untouched, and back to Okin.
 "Did you catch him?" Okin asked. His eyes went back and forth between the two guards, and he could tell the answer was no before they said it.
-"No," the second guard, noticeable by a scar across his left eye, said. "He was assisted by another group of Heralds, one of them Teleporation, at the north entrance."
+"No," the second guard, noticeable by a scar across his left eye, said. "He was assisted by another group of Heralds, one of them Teleporation, at the North entrance."
 Okin scratched his chin. "And was there two of them? In the original party?"
-"We were not in the pursuing party," the dark-haired guard said. "But the reports so far say so, that two individuals fled for the north entrance after Impalias Aldwin was attacked, though we also don't know exactly how many accomplices there were or what their roles were in their attack."
+"We were not in the pursuing party," the dark-haired guard said. "But the reports so far say so, that two individuals fled for the North entrance after Impalias Aldwin was attacked, though we also don't know exactly how many accomplices there were or what their roles were in their attack."
 "And the criminal? The one of the Darkness? Did he get away?" Okin asked.
 "His whereabouts are unknown," the scarred guard said. "But if you have any information about either him or "
 "I believe the attacker was a Light Herald," Okin said without skipping a beat.. "And uhm, I believe he may have an accomplice who's... of the Darkness."
@@ -232,12 +300,23 @@ The guards looked at each other. Their jaws clenched, and it was obvious they we
 Okin gave a solemn nod, "Four bless him."
 "And the Impalias noted you down as a replacement in case of his temporary leave, until an election can be held", the scarred guard said.
 Okin's eyes widened. His heart quickened. "I'm just a junior Athar. I've only achieved Truth, and I-I'm only thirty! I am far too inexperienced to be an IMPALIAS!"
+:comment:
+Okin can note some other notable young Impaliai here. Or talk about the typical job age range
+:END:
 "It is the will of the Impalias, who's authority is willed by the Mouth, who's authority is willed by the Gods," the guard said.
 Okin shook his head. "In Truth, I felt I did not even deserve the title of Athar. This-- this is a mistake."
 "It is not like this is our decision," the dark-haired guard said. "We are merely the messengers. Though if Impalias Aldwin has selected you, I'm sure there was Wisdom in his judgement."
 "I do not mean to insult a man I so dearly respect," Okin said. "But he has known me since I was a child. I'm afraid that nepotism has clouded his judgement."
+:style:
+Nepotism is prob a weird word to use.
+:END:
 "With all due respect, it is not my job to debate you or encourage you," the scarred guard interjected. "My job is to take you to the central chamber, to prepare for you duties as Impalias. We'll go through the Nexon chamber, if you don't mind."
-Okin nodded. The dark-haired guard held open the door for Okin and the three of them left the building. As they moved back onto the main central street, it was clear and clean yet bustling; one who was not here a few hours ago would not have known that the event nor the violent attack took place. They turned into an arch set between the legs of two of the massive stone statues into a large building made of a dazzling quartz-like surface, also outfitted with green, orangle, purple, and multicolor gems. Inside, Okin awed at the series of massive paintings. They depicted men and women in different outfits, most of a simple and ancient nature, yet different in color and shape. Some were portraits, some were landscapes, some set in the austerity of cold winter, some ontop of a picturesque mountain sunset, some depicted battles, others depicted meals. Yet though everything of the environment was different, and though the individuals varied in race and appearance, it was not just the style (which were of a romantic yet semi-realistic nature, with deep, contrasting colors), that told the viewer that these people all shared something in common; there was an unspeakable quality among them, like they knew the people in the other paintings, or even that they knew that the other people were in the paintings that they were in, even though the events depicted were nations and times away from each other.
+Okin nodded. The dark-haired guard held open the door for Okin and the three of them left the building.
+As they moved back onto the main central street, it was clear and clean yet bustling; one who was not here a few hours ago would not have known that the event nor the violent attack took place.
+They turned into an arch set between the legs of two of the massive stone statues into a large building made of a dazzling quartz-like surface, also outfitted with green, orangle, purple, and multicolor gems. Inside, Okin awed at the series of massive paintings. They depicted men and women in different outfits, most of a simple and ancient nature, yet different in color and shape. Some were portraits, some were landscapes, some set in the austerity of cold winter, some ontop of a picturesque mountain sunset, some depicted battles, others depicted meals. Yet though everything of the environment was different, and though the individuals varied in race and appearance, it was not just the style--- which were of a romantic yet semi-realistic nature, with deep, contrasting colors ---that told the viewer that these people all shared something in common; there was an unspeakable quality among them, like they knew the people in the other paintings, or even that they knew that the other people were in the paintings that they were in, even though the events depicted were nations and times away from each other.
+:comment:
+Having a hard time visualizing the hall. Painting descriptions are good
+:END:
 As they left the hall wherein all the paintings, and walked the steps of a stone spire, Okin's lungs squeezed inside his chest. Here he was, in the most powerful and holy complex in the world, about to be inducted as one of the most powerful leaders in the continent, after ironically being sent here by a failure. How could he tell the Council that he did not belong there? Surely, they would see that he did not, and it would all just be a quick, embarrasing moment to forget. It was Okin's dream to be here, in some ways, but no, because it just felt too distant. He remembered how he felt when Aldwin became an Impalias, how close it was to be so near to the heart of Versalism. And now, here, he was, and it felt surreal.
 Okin stepped up to the exit of the claustrophobic, dimly lit stair spire, and entered a tall, long hall with quartz walls set with topaz accenting that made long lines with swirling patterns at the end. Here, there were paintings as well, but they were all of one man, a figure who looked nearly identical to the statue of Olitheon that stood above them, with his narrow but still masculine face, tall frame, and long, pointy nose. Yet there was a quality different about him, mostly in his expression, which in every picture was a smile of some sort, both large, childish smiles, but also some soft smiles of an old friends appreciating each other in a quiet moment, as opposed to the kind yet serious expression on the massive statue outside. Like the paintings downstairs, these depicted the man in a variety of scenes; a few of the scenes had other individuals, but it was obvious he was the center and the throughline; In one he fought off four other figures, but it was him focused on the dominant side of the image, and the four on the other, and there were actually many with another man who looked identical to him that was no doubt the same man as the massive statue outside, Olitheon. In every artwork was composed to feel their closeness, and they both smiled, though the one that was not Olitheon always smiled brighter.
 As soon as Okin had fully stepped in the room, and had more than a spare second to take in the exquisite air that the display created, he immeadiately joined the two guards in a line in front of a statue of the featured figure at the far edge of the room. At once, they all knelt on one knee.
@@ -246,19 +325,29 @@ For some moments, there was nothing, and the guards and Okin looked almost comic
 "The Mouth has spoken. Permission is granted," his voice rumbled through the hall. He stepped back into the line, and then the line broke and folded so that pairs of men were facing each other. Okin and the two guards stood up from their position, and Okin noticed that on the right side was an identical line of guards, but unbroken, except these were heavily armored in the identical armors as the ones who were guarding Aldwin when he was attacked on the platform, except the white one was missing. Okin followed the guards through the left side, between the two pairs of men.
 /How powerful must these four Heralds be? They could probably take down a whole army of their own.../
 As they reached the top of the staircase, Okin's mind spun in a million directions. Here he was, about to meet the most powerful, holiest man in the Citadel, the direct leader of all Athars like him. Once they finally got through the doors, Okin's panic was only stopped by one fact: he expected the central chamber to be /bigger/. The room was nice, no doubt, not too cluttered or ostentatious; each priceless material was placed with intention; on the opposite side of which they came out elegant emeralds encapsulated a set of paintings, the largest and central being that of a dark-haired, angular woman with foreign eyes. There were two paintings on either side of her, one man and one woman on each side, of different builds and skintones; next to that entire set was another, this one surrounded by rainbow gems. The central figure in this one was another foreign-looking man with yellowish skin, jet-black hair, squinted eyes, a strong jawline, and a kind smile.
+:comment:
+Who is the women? Is it Intillia? I'm confused who the paintings next to the women are supposed to be
+:END:
 As he looked at each piece, Okin realized, as almost all men did when entering, that in fact his expectations were wrong, that the room was perfectly sized, that it had the symmetrical beauty both for form and function, and that every item within had itself the perfect amount of positive space it filled and negative space around it to shine itself and complement the items around it. That the closeness would remind the people within that they were sitting on top of an organized, holy order, where everything is already in its place and that they must act with total Wisdom to ensure its perfection.
-"I'm gonna have to extend my nighttime prayers by two hours today. Being the plainest thing in the room for years has caused me some Envy," Okin's wandering eyes found a man sitting directly ahead of where they had entered, on a chair in the round red wood table in the centre of the room. He wore a hat shaped like a diamond, with one of the tips ending right above his nose bridge. His robes were puffy, and four lines of equal measure streamed down the sides, green, orange, purple, and multicolored. He had a variety of jewelry, including four brooches on top of his hat, and a large necklace with sixteen gems. He gave Okin a bright smile. Okin knelt immeadiately, and only noticed after that the guards already were.
+:question:
+who is saying the dialouge after this? I don't understand what it means 
+:END:
+"I'm gonna have to extend my nighttime prayers by two hours today. Being the plainest thing in the room for years has caused me some Envy," Okin's wandering eyes found a man sitting directly ahead of where they had entered, on a chair in the round red wood table in the centre of the room. He wore a hat shaped like a diamond, with one of the tips ending right above his nose bridge. His robes were puffy, and four lines of equal measure streamed down the sides, green, orange, purple, and multicolored. He had a variety of jewelry, including four brooches on top of his hat, and a large necklace with sixteen gems.
+He gave Okin a bright smile. Okin knelt immeadiately, and only noticed after that the guards already were.
 "We'll leave you to your privacy, Holy Mouth of the Gods," the guards said, before exiting back down the staircase in which they came.
 The Mouth of the Gods nodded before standing. He stepped forward, still with a mischeivious smile, almost like a teen asking /Am I doing it right? Do I really belong here?/, before shaking Okin's hand. Okin locked in the shake for a long time, probably too long.
 "Why so nervous, Athar Okin?" the Mouth asked.
 "Well-- only handful of clergy even meet you, Holy Mouth of the Gods," Okin said. "And here I am, barely thirty, only having achieved Truth, and hearing that I am going to be inducted as an Impalias."
-"Sometimes... a thing does not profit from immeadiately receiving what is already finished," The Mouth of the Gods smiled with his cheeks. "Sometimes, it is not the beginning nor the end state of a being that the situation needs, no, it requires the process, the effect created by the transformation itself. I believe that may be the relationship between the Citadel and you."
+"Sometimes... a thing does not profit from immediately receiving what is already finished," The Mouth of the Gods smiled with his cheeks. "Sometimes, it is not the beginning nor the end state of a being that the situation needs, no, it requires the process, the effect created by the transformation itself. I believe that may be the relationship between the Citadel and you."
 Okin's slow nods betrayed his confusion.
 "It is good that we have someone so young, and going through the beautiful journey of pursuing the Virtues, among the High Council now," the Mouth of the Gods said.
-"Well, it's due to tragedy that I am here, so I hope it's not too long," Okin.
+"Well, it's due to tragedy that I am here, so I hope it's not too long."
 "I assure you we will have our best on the case for the investigation of this terrible event. But enough of that Pessimism. It brings me Joy that you are here," the Mouth motioned for Okin to take a seat. "I always love to meet new people. I /see/ new faces, but to connect to someone new, to grow with someone, like I get with the other Impaliases... it is rare. It is quiet here in the central chamber."
 "Well, I hope you can understand-- I hope I am more than a face, but as I said I still hope that it is Aldwin here growing with you soon, and not me," Okin gave a tight-lipped smile before siting down.
 "Of course," the Mouth nodded, and took his original seat. He cleared his throat and brushed some dust off his robe. "Devinar Aktro! Please will you bring me Athar Okin's things now?" He shouted down one of the corridors.
+:comment:
+Maybe these guards should be Krusadar
+:END:
 Heavy footsteps echoed through the hallway in response. A massive man, armored in the same kind of white shiny armor as Previa had worn before, walked up to Okin and presented a set of jewelry ontop folded robes to him. Okin received the package with open palms.
 "I apologize we don't have time for a formal ceremony, though if you really want one it can be arranged," the Mouth said.
 Okin shook his head, "There's not a more respectable place I could be." He felt the warm touch of the linen filling his palms.
@@ -282,3 +371,56 @@ The Mouth of the Gods looked at Okin expectedly, and lowered his staff until it 
 Then, his voice shaky yet determined, he delivered.
 "I do."
 The Mouth smiled, "Then as the Mouth of the Gods, he who proclaims the will of the Four on Opartha, I declare you Impalias Okin Santac of Aredal."
+* Chapter IV
+** Notes
+- Gendro Intro
+- Intro other characters
+- Istar roles explained
+** Chapter
+Aldwin's manor was in the Nexon quarter of the city, nestled between two townhouses. Okin had visted the home manor before, but it had a different air about it now that he was the Impalias.
+The manor was a two story house, surrounded by a well kept garden. The manor had enough room to house the Impalias of Whenran, his family, and few select servants. The remainder of the staff would likely live in the same quarter, in the many town houses and low lying apartments of the Citadel.
+Okin had been escorted from his meeting by the three guards. One in crimson red, one in golden yellow, and one in deep blue. Three of the guards who had failed to protect Aldwin. The only words the men had exchanged with Okin were to inform him that the last two guards were watching over Aldwin's body. Okin didn't blame the men for their silence.
+Lights shone out of the window as Okin approached the manner. In the drive way up to the entrance, stood a man and a women. They each wore the uniform of an Athar and Istar respectively.
+"Impalias Okin!" The woman said. She was a short middle aged woman with the blue eyes, almond brown hair and pale peach skin of a Nairfalkian. Her hair was cut in a straight bob that framed her round face. 
+"I'm Istar Amesa, and that's Athar Gendro." She said pointing to the taller man behind her.
+"There is no need for that," Okin said, quickly trying to wave the pair off.
+"We insist Impalias," the man, Gendro, said. Okin couldn't place the man's ethnicity, but his curly black hair indicated he was from one of the central provinces. Based on his long face and plump cheeks, Gendro was young for an Athar, not much past Okin's age.
+"Come, come, we have so much to catch up on." Amesa practically shoved Okin down the drive way and into the manor's two story entry hall.
+"Wh- where are we going?" Okin asked.
+"To Aldwin- I mean your study," Amesa led Okin down a hall on the first floor towards the back of the manor. They passed busts of the previous Whenran Impaliases and oil paintings of the Gods, till they reached the study at the back of the manor.
+The study was obviously not designed as such. It was awkwardly large, and had a glass door that led to a conservatory. A huge oak desk set to Okin's left, and behind it a painting of Aldwin and a young Previa.
+The room was crowded with at least fifteen other staff members of all ranks. The collective turned to Okin as he entered, and silence fell over the room.
+Okin could feel Gendro looking between the crowd and himself silently. Okin's heart skipped a beat under the weight of those eyes.
+"This is Impalias Okin," Amesa said after a long pause. "Impalias, meet your aides."
+"It is an honour to meet you all," Okin said.
+There were murmurs of agreement amongst the crowd. Gendro motioned for Okin to take a seat at the head of the oak desk. The Impalias took the seat silently. Gendro, Amesa, and the three guards--- now without helmets ---filled in after.
+His aides seemed to be from all over the Versalist World. He had heard most Impaliases recruited exclusively from their home province, but only half the assembled aides appeared to be from Whenran.
+"The first order of business is ensuring the Impalias is prepared for tomorrow's meeting," Gendro took a place at the side of Aldwin's desk.
+An Istar stepped up to slide a piece of paper across the desk. "I have this week's Registir here. I just updated it this morning, it's all the same topics as last week."
+Gendro gave the Istar a solid nod as she handed a second copy to him, then another to Amesa.
+"No, I have a more pressing issue," Okin said. All eyes in the room once again went to the new Impalias.
+"Impalias Aldwin was attacked today." Okin paused. He hung the silence long enough for the assembled aides to begin to nervously shift.
+Okin took the paper and read it over. He had learned what the Registir was during his training as an Athar. It was a list of all the issues and disputes from over the Versalist worked, which the Impalises worked to resolve in their weekly meetings.
+The list had twelve items on it, some of them were he recognised. /Troop allocation on the Western Front, Versalist presence in Marthia, Space Guild rate negotiations,/ and various requests by high Istars to fund their research projects.
+Two items caught Okin's eyes. /Funds for a new Trellian shipyard/, and /Wolstamm food shortage/.
+"Are these all real?" Okin asked.
+Gendro nodded, still reading over the paper.
+"There's a food shortage in Wolstamm? No one's said anything about it? How could they not?" Okin felt himself rise from his chair.
+"With all due respect Impalias, you were on the front." Okin glanced at Gendro
+"How did you know?" *Okin asked*
+"Impalias Aldwin thought quite highly of you," Amesa said with a fond smile. "He made sure to keep tabs on you and young Previa."
+Okin nodded, that made sense.
+"But news that big, it must have travelled to the front. Wolstamm is less than a day by Portal, and only a week or two ride by horse. Plus this news of a new naval shipyard? How many ships do they plan on needing?" Okin said.
+"50 ships," an Athar in the crowd said. Okin blinked. That would be doubling the size of the Navy.
+"50?" The room nodded in response. "How long would that take?"
+"If they approve the new ship yard, a decade. If we invested all excess resources from the region into it and brought in wood from Whenran."
+"So Aldwin... opposed this?" Okin asked
+Gendro and the aide both nodded.
+"What about the food shortages?" In his life time, Okin had only once heard of a food shortage barren province. Aldwin had once told him that when he was a child, it was common to hear of famine and starvation in the windswept hills of Wolstamm.
+"It was a particularly bad harvest," a third, new aide, explained. "In addition, two brigades of Surkusch cavalry raided the country side for months before Impalias Volmunst could gather the troops to fight them off."
+Okin looked at the aide, wide mouthed.
+"How did I not hear about this? I was on the front. If two brigades of cavalry had crossed into Wolstamm, we surely would have been mobilized."
+Out of the corner of his eye, Okin saw Gendro biting his lip.
+"We think you should avoid this topic tomorrow," Amesa said.
+"Why?"
+Amesa hand clutched the folds of her skirt. "

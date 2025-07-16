@@ -2,10 +2,28 @@
 * global
 - dig into perspectives (provide more thoughts) to mix up sentence structure
 - accidentally capitalizing Light, Dark, Time, maybe Space when referring to the colloquial forms-- ch 1-3
-
+** efficiency
+- eliminations-- what is too much, wasted screentime, that can be cut, at the sequence level? The scene level? The sentence level?
+- is all the dialogue serving multiple purposes?
+  - conveying info for the audience?
+  - pushing forward what the character wants?
+  - not retreading old ground?
+** Style Up!
+- choose indulgent descriptions-- what are the important set pieces or important entities to the character that call for a very thought-out, unique, detailed, memorable desc?
+- characterized perspective-- where do I need to change the desc, introspection, and vocabulary to be more /colored/ in the POV view?
+- style up general - make sure that the descriptions aren't common or cliche, makes the reader not engaged in imagining
+- dialogue -- how can we make character's dialogue more funny, personal, or intense?
 * syno
+- add wosa told synodontis to try to negotiate trade deal with cong lang ch 1, syno tries to do it to kitsai later after ji-xing's death
+- add more conflicts: ruit meeting scene-- synodontis wants to blow up at ruit but can't, tesaak meeting scene (maybe cut) ch 2, 5
+- cut wosa talk with ty-shou about trip scene to the middle of the conversation  ch 7
+- ensure syno 'we' is used ch 1-8
+- syno still wants to negotiate with kitsai's father-- kitsai emphasizes her father is dead ch 5
 - ji-xing make him use jewelry chapters 1-3
 - does ji-xing wear armor? ch 1-3
+- mention ty-shou silver hair ch 3-7
+- vang do mentions fear of the gestalt ch 2-6
+- ty-shou outfit ch 1-8
 - training sequence, showing most amount of emotion powers, likely ch 1
 - inciting incident is unclear: is it the king's death or the start of king making? if king's death, is break into 2 king making or when synodontis goes to the citadel?
 - consider no killing for ty-shou in the underground fight (ch 5)

@@ -34,6 +34,8 @@ Deflect kinetic energy back where it came from
 ** Contempt
 - see and target others weaknesses, create new weakness
 ** Hate
+** Pity
+- shrink others
 ** Othering?
 * Sadness
 ** Depressed
@@ -67,8 +69,9 @@ Healing to my state
 ** Forgiveness
 General healing
 ** Mercy
-* Fear (debuff others)
+* Fear (defense, debuff others)
 ** Terrified
+
 ** Anxious
 ** Threatened
 ** Overwhelmed

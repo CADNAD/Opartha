@@ -1,15 +1,19 @@
-* Impalias 
+* Impalias Xohl'a
+* Impalias Levinor
 ** Age
-73
-** Location
-Nairfalk / Intillia
+64
+** Appearance
+old, skinny, gray hair
+** Location/Type
+Nairfalk (Aredeal) ad  a
 ** Background
-Krusadar
+A traveling Athar up until his elevation. He was born to wealthy parents in Nairfalk, gave up their wealth to join the clergy. Extremely humble, austere. Doesn't own a mansion, sleeps in a room in his cathedral. Spends most of his time doing charity work with the civilians of the Citadel 
 ** Personality
-True Krusadar. War hawk who wants to go to war with Delmia and convert people to Veralists
+Levinor is the truest of believers in the text. He is a man of few words.  
 ** Powers/Abilities/Skills
 
 ** Goals
+
 * Impalias Ricartotten
 ** Age
 49
@@ -26,6 +30,8 @@ True Krusadar. War hawk who wants to go to war with Delmia and convert people to
 * Impalias Henard (Revictus)
 ** Age
 66
+** Appearance
+Gray hair, wrinkled square face. Okin's height
 ** Location
 Trenta / Aredal
 ** Background
@@ -36,9 +42,11 @@ Truth focused. Intellectual. Objective truth guy. True believer
 
 ** Goals
 Turn Okin to vote for the resolution, while pretending to be a friend
-* Impalias Vovwaq (Revictus)
+* Impalias Vovaq (Revictus)
 ** Age
 58
+** Appearance 
+Fat
 ** Location
 Monasque / Olitheon
 ** Background
@@ -51,6 +59,8 @@ He loves being an impalias. Enjoys the finer things in life
 * Impalias Mikeol
 ** Age
 66
+** Appearance
+Fit handsome man. Bald head, curling (french style) gray mustache
 ** Location
 Golzen / Olitheon
 ** Background
@@ -75,6 +85,8 @@ Boisterous and foul mouthed.
 * Impalias Mathelin
 ** Age
 57
+** Appearance 
+Shorter man, a bit shorter than okin. 
 ** Location
 Terillia / Olitheon
 ** Background
@@ -84,20 +96,7 @@ More classic sailor type. Loud mouth, short tempered.
 ** Powers/Abilities/Skills
 
 ** Goals
-Strengthen the Citadel's Navy
-* Impalias Levinor
-** Age
-64
-** Location/Type
-Nairfalk (Nexon)
-** Background
-A traveling Athar up until his elevation. He was born to wealthy parents in Nairfalk, gave up their wealth to join the clergy. Extremely humble, austere. Doesn't own a mansion, sleeps in a room in his cathedral. Spends most of his time doing charity work with the civilians of the Citadel 
-** Personality
-Levinor is the truest of believers in the text. He is a man of few words.  
-** Powers/Abilities/Skills
-
-** Goals
-
+Strengthen the Citadel's Nav
 * Impalias Ovolo (Revictus)
 ** Age
 48
@@ -113,6 +112,7 @@ Ovolo highly practical. He has a good control on his temper and is an accelerati
 
 ** Goals
 Retake Farsun
+* Impalias Beirst
 * Name/Aliases
 ** Location
 ** Background

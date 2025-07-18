@@ -414,7 +414,7 @@ The man gave a slow nod, "it will be done Impalias."
 "And you Impalias." 
 The three anti-Heralds exited the room with their task as Okin read the Registir over. He had learned what the Registir was during his training as an Athar. It was a list of all the issues and disputes from over the Versalist world which the Impalises worked to resolve in their weekly meetings. The mouth controlled the flow of issues. He had the power to decide which issues were discussed in each meeting, and the power to take any topics off the Registir.
 The list had twelve items on it, some of them were he recognised. /Troop allocation on the Western Front, Versalist presence in Marthia, Space Guild rate negotiations,/ and various requests by high Othars to fund their research projects.
-Two items caught Okin's eyes. /Funds for a new Trellian shipyard/, and /Wolstamm food shortage"Are these all real?" Okin asked.
+Two items caught Okin's eyes. /Funds for a new Trellian shipyard/, and /Wolstamm food shortage/,"Are these all real?" Okin asked.
 Gendro nodded, still reading over the paper.
 "There's a food shortage in Wolstamm? No one's said anything about it? How could they not?" Okin felt himself rise from his chair.
 "With all due respect Impalias, you were on the front." Okin glanced at Gendro
@@ -425,9 +425,9 @@ Okin nodded, that made sense.
 "50 ships," an Athar in the crowd said. Okin blinked. That would be doubling the size of the Navy.
 "50?" The room nodded in response. "How long would that take?"
 "If they approve the new ship yard, a decade. If we invested all excess resources from the region into it and brought in wood from Whenran."
-"So Aldwin... opposed this?" Okin asked
+"So Aldwin... opposed this?" Okin askedIt had supported the army since it was inducted into the Versalist world. 
 Gendro and the aide both nodded.
-"What about the food shortages?" In his life time, Okin had only once heard of a food shortage barren province. Aldwin had once told him that when he was a child, it was common to hear of famine and starvation in the windswept hills of Wolstamm.
+"What about the food shortages?" In his life time, Okin had never heard of a food shortage in the province. Wolstamm was said to be one of the richest provinces. It had been the bread basket of the army since it was brought into the Versalist world, and contained a great wealth of minerals. It was aid the mills of Wolstamm never stopped spinning. 
 "It was a particularly bad harvest," a third, new aide, explained. "In addition, two brigades of Surkusch cavalry raided the country side for months before Impalias Volmunst could gather the troops to fight them off."
 Okin looked at the aide, wide mouthed.
 "How did I not hear about this? I was on the front. If two brigades of cavalry had crossed into Wolstamm, we surely would have been mobilized."
@@ -467,4 +467,218 @@ A hundred or so steps up a hall way split from the staircase into in to an antec
 "I see the new Impalias is here," the man's baritone voice was tinged with a rough gravel edge.
 "It's an honour to meet you."
 Henard had been one of the men Okin most admired and most strived to bass his own life on. A paragon of Truth and Virtue.
+<<<<<<< HEAD
 "And it is an honour to have you amongst us young Okin." Henard said. He had the same soft fatherly smile of Okin's own father. Okin understood why so many over the Versalist world has sought the man out for guidance. "A fresh set
+=======
+"And it is an honour to have you amongst us young Okin." Henard said. He had the same soft fatherly smile of Okin's own father. Okin understood why so many over the Versalist world has sought the man out for guidance. "A fresh set of eyes and ears have always done the Impaliases good. It takes many perspectives to fully reveal the Truth."
+Okin nodded, focused, absorbing every word. Henard stared at Okin waiting for him to speak. The young Impalias dared say no words. Moments later Henard let out a hearty laugh at Okin's silence.
+"Come, I'm sure they're waiting for us already." Henard walked past Okin to the double doors at the antechambers far side. The chamber within was circular, and silent. Eight men sat around a large circular table. Behind the table, was an ornate cushioned chair.
+Okin let out a silent gasp at the sight. Before Okin had learned Temperance he had dreamed of being an Impalias. He had dreamed of living in the manor and of making policy and directing the Versalist world.
+Henard motioned to an empty seat between the Impaliases of Monasque and Golzen and Okin took it.
+"I am very sorry to hear about Aldwin," The Impaliases of Golzen said. He was a fit man, even into his late 60s, and handsome. The Impalias sported a bald head and curling gray mustache.
+"As am I," said the fat man at Okin's other side.
+"I thank you Impaliases Mikeol," Okin said turning to the bald man. "And you, Impaliases Vovaq. Your condolences mean a great deal."
+The Impaliases around the table took turns offering their condolences and introducing themselves. It was only after all had gone that the Mouth of the Gods entered the chamber. He wore the same robes and pointed that Okin had seen yesterday. He gave subtle waves and nods of greeting to the Impaliases as he passed to sit on the ornate chair at the back of the chamber.
+"Shall we begin?" The Impaliases around the table nodded in response.
+"The first issue we shall discuss is..." The Mouth looked over the Registir squinting. "Let's begin with a light issue. Othar Julesh has requested we approve a new sub-comitee to research what she calls /flintlock/ muskets. She claims that they'll be a marked improvement on our current matchstick muskets. Impaliases?"
+There was silence for a moment before Impalias Ovolo of Farsun, Grand Marshal of the Western Armies spoke, "I believe the idea to be solid. We have reports of Sirkusch's calvary using such weapons to great effect."
+The Grand Marshal was a tall man, nearly half a head taller than Previa. He was one of the youngest Impaliases ever elected when he was 34. The old Grand Marshal had been ousted after the early years of failure in the most recent war against Farsun and Sirkusch. Ovolo's hair was neatly trimmed and combed back, giving his hawkish face two sharp peaks.
+"Why can the council of advancement not manage such a project with their own resources," an old man's voice croaked out from opposite Ovolo. The voice of Impalias Levinor "We've given them more than enough to accomplish such a task."
+"She claims, that the best way to acquire them is to buy a shipment from Apathasaw. A deal she can't make without our approval," Mikeol said leaning back in his chair. "I personally think we should allow her to negotiate with them. If she manages to find a way through the Kaihani pirates to get our shipment, then that solves us all some headache."
+There was a series of nods from around the table.
+"The only solution to the Kaihani pirates is to increase our naval outreach," a shorter man on Okin's side of the table said. Groans came from a select few Impaliases.
+"Not everything is about your damned navy!" A high pitched voice yelled.
+"Maybe it should be," the shorter man replied.
+Okin searched for the voice and found it had come from a hulk of a man to Okin's right. Even sitting he clearly towered above the other Impaliases. He had a short mustache and beard and neatly parted brown hair. A huge scar cut across his left cheek and nose, ending a hair away from the man's right eye. 
+The mouth waved them to silence, "we will get to your proposal later Impalias Mathelin. Please. Focus."
+The shorter man barely bit back a word of protest at the Mouth's command, leaving the hulk of a man with a satisfied smile.
+"I vote in favour of forming this subcommittee," a man with hair braided in two strands said. The braids began at the hair line and divided the scalp in thirds. The Impalias had smaller thin eyes and a pointed chin.
+"I agree with Impalias Ricartotten," Mikeol said. The other Impaliases all gave their support until it was only Okin and Mathelin left.
+"I, uh..." Okin's eyes darted between the other Impaliases. Their faces were relaxed, almost unreadable. "I support this motion. I see no reason to reject an earnest proposal made in Curiosity."
+Mikeol patted Okin on the back, leaning in to whisper. "Well said young Impalias. Be not intimidated, we are all equals here."
+Okin nodded slowly. Those simples words were somehow comforting and nerve wracking all at once.
+Mathelin gave an over dramatic sigh, "fine. I agree. Let this motion be passed."
+"Let this motion be passed," the Mouth repeated as he made a mark on his copy of the Registir. "I suppose Mathelin would like to discuss his proposal?"
+Mathelin stood without prompting. "Yes, I would like to propose that we commission an additional shipyard to prepare for the planned expansion of our navy."
+Okin could see the hulk of a man roll his eyes, as did Levinor. The room was still aside from them, as if encased in amber.
+"No protests? I suppose we shall move to approve it then?" Mathelin's face shifted as a smug grin came onto his face.
+"How many ships are you buildings?" Okin blurted out. He hadn't meant to speak out of line, but still didn't believe the figure his aide had given him.
+"He wants fifty, he's getting zero!" The hulking man's high pitched voice yelled out, causing a quiet chuckle from around the table.
+Mathelin wheeled on the man, "you have such a strong opinion do you Volmunst?"
+"You're putting the cart in front of the horse is all," Volmunst shrugged. A murmur of agreement came from the crowd.
+"Impalias Volmunst makes a wise observation," Henard said. "How do we know if we truly need these ships and this ship yard?"
+"Any man can see it," Mathelin scoffed. "Apathasaw is becoming a more and more important nation by the day. The Kaihani become more aggressive with each turn of the leaves. Our colonies are thriving in the South. How are we to protect our interests abroad and spread Versalism if we are limited to the land?"
+Another wave of agreement.
+"You already got fifteen damned ships last month. Shouldn't we at least see your grand plan for ourselves before we go dumping resource that could be used /elsewhere/ into your project."
+"What would you propose instead?" Mikeol said.
+"I purpose we move to an issue that's actually pressing to our people. The food shortages in Wolstamm."
+"Of course you wish for us to shield your own province from your mismanagement." Mathelin threw the comment into the crowd with a casual roll of his eyes.
+"My mismanagement?" Volmunst said in a quiet tone. Okin instantly understood why he was to stay away from this topic in the meeting.
+Volmunst rose to tower of Mathelin, Mikeol let out a small whistle from Okin's side. "Krusadars, what else can you expect."
+"Was it my mismanagement that allowed 6,000 mounted men and horses to cross the straight and land in Wolstamm? Was it my mismanagement that allowed those two brigades to slip past the first and second army and into the heart of Versalist territory?" With that lat comment, Volmunst turned to Ovolo. "Was it my mismanagement that kept me here for weeks, discussing the budget for these new ships and rate hike contracts with the guilds? Weeks that prevented me from rallying my own men and riders to repel a force which should never have gotten so far in the first place!"
+Volmunst slammed his fist on the table causing the whole table jump.
+"Impalias Volmunst, that is enough! Back to your seat," the Mouth roared. "We will maintain the sacred order of this meeting." 
+"I will not yield!" Volmunst yelled. "My people are starving, /dying/! Wolstamm has given everything the Citadel has ever asked of it. We arm, house, and feed the righteous forces of Versalism. 200 years of the Citadel asking my people to turn their farms to mines. Wheat mills to steel mills. Bakeries to forges. My people have given all for the good of the war, for the good of the Citadel. Yet you ask us to invest in shipyards, missionaries, and more Devinars."
+Okin shied away from the man's passionate speech.
+"All I ask is a tax on your harvests, to be help feed the army and alleviate the pressure on my people."
+There was silence in the room. Volmunst looked each Impalias over slowly till he made eye contact with Okin. There was a plea in his eyes clear as day. /What would Aldwin have done? Surely, he would have helped the people in need. Whenran could afford to sacrifice for the good of all Versalists./
+"I support this motion," Okin said.yyy
+"As do I," Mikeol said with a grudging sigh.
+Another round of silence before Henard spoke, "Volmunst speaks to Truth. We have asked much of the people of Wolstamm. If they can not support themselves, then we will fail to support our own army. There is Wisdom in this decision. I agree."
+The others slowly agreed until only Ovolo and Mathelin remained.
+Ovolo ran a hand through his combed hair. The man chewed on his decision, slowly running it over. "It's true the army does need more food. I will agree if Impalias Mathelin does. As I hold no land, it is improper of me to make a decision on your behalfs."
+Mathelin had cowered from Volmunst's rant. He had slipped silently back in his chair and had allowed his wavy hair to fall over his eyes. As he began to speak, Okin could see his hands visibly shake.
+"I... I understand Impalias Volmunst's concern," Mathelin gripped his hands into fists."But we have a careful balance, who's to say this food tax won't ruin us all?"
+"Mathelin," Henard spoke with an even voice. "Do you not know Sacrifice? We all know the Truth of the matter. Trellia can afford to share it's bountiful harvests with it's brother and sisters."
+Okin could see a line forming between the two Impaliases as Mathelin glared at the older man. Henard's face held only a soft, nearly condescending smile. Mathelin bristled, but did not back down. There was an internal order to which the Impaliases seemed to all defer to, if not respect
+"I. Approve. This. Motion." Mathelin practically spit each word out. Henard tipped his gray head with a satisfactory smile.
+"A second issue, resolved," the Mouth said with a heavy sigh.
+Okin could tell today's meeting would be a long one.
+* Chapter V
+** Chapter
+Okin sat in Aldwin's study, reading over a stack of reports from his aides. His head still hurt from the meeting two days prior. Okin had expected Impaliases to be composed and formal, he had expected the decorum to be overwhelming. The meeting have been much more casual and adversarial than Okin could have ever imagined.
+Had Aldwin somehow kept order amongst the Impaliases? Okin had gathered, from Amesa and Gendro, that Aldwin had been somewhat of a leader amongst the Impaliases. /Of course he was a leader, anyone would know to respect Aldwin./ Okin did not feel similarly about himself. Previa and his Devinars had barely respected him when they were at the front, those had been men that he worked closely with and advised. One that should have known the quality of Okin's character, yet they could did not respect Okin.
+A knock came at the door and Okin bid the knocker to enter.
+Gendro appeared holding a plate of food. The smell made Okin's stomach grumble loudly.
+"My apologies," Okin said. "It seems I let my hunger get the better of me."
+Gendro smiled, "no apologies required Impalias. It's my job to do things like bring you food after all. Would you like to eat here or in the conservatory? I could also bring the plate back to the dining room if you would like."
+"Which did Impalias Aldwin prefer?" Okin asked.
+"He enjoyed his lunches in the conservatory. One of the many reasons he had this room converted from sitting room to study."
+Okin waved Gendro towards the conservatory. "Outside it is then."
+Gendro held the glass door to the conservatory open for Okin. He drank in the sunlight as he sat down at the room's small table. The sunlight gave the room a pleasant, but not stuffy, warmth.
+The Rothar set the plate plate of food down. It was a dish of spiced beef on a plate of roasted vegetables, a dark red sauce drenched the plate. "Aldwin picked a great cook didn't he?"
+"He did Impalias."
+Okin eagerly dug into the food, shoveling bites into his mouth. He was five bites in before he realized how Gluttonous his behaviour appeared. He set his fork down and wiped the sauce away from the corner of his chin with a mirthful smile.
+"I guess Aldwin was more dignified wasn't he?" Okin asked Gendro
+Gendro leaned against one of the glass walls, watching two birds hopping around each other in the garden outside. "Not at all Impalias. I don't think I've ever seen a man eat faster than Impalias Aldwin did."
+"Truly?"
+Gendro nodded. "If he ate at all that is. I remember when I first began, Amesa would often have to force Aldwin to make time for meals."
+Okin could understand why. He had spent the better part of the night reading papers by candle light. But the stack of reports on his desk had only grown and grown. Most of the reports were meaningless numbers to Okin. A confirmation of shipments at a dock, reports on the elevation of this Othar or that Athar, a Krusadars distinguished actions, a string of murders in one of the northern regions. He knew each of the reports meant everything to someone, but they meant nothing to him.
+Okin wanted desperately to slow down and learn each and every person's story. He wanted to know the Othar's and Athar's under him, and understand why Whenran needed the resources it consumed. But he didn't have time.
+"Perhaps it's best if you do the same and remind me when to eat." Okin said as he forked another piece of vegetable.
+"I already did Impalias," a small smile tugged at the edges of Gendro's mouth.
+Okin ate the next few bites in silence. He watched the two birds in the garden alongside Gendro, wondering what problems troubled their worlds.
+Far off, Okin could hear rapid knocking at the main door. The two clergymen turned at the sound.
+"Were we expecting anyone?" Okin asked.
+"No we were not," Gendro motioned for Okin to stay seated as he moved off towards the main hall. A moment later voices came from the hall, it was a voice Okin recognized.
+"Previa?" Okin asked standing. He made his way back to the study as his friend burst through the door, out of breath. "He's here!"
+"Who's here?" Okin looked to Gendro, but the aide was equally confused.
+"The man, the one from the East that we've been hearing about. He's here, and he's claiming to be Aredal."
+Okin froze. He had heard the rumours, but they were just that. /Rumours/. Made by some trumped up warlord in the East trying to claim more of their heretical religion.
+"Y- you need to see him," Previa gasped. "I ran all the way here from the outer gates."
+"He's attacking the Citadel?"
+"No, he's in the walls," Previa replied
+"He's already breached the wall?"
+"He comes in peace," Previa yelled. "He wants to recruit us? He wants us to join him for something, I couldn't make it all out."
+"Thank you for coming to get me," Okin said."Gendro get a carriage and guards ready, and Previa something to drink."
+Gendro nodded leaving the study at a run. "Sit, sit, catch your breath."
+Previa waved Okin off, "my dad. Where is he?"
+"They didn't tell you?" Okin blinked, dumbfounded.
+"Just tell me where he is."
+"He's in a hospital near here. Two rings in, and four streets clockwise."
+"Thank you," Previa grabbed Okin into a tight, sweaty, hug.
+The younger man ran off faster than Okin had ever seen him move. Okin clasped his cape on as he ran to the street. He was surprised to find Gendro ready with the carriage. The aide sat in the driver's position, one armoured Devinar beside him, and another in the carriage. Okin leaped in and yelled at Gendro to drive.
+Gendro spurred the horses down Nexon boulevard. It seemed most people in the inner wall had yet to hear of the figures arrival, along the avenue people milled about their daily tasks, unaware of the gravity of the moment.
+The carriage passed through the gates of the inner wall at a worrying speed. Gendro shouted at pedestrians as they barrelled past shops and homes. Halfway through the outer ring, they began to run into a thicket of bystanders. From inside the carriage Okin could hear their shouts of amazements, but couldn't make out the exact event or words.
+"What can you see?" Okin asked Gendro, leaning out the carriage window.
+"I can't see anything."
+"Get out, we're walking," Okin hopped out of the carriage. The two Devinars fell in behind him, allowing Gendro to take point.
+"Impalias coming!" Gendro's voice bellowed over the crowd. The outer ranks turned to see him and parted. A whisper passed like a wave through the crowd at the sight of Okin.
+"Impalias, it's truly him!" A man in the crowd shouted. "Aredal reborn!"
+Enthusiastic nods followed through the crowd.
+"He did it!" Another voice came. "Aredal's power, he has it!"
+Okin wheeled on the voice, practically grabbing the man. "What did he do, what did he do exactly?"
+"He made us all /powerful," the man seemed to be vibrating with energy. His eyes had a faint glowing sheen behind the iris. The man claiming to be Aredal had obviously done something to the crowd, showed them something, Okin only needed a reliable source.
+Okin pushed past Gendro, despite the Rothar's protest and into the crowd.
+As he neared the front he began to hear the voice of the man claiming to be Aredal.
+"If you all join the pyramid, all our problems would be easily overcome. We believe this to be the optimal course for us all."
+Okin pushed past the final ranks of the crowd and found himself face to face with /his/ god. The man had the correct look of Aredal. He looked slightly older than Aredal did in the paintings. But he had the correct silver eyes and hair.
+:comment:
+add Ty-Shou description here and double check with references
+:END:
+"Are you the one claiming to be Aredal?" The word left Okin's mouth in a frantic rush.
+"We are," the man's voice had a calming, authoritative air.
+"Why have you returned now of all times," Okin asked.
+"Yeah! Is tregale coming back?" a voice from the crowd yelled.
+"Tregale..." the man paused. "Tregale will one day return, and we will be there to fight alongside you all."
+"But how?" Okin asked. If they man was truly Aredal reborn, he would know the Truth. The Truth of it all.
+"He will return by his own will," the man said. "If you join me in my pyramid, we can prepare the world for Tregale's arrival."
+The crowd seemed to accept that answer.
+"Do you really hate Tregale?" Okin asked
+"We do. He is an evil that must be wiped out." The Onorun said that Aredal was a compassionate man. That he hated no one, not even his greatest enemies. He understood his role in protecting, but took no great pleasure in combat.
+A cheer went up from the crowd, and Okin felt his stomach drop at the response. The man had none of the Truth about him. The Impalias fell silent, allowing the questions of the crowd to drown him out.
+"When will the others return?"
+"Soon. Soon," the imposter said.
+A woman burst through the crowd, "show it again, please. Show us your power."
+The man smiled at the woman, and touched two fingers to her forehead. She began to glow, become a brilliant light in the crowd. She laughed and began to grow. Her laughter shifted to calm and she began to grow back to her normal size. It was as if the imposter had blessed the woman with the gifts of a Light Herald.
+"We are Aredal reborn." The man said, his voice booming with Light Herald amplification.
+From behind, a new commotion moved the crowd. Okin turned to see Impalias Henard and Impalias Ovolo parting the crowd.
+"We are glad to more Impaliases have come to observe our majesty."
+"I am Impalias Ovolo, and this is Impalias Henard." Ovolo stood two paces in front of Henard, his hand resting on his sword.
+"Your reputations proceed you."
+"You claim to be Areadal?" Henard asked.
+The imposter shook his head, "we make no claims. We simply are Aredal."
+Ovolo raised a scarred eyebrow. "Why should we believe you?"
+"Because your people do," he gestured to the crowd who gave a deafening cheer.
+"We only ask for your support in our quest to unify Central Marthia under our banner."
+A guard, dressed in a stark white uniform, motioned for the imposter's attention.
+"Unfortunately, we do not have much time. The people in Central Marthia require my attention"
+As the man turned away a new shout rose on the wind. Okin recognized the desperate voice as Previa's instantly. He was more than a hundred paces away, trailing a cart with two Istar nurses in it.
+The imposter hadn't heard Previa. The guard opened a portal as Previa continued to barrel towards the Imposter. The portal grew, and Previa's cart seemed to grow further and further with each and every second.
+A final cheer went up in the crowd as the imposter stepped through the portal. A moment later the portal collapsed. The sound of thundering hooves came to a halt as Previa drew up at the edge of the crowd. The Devinar hopped off the cart to run through the crowd at Okin.
+"Where did he go? My dad, he needs to heal my dad!" Previa grabbed Okin by the shoulder, shaking his older friend.
+"I- I think he left," Okin was in shock from the whole ordeal.
+Previa shook Okin once more, "what do yo mean he left? He just got here?"
+The younger man's hair fell in front of his face, his eyes loosing focus. Okin could feel Previa's finger digging into his shoulders till the pain surged through his upper body.
+"How could he abandon us?" Faces in crowd turned towards Previa's ranting. "He's Aredal isn't he? Aredal wouldn't abandon us, he wouldn't!"
+A bronze skinned hand grabbed Previa by the shoulders, yanking the man off Okin. "Pull yourself together young man. You are better than this. Do not shame your father."
+Ovolo had one hand on Previa's shoulder trying to shake the sense back into the man.
+"My dad needs to be healed he won't sur-" a slap cracked the air as Ovolo back handed Previa.
+"What would your father say seeing you like this. Ranting and raving like a mad heretic."
+"Impalias Ovolo, there's no need for this..." Henard placed a hand on Okin's shoulder to silence the younger Impalias.
+Previa's face fell slowly, "dad would be ashamed... you're right Impalias."
+Ovolo let Previa go with a slight scoff. Okin was shocked by the Impalias' attitude, he had seemed a calm mediator in the meeting. No hint of the domineering attitude Ovolo displayed could be seen.
+Ovolo turned to the crowd and shouted over the bodies, "all of you, disperse yourselves."
+Before the crowd could react, the Grand Marshal turned to the two other Impaliases. "I will go inform the Mouth of these events. You two handle the crowd."
+Ovolo whistled his horse over and flung himself into the saddle in one fluid motion, the same process would've taken Okin minutes, not seconds.
+"What- what do we do now?" Okin slowly turned to Henard. The older man gave a slight shrug.
+"The people will leave soon enough, Ovolo worries too much about them."
+"I mean, about the impostor."
+Henard raised a gray eyebrow, "why are you so quick to label him an imposter?"
+"He's obviously not Aredal. He know nothing about Tregale, and his attitude is all wrong."
+"There is no Truth in that," Henard said. "How do we know he is or is not Aredal? Those who believe will see the signs. Skeptics like you will point only to inconsistencies and say all evidence is coincidence. To truly embody Truth, you must leave your mind open to all possibilities."
+Okin saw the Wisdom in that reasoning. Okin had called the man an imposter based on a reaction, and his knowledge of the Onarun. But there was doubtless countless arguments and passages in the Onarun that would justify this man as Aredal reborn.
+"I'm sure this will be quiet the topic in the next meeting." Henran said with a smile.
+* Chapter VI
+** Chapter
+It had twelve days, three whole weeks since the man claiming to be Aredal had arrived at the Citadel. Okin had set a member of his staff to collect all the information they had on the imposter. They hadn't been able to turn up any new information, only growing rumours. People said he was a man controlled by Deionis to trick them all. Others said they had seen him give the man the ability to fly, or that he had healed the dying. None of those were the Truth. Okin still felt it was useful to keep track of and make note of.
+Even without the rumours, Okin could feel the difference in energy as he walked towards the central Cathedral. Okin had spent the previous two weeks in Whenran, overseeing certain matters in person. He had returned the previous day, via the Citadel's own portal network. Okin had never been able to afford to use the Guild's network of portals, nor had he been granted access to the Citadel's portal network as an Athar. Being able to get anywhere in the Versalist would in a matter of hours was a level of privilege that was hard to comprehend.
+The Cathedral was overflowing with worshippers as Okin and Gendro approached. They had come down Nexon Boulevard, passing devotes leaving and making their way towards the Cathedral. In front of statue of Nexon, people had gathered in group prayer, the smell and haze of burning incense filling the street.
+Aredal's entrance was even more extreme. People lined the boulevard, shoulder to shoulder, all the way past the statue. If Okin had been just an Athar there was no hope he would have been able to make it to the crowd. Even with his robes on and Gendro's bellowing voice, it took nearly half an hour to get from the statue of Aredal to the Cathedral's door.
+Inside the Cathedral people packed the pews in every one of the four quadrants. The constant song of prayer rose in one harmonious voice from the crowd that shook Okin's very soul. He had only ever seen a mass as large as this outside of the army's pre battle prayer, those prayers contained thousand about thousands of ranks of Devinars and Krusadars but paled in comparison to the devotary before Okin. As Okin ascended the stairs to the meeting room the prayers could still be heard in muted tones.
+Okin was the first to arrive in the meeting room, alone he finally had the opportunity to explore the details of the room. Portraits of all the sixteen hung around the room. The portraits were evidently aged by their slightly faded colours and faint cracking. It seemed nothing, even in the heart of Versalism, was eternal.
+The portrait of Aredal looked nearly exactly like the man who had claimed to be Aredal reborn. The same silver eyes and hair, the same hawkish nose and pointed chin. Upon closer investigation, it was clear the portrait had even included the folds around the man's small thin eyes. It was remarkable how closely the man's appearance mirrored the one in the portrait. As he stared at the portrait, Okin could easily understand how one could believe the man had in fact been Aredal.
+"The resemblance is truly uncanny," Okin turned to see Henard enter the chamber. "These are the oldest paintings of the gods we have. They date back to only a hundred years after the ascension."
+The fact caused Okin to take a step back. He had thought these paintings to be a hundred, maybe two hundred years old. To know they were nearly nine hundred shocked Okin. They hadn't been preserved poorly, rather it was incredible they had been preserved so well.
+"Do you believe these portraits to have Truth in them?" Okin asked.
+Henard nodded in response.
+"Then should we not believe the man is speaking to Truth with his claims?"
+"It is a component," Henard said after a long moment. "But we must consider every component to arrive at Truth. Come, take a seat, the others should arrive soon."
+Okin took the same seat as he had in the previous meeting, Henard sat three chairs down from him. As the first Impaliases arrived, Okin sat alone till Volmust arrived.
+"Impalias Okin," the hulk of a man said as he took the seat next to Okin. Okin gave a small nod in reply.
+"I want you to know that I appreciate your support in the last meeting. I find it harder and harder to find sympathy for my people amongst this /council/."
+"Of course Impalias," Okin said.
+"I liked your predecessor quiet a bit. Very fair man that one." Volmunst gave a long, sad sigh with his words. 
+"He's not technically my predecessor. I'm only here temporarily." Okin said.
+The older Impalias shook his head, "you're a shoe in to be the next Impalias now. As long as you don't completely ruin everything, which you seem smart enough to not do."
+Volmunst flashed a quick chuckle and patted Okin on the back.
+"Be nice Volmunst," bald headed Mikeol said as he swept into the room. "Our role is no easy task."
+"I was being nice. Simply complimenting the young Impalias on how well he's performed. Don't you think?"
+"We have seen worse," Mikeol sat down in the other chair at Okin's side as the final Impaliases filed in. The small din of conversation fell to silence as the 10th and final Impaliases sat, a man who hadn't been present at the prior meeting. Impalias Xohl'a of Neiexilee'i, the black sheep of the Versalist territories. Like the colonies, that had recently been founded in the ruins of Vianarya, Neiexilee'i existed overseas in Caspo, but had full territory status. It was self sufficient, and one of the more materially rich territory in the Versalist world, and didn't require support from the territories like the colonial lands did.
+Xohl'a was a tall wisp of a man, the Impalias robes fell off the his thin frame to swallow him in a swath of cloth. The man had dark obsidian skin, which stood out against the the golden jewlery he wore. Two large golden bands hung around his neck, and small golden hoop earrings threaded the lobe and cartilage of his left ear.
+No one spoke as the group waited for the Mouth to descend from his room above the meeting chamber. The Mouth had not been seen or heard from since the man from Bei-San had come. When the Mouth finally descended into the chamber, all ten sets of eyes turned to watch him.
+He looked like he had aged ten years in the last three weeks. The already old man now hunched as he walked, new wrinkles had set in across his forehead, and his walk was now shaky and hobbled. Volmunst and Ovolo rose from their seat offering to help the Mouth to his seat. The mouth waved them off and went to collapse into his elevated chair.
+"For the past weeks, I have prayed, fasted, and given all I can to the Gods in hope that they shine their Wisdom upon me. All so I may know is this man from the East is one spoken of in the Onorun. But this is not a question I can answer on my own. I am putting the topic of the man from the East onto the Registir and forcing it's selection as the first topic for today's meeting."
+Of course that would be the topic, Okin didn't need to see it on the Registir to know it was the only thing that would be discussed on this momentous day. Okin glanced to his side to see Mikeol sit up from his casual lounge. The bald laced his fingers together, leaning forward.
+"No comments?
+>>>>>>> 683afa9bed43e922e3de5a1bbca3913a6563674d

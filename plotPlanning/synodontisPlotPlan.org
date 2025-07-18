@@ -46,7 +46,7 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [X] Meets Kitsai, she asks if he is a god like his people say he is
 - [0] Taleito introduces himself, he asks how Ty-Shou intends to govern Bei-san
  Inciting Incident
-**** ! The banquet is interrupted by the King's death
+**** ! The banquet is interrupted by the King's death [a-goal: defeat cong-lang]
 - [X] Anut arrives late and rushes to the brother, and everyone eventually comes to the conclusion the king is dead
 - [X] The two begin to leave the room, when the brother collapses and so do other members of his train and those around the hall
 - [X] Ji-Xing wants to leave, Ty-Shou and Kazon push through to try and help the brother. He is unable to heal the poison because he can't feel the emotion
@@ -105,6 +105,8 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [X] Kitsai flees to the leader's compound, but the leader betrays her
 - [X] They flee from the leader's town
 - [X] They fight off arriving Cong Lang squads
+* Part II
+** Break Into Two
 *** Chapter 8
 **** Wosa tells Ty-Shou to turn Kitsai over to the monks
 - [0] Wosa is outside the walls of Bei-san with troops, and Vareeshi monks when Ty-Shou arrives
@@ -115,11 +117,9 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [X] Wosa says that it isn't their place to judge right and wrong for the Vareeshi, and that there are procedures in place for this. Believes they should stick to tradition
 - [X] Kitsai explains that Anut is the one that should be investigated and refuses to be handed over
 - [0] Ty-Shou sides with her, insisting she is innocent until proven guilty and that there should be no problem with her styaing in Bei-san
-**** Kitsai convinces Ty-Shou to change his mind
+**** ! Kitsai convinces Ty-Shou to change his mind
 - [X] Kitsai private convo with Ty-Shou
 - [X] Ty-Shou says to monks he will make his own pyramid and [Kitsai will be in his top five]
-* Part II
-** Break Into Two
 *** Chapter 9
 **** Kitsai pleads her case to the Bei-Sanian nobility and the nobles agree to join Ty-Shou's pyramid
 - [X] Wosa tries to delay and finds Lai-Ren
@@ -136,9 +136,14 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [X] Ty-Shou convinces the nobles of his religious destiny and he will lead their armies
 **** Pyramid Ceremony
 - [X] Ty-Shou is given a ceremony by the monks and his own silver necklace, and ball, and the construction of a pyramid is started in the palace lobby
-- [] The nobles immeadiately start petitioning Ty-Shou for higher ranks and fighting about it
-- [] Lai-Ren introduces Ty-Shou to his beautiful daughter, there is some chemistry but she feels too shy. Ty-Shou decides to pretend he is just like any other guy
-- [] Ty-Shou goes to the Citadel, cuts to an Okin chapter.
+- [X] The nobles immeadiately start petitioning Ty-Shou for higher ranks and fighting about it.
+- [X] Lai-Ren introduces Ty-Shou to his beautiful daughter, Liang-Tai, who is studying negotiation and global politics. There is some chemistry but she feels too shy. Ty-Shou decides to pretend he is just like any other guy
+- [X] The other nobles start to think this is a competition and offer more things, lands, money, etc. Wosa sees this as a good opportunity to centralize power.
+- [X] Ty-Shou chooses to leave the nobles and declares that each will have an official meeting, and all are to leave the central compound until tomorrow.
+- [X] Wosa reports that though the high nobility is excited, the lower nobility is worried and many are planning to avoid joining
+- [X] Kitsai recommends Ty-Shou wow the country, and immeadiately dominate the conflict, by getting the Versalists on their side
+- [X] Ty-Shou is afraid, he's never been there and doesn't know about them Kitsai assures him
+- [X] Ty-Shou goes to the Citadel, cuts to an Okin chapter.
 *** Ch 9 A
 **** [0] Ty-Shou visits the Vareeshi quarter of Bei-San and officially declares himself a Candidate
 - [0] Ty-Shou visits the Vareeshi corner of Bei-San to get their advice and to drum up interest in the ceremony
@@ -146,9 +151,11 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 *** Ch 10
 **** Ty-Shou's inner circle reviews all the King Making declarations. Wosa pushes Ty-Shou to argue with Kitsai
 - [] Kitsai wants to be fifth but the nobles and Wosa don't want a foreigner that high. Kitsai retorts she will have insider knowledge on one of their main enemies.
-- [] Wosa doesn't want to be high, says he needs to be protected in the background. Requests a prime number.
-- [] Ty-Shou must choose between powerful heralds and rich rulers, those he knows and those he doesn't.
-- [] Lai-Ren offers his beautiful daughter as a wife for Ty-Shou as an offering for a high place. Wosa sees this as an opportunity to oust Kitsai and accepts the request. (further juxtaposing Ty-Shou's desires and his expectations as god)
+- [] Wosa doesn't want to join at all, says he needs to be protected in the background. Ty-Shou says that his highest advisor needs to show loyalty in this time.
+- [] Settle on Wosa having a prime number.
+- [] Another tribal leader, who is famous for being corrupt and gangster like and robbing Bei-San in the past, offers to join Ty-Shou for a high seat. It would be unpopular among the others.
+- [] Ty-Shou and Wosa discuss his choices between powerful heralds and rich rulers, those he knows and those he doesn't.
+- [] Lai-Ren offers his beautiful daughter as a wife for Ty-Shou as an offering for a high place. Wosa sees this as an opportunity to oust Kitsai and accepts the request. (further juxtaposing Ty-Shou's desires and his expectations as god).
 - [] Ty-Shou finalizes his top fifty, and then gets Wosa etc to do the rest and start recruiting Bei-Sanians
 - [] Wosa learns in horror that Ty-Shou went to visit the Citadel when Ty-Shou mentions his pyramid may need reconstructing after the Citadel joins.
 **** The generals plan strategy
@@ -157,7 +164,7 @@ Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be 
 - [] The main players and their top few are discussed. Ty-Shou's assistants got confirmation from the monks who was taken in Cong Lang's power grab. ( a few minors and one powerful pyramid )
 - [] The main debate becomes whether to just fortify, attack Xirin/Hysho, or to go right for Cong Lang.
 - [] Kitsai recommends going right for Cong Lang. The other ten say she is biased and not to be trusted.
-- [] Ty-Shou's wedding commences with his new bride.
+- [] Ty-Shou's wedding commences with his new bride. Liang-Tai asks if she can be negotiator as a wedding gift.
 - [] Kitsai secretly meets Ty-Shou in private after the wedding, with Kitsai disguising it as a strategy discussion. Ty-Shou tells Kitsai she must be patient. Kitsai thanks him and kisses him. Ty-Shou feels mixed between his duty to his new fiance and Kitsai.
 ** First Pinch Point
 *** Ch 11 Xirin attacks the city

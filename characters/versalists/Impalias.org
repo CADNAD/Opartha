@@ -1,5 +1,5 @@
-* Impalias Xohl'a
-* Impalias Levinor
+* Impalias Xohl'a (Pro)
+* Impalias Levinor (Revictus) (Pro)
 ** Age
 64
 ** Appearance
@@ -14,7 +14,7 @@ Levinor is the truest of believers in the text. He is a man of few words.
 
 ** Goals
 
-* Impalias Ricartotten
+* Impalias Ricartotten (Pro)
 ** Age
 49
 ** Location
@@ -27,7 +27,7 @@ True Krusadar. War hawk who wants to go to war with Delmia and convert people to
 
 ** Goals
 
-* Impalias Henard (Revictus)
+* Impalias Henard (Revictus) (Anti)
 ** Age
 66
 ** Appearance
@@ -42,11 +42,10 @@ Truth focused. Intellectual. Objective truth guy. True believer
 
 ** Goals
 Turn Okin to vote for the resolution, while pretending to be a friend
-* Impalias Vovaq (Revictus)
+* Impalias Vovaq (Revictus) (Pro)
 ** Age
 58
-** Appearance 
-Fat
+** AppearanFat
 ** Location
 Monasque / Olitheon
 ** Background
@@ -56,7 +55,7 @@ He loves being an impalias. Enjoys the finer things in life
 ** Powers/Abilities/Skills
 
 ** Goals
-* Impalias Mikeol
+* Impalias Mikeol (Anti)
 ** Age
 66
 ** Appearance
@@ -64,16 +63,15 @@ Fit handsome man. Bald head, curling (french style) gray mustache
 ** Location
 Golzen / Olitheon
 ** Background
-
 ** Personality
 Gorbachev type. Very personal able, but no one has good or bad things to say. Just neutrally liked
 ** Powers/Abilities/Skills
 
 ** Goals
-* Impalias Volmunst
+* Impalias Volmunst (Pro)
 ** Age
 50
-** Location
+Vo** Location
 Wolstamm / Nexon
 ** Background
 Krusadar. Calvary rider, has a special mount. Doesn't have Humility
@@ -82,7 +80,7 @@ Boisterous and foul mouthed but passionate
 ** Powers/Abilities/Skills
 
 ** Goals
-* Impalias Mathelin
+* Impalias Mathelin (Anti)
 ** Age
 57
 ** Appearance 
@@ -97,10 +95,11 @@ More classic sailor type. Loud mouth, short tempered.
 
 ** Goals
 Strengthen the Citadel's Nav
-* Impalias Ovolo (Revictus)
+* Impalias Ovolo (Revictus) (Pro)
 ** Age
 48
-** Location
+** Appearance
+Taller man, normal build not overly buff or skinny." ** Location
 Farsun (Intillia)
 ** Background
 Grand Marshal of the Western Armies. He is two years into his term, he took over a few months into the new war. Ovolo was Strategy General of the 6th Brigade before his elevation to Impalias. He became known for his reliance on field artillery and innovative combined arms tactics. He was originally an artillery company commander.

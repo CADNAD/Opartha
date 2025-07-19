@@ -469,7 +469,11 @@ A hundred or so steps up a hall way split from the staircase into in to an antec
 "Impalias Henard," Okin nearly dropped to the ground in respect before catching himself. 
 "I see the new Impalias is here," the man's baritone voice was tinged with a rough gravel edge.
 "It's an honour to meet you."
+<<<<<<< HEAD
 Henard had been one of the men Okin most admired and most strived to base his own life on. A paragon of Truth and Virtue.
+=======
+Henard had been one of the men Okin most admired and most strived to bass his own life on. A paragon of Truth and Virtue.
+>>>>>>> 2232f58672d35225d659e09fa46264c00fe210bf
 "And it is an honour to have you amongst us young Okin." Henard said. He had the same soft fatherly smile of Okin's own father. Okin understood why so many over the Versalist world has sought the man out for guidance. "A fresh set of eyes and ears have always done the Impaliases good. It takes many perspectives to fully reveal the Truth."
 Okin nodded, focused, absorbing every word. The mention of Truth spurred his heart, as it always had-- it was the Virtue he felt most confident in.
 Henard stared at Okin waiting for him to speak. The young Impalias dared say no words. Moments later, Henard let out a hearty laugh at Okin's silence.
@@ -689,6 +693,7 @@ No one spoke as the group waited for the Mouth to descend from his room above th
 He looked like he had aged ten years in the last three weeks. The already old man now hunched as he walked, new wrinkles had set in across his forehead, and his walk was now shaky and hobbled. Volmunst and Ovolo rose from their seat offering to help the Mouth to his seat. The Mouth waved them off and went to collapse into his elevated chair.
 "For the past weeks, I have prayed, fasted, and given all I can to the Gods in hope that they shine their Wisdom upon me. All so I may know if this man from the East is one spoken of in the Onorun. But this is not a question I can answer on my own. I am putting the topic of the man from the East onto the Registir and forcing its selection as the first topic for today's meeting. I'm sure everyone will agree."
 Of course that would be the topic, Okin didn't need to see it on the Registir to know it was the only thing that would be discussed on this momentous day. Okin glanced to his side to see Mikeol sit up from his casual lounge. The bald laced his fingers together, leaning forward.
+<<<<<<< HEAD
 "No comments?
 >>>>>>> 683afa9bed43e922e3de5a1bbca3913a6563674d
 * Chapter VII
@@ -730,3 +735,37 @@ Okin looked out of the corner of his eye. There were a lot of debates about the 
 every person, or was that just not even possible as an incarnate being, regardless of perfection?
 "Whoever the assassins were that day, I'm gonna find them, and I'm gonna unveil this whole conspiracy!"
 This was a smooth opportunity for Okin to tell Previa about Cynin-- one he needed to take, even though it made his skin crawl. Truth was not just telling no lies when asked-- it was a duty to use one's voice to spread it as far as possible.
+=======
+"No comments? For such a chatty bunch, I had thought you'd all have your opinions." A small smile tugged the Mouth's lips. "Mathelin? You always so vocal?"
+The shorter man visibly tensed as attention in the room passed to him.
+"If you must know my thoughts, I believe it's too soon to say. None of us witnessed his arrival did we?" Heads around the table shook. "I did not even witness the man with my own eyes. Only three of us did."
+Evidently, news of how the events had transpired has spread as Okin felt more than half the Impaliases glance over to his direction.
+"I did see him," Ovolo's deep voice carried as if yelled in the anticipatory silence of the room. "I believe this man to be Aredal returned."
+Ovolo cut through the gasps from around the table barreling forward, "the Onorun says he will appear in response to a great evil, in a time of great need for the Citadel. We've been fighting war with the Western heretics for nearly 400 years now. Perhaps the Darkness has conjured some threat in Surkusch that we've yet to see unleashed upon the Citadel."
+"If that were the case would he have not appeared during the Crisis of 670?" Henard asked.
+Ricartotten shook his head, his two braided cords of hair shifting, "Aredal knew that joining the strength of Ottencollen to the Citadel would be enough to weather the crisis. The coming storm is greater than even the crisis which forged the Citadel as we know it now."
+"Evidence? Do we have it? For this, coming storm?" Xhol'a spoke in a clipped Trentanian accent.
+Henard shook his head, "I believe there is folly in this line of though. This man from the east could be the coming storm himself."
+"/There will be deceivers/," Okin quoted the Onorun.
+Henard nodded his square head. "The Onorun is the highest Truth which we must all uphold. It speaks clearly of deceivers, it cautions Wisdom in the face of men who declare the Return."
+"But we must also be Curious and explore all possibilities." The jowls of fat on Vovwaq's chin vibrated as he spoke. "This man has power we haven't seen since the Gods ascended."
+"All foreign propaganda," Mathelin dismissed the possibility with a wave of his hand. "What has this man done? Nothing? Yet he asks us to join him in a war to conquer the East? He asks us to over extend ourselves, give him what technology we know, and bow to his foreign religion, and we are supposed to believe he is Aredal reborn?"
+Okin had found his request for the Versalist World to join him in the heretical /Vareeshi/ religion strange. Bei-San had not been a Vareeshi country until their Synodontis, this man returned, had declared them one. The Vareeshi were chaotic and hertical, but Okin could see the ways in which they could be exploited to swiftly unify the heretical lands to the East.
+"If we had increased our missionary efforts, perhaps he would not have been forced to adopt the local religion to unite the East." Ricartotten had long been an advocate of the idea that Wreathward needed to send Athars and Othars into Marthia to convert the populous. It was a project his precursor in Ottencollen had begun to great effect.
+"The Onorun does say that he will return in the East, and in Bei-San. We all heard the reports when he initially appeared, and we all knew they matched the descriptions of Aredal's return in the Onorun." Okin leaned forward at Levinor's words. The man seldom spoke, but it was the contents of his words that drew Okin in. Okin had not even believed the man existed, let alone heard the stories of how he had appeared.
+:comment:
+Figure out how Aredal returened. Also work out the rest of the signs of his return
+:END:
+"Not all the signs have yet to pass. However, I see enough signs of the Onorun's Truth that I believe we are witnessing the Return."
+"What of the other Four?" Okin asked. "The Onorun tells that all Four will Return as one."
+"As one, but not at Once" Levinor replied. "The others may be amongst us already. The Onorun does not say when they will reveal themselves, they may be waiting to surprise the Darkness."
+"We are loosing the war with Surkusch," Volmunst finally said. "As much as I disagree with Mathelin's approach to the problem, the Kaihani and other Hierhersans are growing in power. We could well be on our way to a second Crisis of 670. It's very possible we are living in the Return."
+"It is impossible for us to know whether we are witnessing the Return until it has passed. There are so many signs of the Return that have yet to come to vote now would be folly."
+"And that is not even the issue," Mikeol said. "This man does not only ask us to acknowledge him as Aredal. But swear our troops to his holy crusade?"
+Okin understood Mikeol, but failed to see the distinction. If the man was truly Aredal, then they should happily swear their troops to his crusade, even under the guise of Vareeshi.
+"I would sooner believe this man is Deionis attempting to lure us into self sabotage, than Aredal truly returned. How many of you believe this Imposter?" Mikeol looked around the room then to the Mouth.
+"Perhaps it is good to find the temperature of this issue. Please, if you would now, confirm this man as Aredal raise your hand."
+Okin was shocked by how many Impliases raised their hands. Levinor had seemed convinced by what few signs existed, so had Vovwaq. Ricartotten obviously saw this as an excuse to throw more into the Marthian front and his missionary projects. Xohl'a was unreadable, Okin knew so little of the man's home land and the needs of this far off territory.
+Ovolo and Volmunst both surprised Okin. It seemed they both truly believed the war was going so poorly that Aredal would return to put them back on the path to victory.
+That left only Okin, Mikeol, Mathelin and Henard in the way of the Imposter from the east taking power. 
+>>>>>>> 2232f58672d35225d659e09fa46264c00fe210bf

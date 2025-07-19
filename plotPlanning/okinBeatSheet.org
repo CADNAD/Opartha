@@ -24,23 +24,24 @@ Additions:
 - [X] Okin interrogates the guards about Billy's wherabouts and tells them that he suspects it's Billy.
 *** - (Ch 3 + 4) Okin becomes an Impalias
 - [X] Okin is named as Aldwin's replacement.
-- [ ] Okin leads the hunt for Billy, and commands the guards to search for the escaped Dark Herald.
-- [ ] Okin meets the other Impaliases.
-- [ ] They debate the war in Farsun and Surkusch. They are debating how much resources to put into ships, so that they can maybe do a naval invasion of Farsun. The landlocked Impaliases think its unfair.
-- [ ] Timeskip: Okin has done some Impalias duties, like naming a new Council member.
+- [X] Okin leads the hunt for Billy, and commands the guards to search for the escaped Dark Herald.
+- [X] Okin meets the other Impaliases.
+- [X] They debate the war in Farsun and Surkusch. They are debating how much resources to put into ships, so that they can maybe do a naval invasion of Farsun. The landlocked Impaliases think its unfair.
+- [0] Timeskip: Okin has done some Impalias duties, like naming a new Council member.
 * ACT II
 ** Break Into 2
 *** ! The Synodontis debate begins
-- [ ] Synodontis arrives in the city
-- [ ] Okin is introduced to the Synodontis debate. The consensus needs to be unanimous. Right now it is (7/10).
-- [ ] Another Impalias tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
-- [ ] Okin brings up the other Impaliases' corruption before the Council and the Council pretends to be flabbergasted.
+- [X] Synodontis arrives in the city
+- [ ] Okin is introduced to the Synodontis debate. The consensus needs to be unanimous. Right now it is (6/10).
+- [ ] Impalias Vovaq tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
+- [ ] Okin brings up the Vovaq's corruption before the Council and the Council pretends to be flabbergasted. Vovaq tries to gaslight Okin into believing the phrasing wasn't so corrupt.
 ** B-Plot
 *** ! Previa investigates Aldwin's assassination
-- [ ] Okin tells Previa he is surprised the Synodontis vote is so one-sided. Previa tells Okin he suspects this all ties together in the assasination as an attempt to silence Aldwin for speaking out that Synodontis is the antichrist. Okin tells Previa that is crazy and he thought it was actually Billy. Previa says that's crazy and that Billy is probably dead.
-- [ ] Okin is surprised that by the second debate everyone has shifted (except him) to the pro-Synodontis side. (9/10)
+- [ ] Okin tells Previa he is surprised the Synodontis vote has more people voting for Synodontis. Previa tells Okin he suspects this all ties together in the assasination as an attempt to silence Aldwin for speaking out that Synodontis is the antichrist. Okin tells Previa that is crazy and that that conclusion is hasty and he thought it was actually Billy. Previa says that's crazy and that Billy is probably dead.
+- [ ] Okin and Previa's argument escalates when Okin tells Previa he is always just mad about Aldwin
+- [ ] Okin is surprised that by the second debate everyone has shifted (except him and Henard) to the pro-Synodontis side. (8/10). Okin starts to suspect that some Impalises are corrupt and working together, namely Vovaq and Ricartotten
 - [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
-*** Okin goes to the opposition meeting
+*** Okin goes to the opposition meeting and meets Deionis
 - [ ] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
 - [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together.
 * ACT III
@@ -50,7 +51,7 @@ Additions:
 - [ ] Okin does a campaign with Previa and the opposition to vote for him.
 *** Okin runs against the other Impalias
 - [ ] Soldiers from Farsun are brought to slander Okin.
-- [ ] Deionis talks to Okin about rumors that many Impalias elections have been rigged. Okin doesn't believe him.
+- [ ] Deionis talks to Okin about rumors that many Impalias elections have been rigged and is afraid this one will be rigged against him. Even thogh Okin suspects Vovaq and Ricartotten, he doesn't believe the corruption goes that deep.
 ** Second Pinch Point
 *** !  Okin's allies are found and murdered. Okin's life is barely saved by his own accidental activation of Illusion Heraldry.
 - [ ] The meeting is attacked.
@@ -59,8 +60,9 @@ Additions:
   - This time, Okin looks away.
 - [ ] Having given up, Okin attends the council, and agrees to vote for Synodontis, which moves the vote to the "next stage".
 - [ ] Okin finally can't take it and tests his Illusion Heraldry.
-- [ ] Okin is about to kill himself, but Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative.
+- [ ] Okin is about to kill himself, but Backuh knows something is wrong. They meet. Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative.
 - [ ] Okin confronts the most cowardly Impalias directly about why all the other Impaliases are so gung-ho about Synodontis, and also about who attacked the meet. The cowardly Impalias reveals that this was all planned out ahead of time.
+*** Okin wins the election
 ** Third Act Turn
 *** ! Okin meets Synodontis
 - [ ] Since Okin agreed, the Impalias' all travel to see Synodontis. Okin and Deionis discuss that Okin will test Synodontis based on passages in the Onorun.

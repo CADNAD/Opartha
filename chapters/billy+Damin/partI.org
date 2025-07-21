@@ -234,6 +234,9 @@ Billy's eyes widened. "So he's got something we can steal?
 "Not really, but uh, he's got some inventions... and a couple paintings..."
 "Paintings," Billy pointed. "That can be good."
 "But uh, I think he painted them himself. There's no way they're antiques," Damin said.
+:comment:
+Is it ironic that they might actually be antiques
+:END:
 "So what? There's nothing worth stealing?" Billy's voice raised.
 "I-- I don't know. There's just so much stuff, and it's all really weird. Maybe we could steal one of his blueprints and sell it to an industrialist."
 Billy shook his head. "We're wanted, Damin. We can't do any legal business like that. And that's not gonna make us money *right now.*"
@@ -252,7 +255,13 @@ He stared up at the pitch blackness above him, which he knew to be Billy' bunk. 
 Damin's fingers tensed up around his blankets. He bit his lip, then exhaled deeply.
 He pushed off the blanket, then rolled out of bed.
 Damin took a deep breath. He took off his shirt and pulled it tight before tying it around his own mouth as a gag. Then he took another deep breathe through his nose.
+:comment:
+Explain why hes doing this. Cause I'm even confused by why
+:END:
 He outstretched his hands together in front of him, then extended one out from the other. As his hand moved, from the still one grew a dark yet glowing luminesensce, visible even in the pith black darkness. It was otherworldly-- one could immeadiately tell it was like a hallucination; it was as if smoke had an alien, captivating cousin.
+:style:
+Not sure about the description here
+:END:
 He formed his hand up, and the gas-like substance grew with it, expanding. He jerked his moving hand back-and-forth, and two identical thin arms sprouted out from the thin smoky triangle.
 Finally, he moved both hands up to the top of the triangle, where there was no substance yet, and then spun them around, as if he was grasping the surface of an invisible ball. And with that, the smoke grew a large head, with a long tail at the top of it exhausting like steam into the darkness.
 And it had eyes. Large, crescent, violet, eyes that stayed in place, yet like the rest of it, moved like smoke. And it's mouth curled into a similar crescent form, before dissapearing into the same substance as the rest of its body.
@@ -262,17 +271,22 @@ Xanas and its curved, pupiless eyes formed upwards with its similarly crescent m
 Xanas slithered under the door, its body like gas. Then from behind, it gradually pushed open to let Damin through.
 Damin winced as it squeked. He looked back-- Billy was still snoring.
 Damin slid through the door, peeking out first for Xanas. Its purple eyes shined at the top of the stairs in the utter blackness.
+:comment:
+Establish the geography of the house a bit more. A few more lines of description in chapter one when Billy comes to the house could fix this
+:END:
 Damin took each step with apprehension. He felt like the house would crash down at every step.
 *Chhk-chhk-chhk-chhk*--
 Damin's heart stopped. He knew it was the sound of Mister G's door unlocking, but in the dark, everything seemed louder, and every noise was like a threat. Finally, he unfroze.
 *Good, Xanas*, he thought. *Keep it quiet.*
 A sudden FLASH OF COLOR AND LIGHT-- the pitch black turned into a crisp bright day on plains. An army SHOUTING--
 Damin shouted, but immediately muffled himself using the bedsheet. The vision dissapeared in an instant to black.
+:comment:
+Not sure I like how the visions work here. They are way too abrupt and random with them not happening. Damin needs internal monolouge here at least to express how it is affecting him
+:END:
 *It's nothing, Xanas. Keep going.*
 The door opened at an uncomfortably slow speed, and Damin now followed only the smoke and eyes. He held his arm in a sneezing position to prepare for the curtain, which rubbed against it.
 *You know what I'm after.* Damin pictured the six-shot in his mind, and fed the thought to Xanas. Damin took slow, direct steps towards Xanas, who turned around and reached straight out to Damin with a large smile, like a creepy kid showing his dad his new toys. And those three toys were the six-shot, a large, silk bag-- a bag of ammo, and a beautifully crafted leather holster.
 Damin took them from Xanas. *Good work, Xanas,* he thought.
-
 
 "Wake up, wake up!"
 Billy erupted from the bed as his vision faded into a haze of light, and the rest darkness.
@@ -284,6 +298,9 @@ Billy squinted in confusion. "What do you mean? What the fuck is that?"
 "It's a gun. For you. To do the duel," Damin said.
 "I have a fucking gun. That's not a fucking gun," Billy shimmied out his bed and jumped down.
 "It's *more* than a gun," Damin said, turning the holster to Billy. "It shoots six bullets. The handle's *perfect*-- and it's *small*-- you can draw it faster than any other duelist. And the projectiles--"
+:comment:
+Damin should think about his plan more before this. The audience should understand his motivation to steal the gun before he tells Billy
+:END:
 Billy yanked the gun and the bag of ammo out of Damin's hands and bent over next to the candlelight.
 His eyebrows furrowed further as he rubbed his hands over the small ammo.
 "What the fuck is this? What?" Billy laughed. "Is this a joke, or something? What is this gonna do, shoot sugar for the other guy to eat?"
@@ -296,29 +313,35 @@ Billy spun back to Damin. The teenager bounced back in surprise.
 "Listen, Damin. Duel's at sunrise, and I got one shot," Billy shook the gun at the teen. "Now either this works, or it doesn't, and I'm dead. So I'm gonna go shoot this thing, and if it works like you say, we got our ticket. And if it doesn't, we're gonna get kicked out of the only place we can afford in town for stealing crazy Mister G's little toy here."
 With that, Billy barged out of the room.
 
-
 Billy marched down the dusty, shrubed-sparsed hill. The hill was gradual, but he approached a giant cliff which led to a massive oval valley, with large ridges like the one he was standing on looping around it.
-In the valley, small cacti, rocks and birds populated a rather dull scene. The air was cool but still, a temperature too comfortable that it was uncomfortable, making one itch for a little shake or a warm sun ray, perhaps due to the utter dryness, which pecked at Billy like invisible salt.
-Billy came out of himself and shimmmied open the cloth bag of ammo. It's handle was rough, but just enough to grip, but the metal felt smoother than Damin's hairless skin, and lacked the rusted smell of other pistols he'd shot. He hadn't really been paying attention earlier, but now he gently squeezed the gun's grip finger by finger.  He glanced over the body-- it was finished in a perfect polish that gave it reflection off the light while not being too glaring. The shape was defined, and while different, not alien-- it was a true craft.
+In the valley, small cacti, rocks and birds populated a dull scene. The air was cool but still, a temperature too comfortable that it was uncomfortable, making one itch for a little shake or a warm sun ray, perhaps due to the utter dryness, which pecked at Billy like invisible salt.
+Billy came out of himself and shimmmied open the cloth bag of ammo. The gun's handle was rough, but just enough to grip, but the metal felt smoother than Damin's hairless skin, and lacked the rusted smell of other pistols he'd shot. He hadn't really been paying attention earlier, but now he gently squeezed the gun's grip finger by finger.  He glanced over the body-- it was finished in a perfect polish that gave it reflection off the light while not being too glaring. The shape was defined, and while different, not alien-- it was a true craft.
 Billy then raised his eyebrow. He pressed on the cylinder, which *clicked* out at rapid speed.
 "Hm," Billy opened the bag of ammo, and back at the holes in the cylinder. He scratched his chin, and then popped in bullets one by one. He raised it up to his eye level and squinted, then smiled. He had to admit, if it worked, it was an ingeniously inventive machine.
 
 *Chrrchh Chrrchh.* Billy spun around to the sound of rocks crunching, fist raised. He relaxed when he caught Damin struggling to get down the hill.
 "Here," Damin panted. Billy closed his lips, looking unimpressed at the measly boy.
 Damin reached out from behind his back and held out a leather holster. "How are you gonna do a duel without a holster?"
-"Oh," Billy's glare turned into a smirk. "Good memory, Damin." Billy took the holster with a nod and clipped it onto his belt. He scanned the massive valley below, before his back to it. He took a deep breathe.
+"Oh," Billy's glare turned into a smirk. "Good memory, Damin."
+Billy took the holster with a nod and clipped it onto his belt. He scanned the massive valley below, before his back to it. He took a deep breathe.
 His fingers wove up and down as he looked back over a nervous Damin, to the town over the hill.
 He shut his eyes. He stilled himself. His right hand moved to his side, his fingers still waving.
 The world around Billy stilled. A tumbleweed bounced down the hill from the town. Damin stared at the wounded man.
 Billy whipped out the gun. He spun around to face the dry valley in one rapid motion.
 Crows picked at the dirt some hundred paces below. Billy leveled the sights at them.
 BAM.
-The gun recoiled. SQUAWK SQUAWK. The other birds flew off in random directions.
+The gun recoiled. /SQUAWK SQUAWK/. The other birds flew off in random directions.
 Thirty or so paces down the valley, bird brain was spilled out over rocks.
+:style:
+bird brains might be too graphic
+:END:
 Billy looked at the gun in surprise. Then he quickly glanced up to see a bird flying about forty paces out and above.
 He raised the gun at the bird.
 Billy fired, but pulled his hands to the right as he did so.
 The bullet shot right past the bird. It flew upwards and redirected itself after the boom of the gun's fire shook through the valley. He shot again. And again. And again. Every shot missed, but then he clapped his leg and laughed.
+:comment:
+confused what redirected itself, the bullet?
+:END:
 "Woah!" Damian laughed and ran towards Billy.
 "Well that's ah... that shot's hard to make," Billy chuckled.
 "But you came close, from the looks of it!" Damin said. "C'mon, you made that first shot, the thing looks pretty good!"
@@ -326,17 +349,20 @@ The bullet shot right past the bird. It flew upwards and redirected itself after
 Billy snapped himself to attention, and swept up the ammo bag.
 "But we gotta go," he said.
 
-
 "Too late mista," the plump, bald man said as he walked alongside Billy. "I chose ma man."
 They were in a crowd of about a dozen or so, lined up on a long, dusty road, that was surrounded by large wood buildings, but not cramped.
 Billy speed-walked next to the man like a poor opportunist asking for a job. "C'mon. I've got a great shot! And I got my own gun! And it's better than yours!" Billy shouted.
 Parsmo paused to look Billy up and down, and his face curled in disgust. Billy was dressed like the rest of the crowd, in dirtied but plain clothing. "I highly doubt that."
 "Alright Jimmy, ya ready?" Parsmo hollered at a stocky man dressed in a matte, clean coat with a black mustache. The man gave a solid nod back. He was armed with two pistols that looked like they were made out of an opulent painting frame.
 "You said you would pick the best man! You said you'd see how good everyone shot!" Billy shook his fist.
-Parsmo brushed off Billy. "Well, it's ma money on the line, and ma dispute. And from the looks of it, you ain't a Subject, or you woulda lead with that." The plump man motioned to the black-moustached shooter to come with him to the center of the crowd.
+Parsmo brushed off Billy. "Well, it's ma money on the line, and ma dispute. And from the looks of it, you ain't a Subject, or you woulda lead with that."
+:comment:
+Explain Subject Heralds here or in the previous chapter when Damin and Billy discuss the duel
+:END:
+The plump man motioned to the black-moustached shooter to come with him to the center of the crowd.
 Billy clenched both fists and kicked up a dust cloud. Some particles flew onto the bystanders in front of him, but most just flew back onto his clothes. He coughed.
 The bystanders turned, scowled, and spit at his feet, then turned back around again.
-Billy raised his fists again. He strut forward, but stopped as he felt a touch on his shoulder. His face and arms softened as he looked down at Damin, who looked up with concern. Billy turned back around to the center of the road where Parsmo was face-up to his enemy.
+Billy raised his fists again. He strut forward, but stopped as he felt a touch on his arm. His face and arms softened as he looked down at Damin, who looked up with concern. Billy turned back around to the center of the road where Parsmo was face-up to his enemy.
 "Well Callyhanny! Where's ya shoota?" Parsmo clutched his belt.
 "He's right here," Callaghan, a tall, gray-haired man said. He pointed to a rectangular-faced, older man with a dust-stained formerly white hat with a rusted copper medal on its brim. Though wrinkled, his face sunk into his skull in a way that was both hardened and uncomfortable. The man tipped his hat.
 Parsmo's face turned red. "He's a lawman! He--" he sputtered. Billy, holding Damin's arm, moved closer into the crowd.
@@ -349,6 +375,9 @@ Donnal shook his head, and held up the rifle.
 Billy waited for the two men to glare at each other, for the hatred to settle until everyone surrounding felt someone had to break the silence.
 "I'll take it," he stepped forward.
 "Billy, he's a professional, and he's not just a professional, he's a Subject Herald, and probably the best in this sector!"" Damin whispered. Billy faced Parsmo with a determined stare, like his brother was invisible.
+:lore:
+Sector is maybe a weird word. It feels too modern imo
+:END:
 "O-Okay," Parsmo nodded and gave a too toothy, uncomfortable smile. "Yes. We still have a match."
 "What's the range?" Billy asked.
 "It's a hundred-fifty steps," Callaghan said. "I mean, if no one else--," Parsmo checked his surroundings, "then okay, I guess you're all I got."
@@ -370,7 +399,7 @@ The lawman paused, and looked down like a war had already been fought. But final
 "One-hundred fifty steps each. One-hundred fifty steps!" A portly man in the center shouted.
 Billy snapped his head down and kept walking. He fake drew his pistol several times, jerking his elbow in a quick motion as practice.
 "Eighty-eight, eighty-nine...," Billy stopped as he caught Damin in the crowd. He was surrounded at all sides by men much larger and rounder than him, covered in brown dress coats which just rested on the outside of their tight-buttoned shirts. Though he was so out of place, he was so small and unnoticeable, like a little sparrow among cows.
-Billy met the boys' eyes, which were wide, desperate, and fearful. They stared at each other, and the dryness of the dust and the stakes settled onto Billy's tongue.
+Billy met the boy's eyes, which were wide, desperate, and fearful. They stared at each other, and the dryness of the dust and the stakes settled onto Billy's tongue.
 "C'mon, move along! One-hundred fifty paces!" The portly man shouted at Billy's back.
 Billy turned to see the lawman who stood still, facing him. Primed.
 He sighed and turned back to walking. With each step, he felt the dust that was kicked up under his boots.
@@ -405,7 +434,7 @@ Billy ran forward, keeping his gun trained on the fallen lawman.
 "Urghhhhh," the lawman clutched his woodchip-infested arm in agony.
 "Lie down," Billy aimed his weapon at the man's chest. "Or you're guts'll be blown out all over the ground like that gun."
 The lawman collapsed back-first onto the dirt.
-The previously statue-like crowd livened up; some claps, Callaghan's cursing, and Parsmo's cheers.qa8They moved in to surround Billy and the fallen lawman.
+The previously statue-like crowd livened up; some claps, Callaghan's cursing, and Parsmo's cheers.They moved in to surround Billy and the fallen lawman.
 "Ho-ho!" Parsmo shouted. "Five thousand Dunnes, as promised." Billy gave a solemn nod and reached forward to grab the handful of paper money.
 He flipped through it as the judge, Parsmo, and Damin all watched him like three children waiting in fear for their strict father's verdict.
 Billy grabbed a thinner wad and threw it at the judge, who scurried back in surprise. He motioned with a jerk of the neck back at the fallen lawman.
@@ -426,7 +455,6 @@ Damin nodded, though his lips were pulled in his usual anxious purse.
 "And what are we going to do when we get back? We can't return to Mister G, after stealing--"
 "Don't worry about it," Billy shoved the money into his pack. "We'll find something. We always do."
 Damin nodded again, but his lips stayed pursed. Billy glanced out back to the Marshton coast as the ship pulled away, before setting his sight on the unending ocean on his side of the ship as he pulled his pack over his shoulder.
-
 
 Billy down at the grime-stained planks, and then up at the grey overcast. It was still bright enough for Light to fill his body, but he wouldn't be as potent as on a sunny noon in Apathasaw. He stepped back just as a drop of water fell down from the sky.
 "Watch yourself," a low growl rumbled just as Billy felt his back elbow rub against a damp, rug-like surface. He turned and glared at a crewman wrapped up in a dark, heavy jacket. The crewman huffed, and Billy turned back to the line of men, a dozen or so deep, in front of a wooden countertop nailed into the ship. At the front of the line, men grabbed plates and were served stew from a tall black, iron pot. Despite his nose having gone blind to save himself from the constant stench of grime, fish, salt, and sweat, saliva still flooded Billy's mouth at even the promise of food. Billy looked down at Damin. When their eyes met, he gave a soft smile, and Damin returned one.

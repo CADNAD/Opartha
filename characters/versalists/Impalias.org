@@ -7,9 +7,9 @@ old, skinny, gray hair
 ** Location/Type
 Nairfalk (Aredeal)
 ** Background
-A traveling Athar up until his elevation. He was born to wealthy parents in Nairfalk, gave up their wealth to join the clergy. Extremely humble, austere. Doesn't own a mansion, sleeps in a room in his cathedral. Spends most of his time doing charity work with the civilians of the Citadel 
+A traveling Athar up until his elevation. He was born to wealthy parents in Nairfalk, gave up their wealth to join the clergy. Extremely humble, austere. Doesn't own a mansion, sleeps in a room in his cathedral. Spends most of his time doing charity work with the civilians of the Citadel
 ** Personality
-Levinor is the truest of believers in the text. He is a man of few words.  
+Levinor is the truest of believers in the text. He is a man of few words.
 ** Powers/Abilities/Skills
 
 ** Goals
@@ -42,10 +42,11 @@ Truth focused. Intellectual. Objective truth guy. True believer
 
 ** Goals
 Turn Okin to vote for the resolution, while pretending to be a friend
-* Impalias Vovaq (Revictus) (Pro)
+* Impalias Vovwaq (Revictus) (Pro)
 ** Age
 58
-** AppearanFat
+** Appearance
+Fat
 ** Location
 Monasque / Olitheon
 ** Background
@@ -71,7 +72,7 @@ Gorbachev type. Very personal able, but no one has good or bad things to say. Ju
 * Impalias Volmunst (Pro)
 ** Age
 50
-Vo** Location
+** Location
 Wolstamm / Nexon
 ** Background
 Krusadar. Calvary rider, has a special mount. Doesn't have Humility
@@ -83,8 +84,8 @@ Boisterous and foul mouthed but passionate
 * Impalias Mathelin (Anti)
 ** Age
 57
-** Appearance 
-Shorter man, a bit shorter than okin. 
+** Appearance
+Shorter man, a bit shorter than okin.
 ** Location
 Terillia / Olitheon
 ** Background
@@ -99,7 +100,8 @@ Strengthen the Citadel's Nav
 ** Age
 48
 ** Appearance
-Taller man, normal build not overly buff or skinny." ** Location
+Taller man, normal build not overly buff or skinny."
+** Location
 Farsun (Intillia)
 ** Background
 Grand Marshal of the Western Armies. He is two years into his term, he took over a few months into the new war. Ovolo was Strategy General of the 6th Brigade before his elevation to Impalias. He became known for his reliance on field artillery and innovative combined arms tactics. He was originally an artillery company commander.

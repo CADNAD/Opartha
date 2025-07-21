@@ -32,48 +32,105 @@ Additions:
 ** Break Into 2
 *** ! The Synodontis debate begins
 - [X] Synodontis arrives in the city
-- [ ] Okin is introduced to the Synodontis debate. The consensus needs to be unanimous. Right now it is (6/10).
-- [ ] Impalias Vovaq tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
-- [ ] Okin brings up the Vovaq's corruption before the Council and the Council pretends to be flabbergasted. Vovaq tries to gaslight Okin into believing the phrasing wasn't so corrupt.
+- [X] Okin is introduced to the Synodontis debate. The consensus needs to be unanimous. Right now it is (6/10).
 ** B-Plot
 *** ! Previa investigates Aldwin's assassination
-- [ ] Okin tells Previa he is surprised the Synodontis vote has more people voting for Synodontis. Previa tells Okin he suspects this all ties together in the assasination as an attempt to silence Aldwin for speaking out that Synodontis is the antichrist. Okin tells Previa that is crazy and that that conclusion is hasty and he thought it was actually Billy. Previa says that's crazy and that Billy is probably dead.
-- [ ] Okin and Previa's argument escalates when Okin tells Previa he is always just mad about Aldwin
-- [ ] Okin is surprised that by the second debate everyone has shifted (except him and Henard) to the pro-Synodontis side. (8/10). Okin starts to suspect that some Impalises are corrupt and working together, namely Vovaq and Ricartotten
-- [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
+- [X] Okin tells Previa he is surprised the Synodontis vote has more people voting for Synodontis. Previa tells Okin he suspects this all ties together in the assasination as an attempt to silence Aldwin for speaking out that Synodontis is the antichrist. Okin tells Previa that is crazy and that that conclusion is hasty and he thought it was actually Billy. Previa says that's crazy and that Billy is probably dead.
+- [0] Okin and Previa's argument escalates when Okin tells Previa he is always just mad about Aldwin
+- [X] Impalias Vovaq tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
+- [ ] Okin is surprised that by the second debate everyone has shifted (except him and Henard) to the pro-Synodontis side. (8/10). Okin starts to suspect that some Impalises are corrupt and working together, namely Vovaq and Ricartotten. Henard advises the other Impalises to think about this more carefully.
 *** Okin goes to the opposition meeting and meets Deionis
 - [ ] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
-- [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together.
+- [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together. Deionis and Okin agree that Previa is too unstable and impulsive to be a leader of True Light and they need to work together tbehind the scenes.
+- [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
+*** Okin tells Henard about his concerns
+- [ ] Okin asks Henard to join him after the meeting
+- [ ] Okin tells Henard about what Vovwaq did, and in an extreme case he's worried this is part of the 'deciever's prophecy
+- [ ] Henard is surprised but says he'll look into it, but says to Okin that there is no way that Vovwaq is part of the deciever's prophecy, and it was probably just normal Vice.
+- [ ] Henard tells Okin that even though they see eye to eye it is unwise to join the True Lights, as dogmatism about anything beside the Onorun, and division in the Citadel is unwise
+- [ ] Okin tells Henard that especially after the Vovwaq thing he is firm that Syno is wrong, and he won't stand down, and even if the True Lights might be too divisive he is on their side and will support them.
+- [ ] Henard tells Okin that from his Olitheon mentor he learned that Truth and Curiosity go together, and that being that stubborn he might not be open to the Truth. Okin questions himself more.
+** First Pinch Point
+*** Okin avoids lying and Mikeol is attacked and killed by a Follower of the Return
+- [ ] When leaving the building, Okin and Mikeol are attacked by Followers of the Return who believe that the Citadel has been taken over by the Decievers. The attacker asks Okin if Mikeol is a supporter of Syno. Despite Mikeol's wishes, Okin tells the Truth, and the attacker kills Mikeol.
+- [ ] One of the guards kills the attacker.
+- [ ] Ovolo blames Okin for Mikeol's death.
+*** After Mikeol's death, Okin uses it to convince his replacement and Mathelin
 * ACT III
 ** Midpoint
-*** ! The Mouth is upset Okin is not voting for Synodontis and calls for an election in Whenran
-- [ ] Okin confronts the Mouth, the Mouth justifies that this is the way it was supposed to be.
-- [ ] Okin does a campaign with Previa and the opposition to vote for him.
-*** Okin runs against the other Impalias
-- [ ] Soldiers from Farsun are brought to slander Okin.
+*** ! The Mouth is upset Okin is pushing the vote for Synodontis in the opposite direction and calls for an election in Whenran
+- [ ] In reality, the Mouth was told by Henard
+- [ ] Okin confronts the Mouth, the Mouth justifies that this is the way it was supposed to be as Aldwin is not reported to be recovering.
+- [ ] Okin looks to the other Impaliases, but they say it is the Mouth's decision as leader of the Impaliases. Henard admits it is a bit wrong with this crucial issue, but relents.
+*** Okin starts his campaign
+- [ ] Okin does a campaign with Previa and the True Lights to vote for him.
 - [ ] Deionis talks to Okin about rumors that many Impalias elections have been rigged and is afraid this one will be rigged against him. Even thogh Okin suspects Vovaq and Ricartotten, he doesn't believe the corruption goes that deep.
+*** Okin's opponent makes some moves
+- [ ] Soldiers from Farsun are brought to slander Okin as a coward. Despite being advised not to, Okin tells the truth about his cowardice. His popularity takes a dive.
+- [ ] Volmunst says that admitting cowardice is actually brave, and says he believes in him and will tell all his Whenrani Krusadar contacts to drum up support and his own people.
+  - [ ] Okin brings up the Vovaq's corruption before the Council and the Council pretends to be flabbergasted. Vovaq tries to gaslight Okin into believing the phrasing wasn't so corrupt. Okin accusses some members of being in cahoots with Vovaq.
+- [ ] Okin's opponent receives a huge campaign boost from Vovwaq, promising more cooperation between the two territories. Vovwaq tries to buy off Okin again, promising to switch his support to him, Okin doesn't give him the time of day.
+- [ ] One of Okin's staff is accused of being a Dark Herald. Though it's an obvious lie, it catches on, and Okin's popularity tanks more. Amesa recommends cutting the staff, but Okin says its against Compassion and Truth.
+*** Okin works hard to convince the others
+- [ ] Okin and his entire team have stayed up countless nights and brought a huge annotated copy of the Onorun, with every verse that contradicts Ty-Shou being Aredal, and every verse for it.
+- [ ] Henard engages with every verse, and debates a few with Okin. Ricartotten takes the lead to debate with Okin angrily. Vovwaq, Mikeol and Ricartotten begin to drone out, and Ricartotten calls for it to end. The Mouth sustains Ricartotten's request, to Okin's surprise.
+- [ ] Volmunst applauds Okin's dedication, comparing it to a 'war of text', but still disagrees. It's still (6/10).
+*** Okin fights back
+- [ ] Okin spends time visiting local towns. He profusely denies the allegations about his staff.
+- [ ] Okin talks to Deionis about the campaign. Deionis says that he has to admit the election is rigged against him, and come out in support of True Light, the only base that will support him. He also points out Vovwaq's corruption and says the Impaliases are not to be trusted, they are the Deceivers. Okin is sure Vovwaq might be sinful but still doesn't believe.
+*** Nishellp makes an offer
+- [ ] Othar Nishellp, a very popular Othar known for her genius scientific mind, beauty, and advancements in Whenran, promises that she can move a huge amount of the Istar's in Okin's favor, if he marries her. Okin sees this as against Temperance, and somewhat Corruption, but considers it.
+- [ ] Okin discusses with Deionis what he should do. Deionis tells Okin it is still in Temperance to marry her, and the greater good is what matters here.
+- [ ] Okin agress to marry Nishellp.
 ** Second Pinch Point
-*** !  Okin's allies are found and murdered. Okin's life is barely saved by his own accidental activation of Illusion Heraldry.
-- [ ] The meeting is attacked.
+*** ! Okin's support for True Light backfires
+- [ ] Okin comes out in support of True Light. Okin says he'll be making deals with Xohl'a to increase Whenran's economy. His popularity rises.
+- [ ] There is a large brawl between True Light and the Followers of the Return at one of Okin's rallies. His popularity plummets.
+*** Okin and Deionis break into the opponent's house
+- [ ] Deionis claims that the opponent is housing a Dark Herald. It's a long shot and risky but Okin thinks he needs it to win
+- [ ] They break in and find the DH with crystals
+- [ ] Small brawl between Okin and opponent.
+- [ ] Deionis calls authorities to see DH and Crystals
+*** Okin oversees the Dark Herald and opponent's execution
+- [ ] Okin interrogates the DH
+- [ ] Okin oversees execution but feels guilty
+*** Okin wins the election
+- [ ] By a thin margin, Okin wins the election. (Backuh did some anti-meddling)
+*** Okin winning the election convinces Volmunst and Levinor
+- [ ] Volmunst says that everything was against Okin, and he knew Okin went through several hurdles and still stood by his Virtues, so he knows the Four are on his side. He changes and it becomes (4/10).
+** All is Lost
+*** ! Okin winning makes Revictus sends assassins, Okin discovers he's a Dark Herald
+- [ ] Deionis warns Okin assassins are coming but Okin doesn't believe him
+- [ ] Deionis warns Okin that assassins are coming, but Okin doesn't heed his warning
+- [ ] During the attack, everyone is killed. Okin instinctively uses Dark Heraldry to defend himself
 - [ ] Okin is in denial about himself being an Illusion Herald.
 - [ ] Okin is insecure and still in denial about whether he should tell the truth about being an Illusion Herald and gets guidance from Gendro at a Dark Herald execution without getting into details. Gendro stands by his Versalist values.
   - This time, Okin looks away.
-- [ ] Having given up, Okin attends the council, and agrees to vote for Synodontis, which moves the vote to the "next stage".
+*** Okin gives up
+- [ ] Having given up, Okin attends the council, and agrees to vote for Synodontis. Everyone else gives up in the same meeting (10/10).
 - [ ] Okin finally can't take it and tests his Illusion Heraldry.
-- [ ] Okin is about to kill himself, but Backuh knows something is wrong. They meet. Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative.
-- [ ] Okin confronts the most cowardly Impalias directly about why all the other Impaliases are so gung-ho about Synodontis, and also about who attacked the meet. The cowardly Impalias reveals that this was all planned out ahead of time.
-*** Okin wins the election
-** Third Act Turn
-*** ! Okin meets Synodontis
+- [ ] Okin is about to kill himself, but Backuh knows something is wrong. They meet. Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative, and that there is all this Corruption in the Citadel. (Maybe Backuh references the line /Darkness will destroy itself/)
+*** Okin meets Synodontis
 - [ ] Since Okin agreed, the Impalias' all travel to see Synodontis. Okin and Deionis discuss that Okin will test Synodontis based on passages in the Onorun.
-- [ ] Synodontis is frustrated by Okin's games and
+- [ ] Synodontis is frustrated by Okin's games and shows anger that Aredal wouldn't.
+- [ ] Okin asks Syno to display his power. It is not the same as the one shown in the Onorun.
 * ACT IV
 ** Break Into 4
-*** ! Okin chooses to ambush Revictus at their second meeting
+*** ! Synodontis is declared Aredal -- until Okin interrupts it
+- [ ] The rest of the Impaliases speak at the Citadel in affirmation that Synodontis is Aredal, except Okin who yells 'Nay'
+*** Henard introduces Okin to Revictus. Okin learns that the religion is a construct
+- [ ] After the Nay, the other Impaliases are furious and call Okin a liar. They strip Okin of his Truth. Henard requests Okin to meet with him later.
+- [ ] Okin, though a bit suspicious, accepts. Henard takes him to meet Revictus
+- [ ] Revictus looks like Olitheon, but explains he's Revictus but needs to fulfill the prophecy of Olitheon because Olitheon is dead.
+- [ ] Okin is shocked. Revictus explains that Tregale is real and coming and Synodontis needs to be declared as Aredal, and Okin must agree to undo the nay-nay
+- [ ] Okin promises he will, but now he is having a full existential crises about his morals and everything he ever believed
+*** Okin tells Deionis about Revictus
+- [ ] Okin tells Deionis he met Revictus, but Deionis tells him that who he calls Revictus is really the deciever, Deionis himself
+- [ ] Okin mets Henard and asks how he can trust Revictus. Henard says that Revictus is the God he knows, and thats how he's been able to control the Citadel for so long and write the Onorun
+- [ ] Okin does not trust the Citadel any more. He plans with Deionis to kidnap (kill)? Revictus
 ** Final Confrontation
-- Revictus knows Aldwin's been murdered and in desperation meets Okin. Okin meets Revictus, then you hear information in Billy's plot from Architor, then cut back to Okin from high-tension information.
-- Deionis frames
-- Okin lies in court about Previa's testimony that Okin is a Dark Herald, and that it was Okin that killed Aldwin. Previa is sentenced to death. (B plot close).
+*** ! Okin meets with Revictus again, but this time with a plan to ambush him
+- [ ]
+*** Deionis reveals his identity and traps Okin in the dark dimension
 ** Denouement
-- Previa is broken out of prison by Deionis
-- Okin acts as a McCarthy-esque demagogue, making false promises to the people to gain power, saying that he has been ordained by Aredal/Olitheon to fight against the modern Citadel.
+- [ ] Okin is held hostage by Architor-Revictus. Billy spares him, so he reluctantly joins Architor-Revictus

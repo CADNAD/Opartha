@@ -29,6 +29,9 @@ Rocks crunched together. Feet shifted against the gravelly floor.
 "You're gonna wish you had the balls to kill me," the foreman said.
 *HWPP!* *HWPP!* *HWPP!*
 Scream after scream of agony echoed down the halls of the mineshaft.
+:Comment:
+add names here, kinda confused who we're following
+:END:
 
 The miner limped towards the light at the exit of the mine.
 Both his hands clutched his biceps, like he was shivering, giving himself a desperate hug. Raw, red wounds covered his face and arms, and his jaw and the bottom of his eyes hung open like a zombie.
@@ -46,8 +49,14 @@ He continued to trudge on in the cold, bleak desert, a good mile to a small wood
 
 
 The door slammed open, and the miner collapsed into the cramped, creaky wooden bedroom. Cramped between the low roof and the top of a bunk bed, a thin teenager, though he barely looked it, plopped up, his long hair flowing over his face like a poofy tree.
+:comment:
+Add a bit more description of the room, this scene has a white box problem currently
+:END:
 The miner went right for a bottle of rum atop a drawer. He chugged it. The strong burn of the liquor washed away the pain which pricked at every inch of his body, and he exhaled.
 He turned to the teen atop the bunk, who had been staring at him this whole time. Though he was obviously interested in the miner, illuminated by flickering candlelight, his small form dissappeared into the dark wooden walls, and he seemed invisible.
+:comment:
+the phrasing on this last sentence is clunky
+:end:
 "No nightmares, right?" the miner asked as he collapsed against the wall, nursing the bottle. It creaked against the weight of his back. The teen shook his head no.
 "Good", the disheveled man smiled with soot-filled teeth. In this intimate space, despite the ugliness of all the grime, blood, and fresh wounds on his face, he had a noticeable ruffian charm; the sort that one's heart would yearn to trust even though they know they shouldn't.
 "What happened?" the teen asked with a voice like what a kitten would have if one could talk.
@@ -57,9 +66,15 @@ The disheveled man nodded. He paced against the squeaking wood, gesticulating, s
 "I finally got a musket to hide underneath that loose plank the against wall with that painting over it," the man said in his usual scratchy rasp. The teen looked up at the man, a pained look on his face. The man clenched his jaw; he knew that the teen knew that it was stolen, and that though the teen used to the man's theivery, was uncomfortable with it.
 "It's gonna get busier this time of year," the man continued. "Now there's a way for you to defend yourself safely no matter what you're up against."
 "I-I really don't think it's gonna get that much busier," the boy replied. "Mister G hardly has any customers. Just some old guys. And, I don't even know if they're customers... they don't seem to buy anything."
+:comment:
+Are the customers supposed to be like gods or a mystery for the reader to ask abt?
+:END:
 The man scratched his chin. "It must get busier in this season. How else does he make his money?"
 The teenager shrugged again.
 "Maybe he's the one we need to look out for. Damn it. I hate I have to leave you alone here, Damin," the man scrunched his lips. "Is there any way we can get into his private little room?"
+:comment:
+Private little room sounds like, kinda gay lmao
+:END:
 Damin's eyes darted around. "Maybe we shouldn't. I mean we've been here a month, and his price is fair. He probably wouldn't like us snooping around. After all we've--" he replied.
 "I know, I know," the man said. "It's just-- if he does anything-- anything weird at all--"
 "I'll tell you, Billy," Damin said nonchalantly.
@@ -71,11 +86,17 @@ For the first time, Damin sprung awake. "No no no no. Why would you do that? We'
 "Money is us staying alive. And more importantly, it's enough for *the trip*," Billy towered over Damin. His hand shook with an unstable passion.
 "Billy," Damin sighed, burying his face in his ragged leather shirt. "*That's* a pipe dream. It's in *two weeks.* And we've got nothing."
 Billy pointed at Damin. "Exactly! We've been *fucked* every time, and finally something just lands in front of us. It's more than enough money for food, supplies, and two trips for two people. I asked Benjy. And I can *win*."
+:comment:
+In this section above, add more exposition or movement style action. The dialouge is good but it feels like it needs to be broken up. The pace is weird
+:END:
 "How do you know that?" Damin shook his head. "And how do you even know Parsmo'll pick you?"
 "'Cause I'm a Herald? And the best shot in the city, by far?" Billy raised his hands, like it was a truism.
 "Parsmo doesn't know that. Parsmo didn't see you at the circus," Damin retorted.
 "Parsmo's shrewd. He's having tryouts just before the duel, and I'll win," Billy said.
 "Callaghan's more shrewd," Damin said. "How do you know you're not going up against the best Subject Herald in the state?"
+:comment:
+I understand Parsmo and Callaghan, but maybe some details here about how Billy heard of the duel. If he's met either of the men before, and who they are is good
+:END:2
 Billy bit his lip. "Yeah, Subject's good, but they always think like they're against other Subjects or other normals. They just try to draw as quick as possible and win off the bat. No one expects Light."
 "And what if you screw up?" Damin challenged Billy with his quiet voice. "What if they draw first, and kill you, like you "
 "I-I'll negotiate with Parsmo to pay a doctor if I get injured, whether I lose or win. And guarantee payment--"
@@ -84,7 +105,7 @@ Billy looked down, crushed. "I'm sorry. You're right." The disheveled man scrunc
 The two brothers stared at each other with dead eyes, both their bodies collapsed. For the first time, Damin was over Billy.
 "I just want to see him. I promised five... and now it's ten..." Billy's hands shook.
 "I know," Damin leaned forward.
-"FUCK!" Billy spinned around smashed the bottle of whiskey against the floor. Damin jumped back onto the bed and shielded his eyes.
+"FUCK!" Billy spun around to smash the bottle of whiskey against the floor. Damin jumped back onto the bed and shielded his eyes.
 "Sorry", Billy sighed. He crouched up towards the bed. He winced at the short, muffled pantings. "S-sorry Damin."
 Damin kept his back towards Billy. With a hint of panic, Billy lifted up the candle and stuck its aura of glow near the trembling boy.
 "You're not... *it's* not happening, is it?" Billy's voice trembled.
@@ -115,6 +136,9 @@ Billy raised an arm. "Wait." He motioned for Damin to close the door again, and 
 "Let me sober up a little. If anything happens, it's you and me against him."
 Damin looked down at his feet, then sighed.
 "Okay, Billy."
+:comment:
+Add more of Damin's internal monolouge. This is our first time being in his head, we should use it
+:END:
 
 
 *Knock, knock.*
@@ -124,6 +148,9 @@ The whirring stopped. Then footsteps approached.
 Several clicks came from a large bronze contraption entrenched in the door -- an unfamiliar lock mechanism to Damian. The door creaked open and a short sharp strand of white hair, like the tail of a dog, peeked through before it opened up to the beard of a short, elderly man, who smiled, eye-to-eye with the teenage Damin.
 "Hello Damin, customer need me?"
 "O-oh no, Mister G," Damin gave a fake smile back. "I've worked here a month... and I'm just curious what you-- what you do in there all day? I don't mean to--"
+:comment:
+If the brothers are supposed to be more transient, thats ok. But I feel like the relationship with Geatro works better if Damin has worked there longer
+:END:
 Mister G gave a hearty laugh.
 "Oh Damin, I'd thought you'd never ask. The last fellow was just content to do nothing all day. But you're a boy! And boys are still curious," Mister G widened the gap between the door just enough that Damin could squeeze through, but when he peered behind he saw the man was surrounded by hanging curtains, blocking the view of the room behind.
 "And I'd like to think that I never stopped being a boy, in that way. And... after all this time... ALL this time... I'd like to know maybe I helped another boy to never stop being a boy... in that way."
@@ -149,9 +176,12 @@ Damian looked at the man, who gave a wrinkly smile. Damin shook his head.
 "Well then you're definitely a genius. But-- with all these inventions--" Damin strut around. He peered down at an ever-so complex looking device with lots of pedals that connected to levers, which was covered with paper at the top. "Why do you only sell nails, and-- no offense, plain ol' tools?"
 Mister G chuckled. "Oh... this is all just a madman's playhouse. Those tools you sell-- they're good for people, useful." His voice trailed off a bit.
 "Yeah and these are--," Damin scrunched his eyes as he moved onto a strange box with weird symbols on it and more gears within then he could count.
-"If I sold it to people, I'd lose money with the amount of print that would have to along to tell them how to use it," Mister G said. "And... on the off chance people did find an interest... well I'm not prepared to handle Herald thiefs trying to get in here."
+"If I sold it to people, I'd lose money with the amount of print that would have to go along to tell them how to use it," Mister G said. "And... on the off chance people did find an interest... well I'm not prepared to handle Herald thiefs trying to get in here."
 Damian clenched his throat.
 "That light confuses the Light Heralds though, in case any of them try to get a peek in here, and tell their friends." Mister G said. "Makes it look like one big empty room."
+:comment:
+How does this light the work, or describe it more
+:END:
 Damin squirmed as he kept looking around at all the items. Even if there was a safe in here, he'd have more trouble figuring out what it looked like.
 Damin turned to Mister G.
 "Okay, but surely, even if it's just one thing, you should be able to sell something better than we sell right now!" Damin said.
@@ -162,6 +192,9 @@ Damin clenched his lips. "No, it's your stuff. I'm sorry."
 "It's okay, lad," Mister G. "It's heartwarming to see someone so eager. Take a look around!"
 Damin's eyes glanced around. His eyebrows raised when he met a strange silver-coated small gun at the end of the table. He approached it.
 It was like no gun he'd ever seen before, not anything like Billy's guns, even the dueling pistols he used in the circus. For one-- it was much more elegant but without trying as hard. And it was smaller, even then the dueling pistols. Damin was almost unsure of whether it was a gun it was so small, but it had to be-- it had an obvious handle, and a barrel, and a trigger.
+:comment:
+This is a good place to exposit about the current state of guns in the world
+:END:
 "What's this?" Damin asked.
 "Oh," Mister G smiled and picked up the gun. Then, he took his hand and spun a small cylinder in the centre of the gun, much to Damian's surprise. He mimed out a couple shots, and then smiled.
 "It does shoot. Unfortunately, you're going to have to take my word for it, as I don't really want to break anything in here, or get noise complaints," Mister G chuckled.

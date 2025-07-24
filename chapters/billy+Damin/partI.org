@@ -448,6 +448,12 @@ Behind the back of the teen, Billy pulled out the six-shot and admired its body,
 Billy's smile straightened into his usual hard glare.
 "And to make things right."
 * Chapter III
+** notes
+We need to establish what the purpose of their trip home is earlier. It is never super clear that
+A. Their dad died
+B. They want to celebrate the anniversary of their death
+C. Why they think they need to/should go back 
+** Chapter 
 Billy ruffled the few bills in his hand as he leaned against the algae-infested ships' edge. He stared down at the thick black ink, and the oval-framed outline of a landmass, which he knew to be Marshton. He glanced up over the other side of the ship, past the dock to the dusty hills which he knew to be the real Marshton. His mind slipped through the struggles of years past, much like the ship itself: so near now, but sailing away.
 "How much do we have left?" Billy was jolted out of his ruminating by Damin's voice.
 "I paid for both there and back. So only about two thousand. Enough for food and clothes once we get there, and a bit of emergency money," Billy took off a small pack on his back.
@@ -458,7 +464,7 @@ Damin nodded again, but his lips stayed pursed. Billy glanced out back to the Ma
 
 Billy down at the grime-stained planks, and then up at the grey overcast. It was still bright enough for Light to fill his body, but he wouldn't be as potent as on a sunny noon in Apathasaw. He stepped back just as a drop of water fell down from the sky.
 "Watch yourself," a low growl rumbled just as Billy felt his back elbow rub against a damp, rug-like surface. He turned and glared at a crewman wrapped up in a dark, heavy jacket. The crewman huffed, and Billy turned back to the line of men, a dozen or so deep, in front of a wooden countertop nailed into the ship. At the front of the line, men grabbed plates and were served stew from a tall black, iron pot. Despite his nose having gone blind to save himself from the constant stench of grime, fish, salt, and sweat, saliva still flooded Billy's mouth at even the promise of food. Billy looked down at Damin. When their eyes met, he gave a soft smile, and Damin returned one.
-Attention shipmates and guests!" The light chatter of men already seated in the long benches next to Billy stopped and attention focused on a burly man in an apron stained with a flurry of hearty sauce and spice. "I hate to be the lookout that spots a pirateship, but we've found rats in a portion of the rations," groans overthrew the man's voice and he raised his arms to silence them. "SO-- we're limiting the portions for these first few nights. I've been 'cross the Sethenin many a time, and it's always the latter legs of the trip where folk get the most cranky."
+"Attention shipmates and guests!" The light chatter of men already seated in the long benches next to Billy stopped and attention focused on a burly man in an apron stained with a flurry of hearty sauce and spice. "I hate to be the lookout that spots a pirateship, but we've found rats in a portion of the rations," groans overthrew the man's voice and he raised his arms to silence them. "SO-- we're limiting the portions for these first few nights. I've been 'cross the Sethenin many a time, and it's always the latter legs of the trip where folk get the most cranky."
 Billy sighed. Damin looked back up at his brother with those same wide eyes, but this time, all they had to exchange was pursed lips.
 Billy handed Damin a bowl before grabbing one himself as they got to the front of the line. He raised his bowl to the crewman who lifted a mushy stew that tasted of fish and thick greens. He gave one scoop to Billy and one to Damin. It was about a third of a meal, much less a day's filling.
 Billy led Damin to a bench that was empty besides a few men on the opposite end. The two sat down across from each other.
@@ -479,6 +485,9 @@ The pink man continued scooping-- but Billy grabbed his plate.
 "Let go!" the pink man shouted. Billy's glare narrowed, and he kept his hand on the plate. The man's meaty fist came swinging down, but Billy let go just in time. He swiped his arm out of the way, and the man's fist cracked the wooden table.
 The man screamed. With a huff he stood up. He swung, but Billy was faster. He kicked the man in the stomach, sending him flying onto the floor.
 The massive man turned onto his back, but by the time he had done so Billy was on top of him with a spoon inches from his eye.
+:comment:
+If Billy is using light powers here, make it more obvious
+:END:
 "If you even twitch before I tell you, I'll scoop your eye out," Billy said. "Understand?"
 The man stared wide-eyed at Billy.
 "Understand!?"
@@ -499,13 +508,16 @@ Billy turned over his shoulder to the pink man, who continued to hobble away.
 Damin returned to his meal, and didn't say a word till he was finished.
 
 
-"Billy! Billy!"
+ "Billy! Billy!"
 A bright light bursted through as the cabin door busted open. Billy hadn't heard this childish excitement from Damin for as long as he could remember.
 Billy rubbed his eyes as his kid brother grabbed his shoulders. "What?" he grumbled.
 "We're here. Come on!"
 Billy let Damin tug on his shoulder like a little boy trying to drag his father out of the room. Finaly, he relented and pushed open the cabin door with a grunt.
 Billy shielded his eyes from the blinding glare of the sun as he approached the side of the ship with Damin. The few guests, spun up in delicate dresses and suits, also looked out with awe. Their foresty perfume got through even the stench of the sea.
 "It's... it's home," Damin whispered out to the dock which enveloped the pastel town just beyond. Compared to Marshton, or frankly anywhere Billy had been in the past ten years, the Metheno dockside and town square was a piece of candy, so bright, sweet and clean that it made Billy want to tear it open to see the ugly guts and machinery beneath-- it looked too perfect and clean to be truly operational.
+:comment:
+Description of Metheno here.
+:END:
 Billy's arms trembled. He hadn't thought of this place as home, or any place as home, for a decade. He felt his cheeks warming and his eyes watering, but he clenched his jaw and swallowed.
 Damin pointed. "This is the dock we left! This is--"
 "Quiet!" Billy threw his hand over Damin's mouth. He brought the teen into a huddle. "We don't know if anyone we know is still here."
@@ -514,10 +526,13 @@ Billy released his hand from Damin's mouth. The boy panted as the two turned bac
 Billy looked out to the dock. He clenched his jaw and tightened his fist to stop the shaking before closing his eyes.
 "Yeah. It is."
 Memories flooded his mind. Dimpled children in a forest. Open smiles. Running. The animalistic sounds of joy. Middle-aged craftsmen turning from weary focus to a sentimental smile. Reverent gatherings in the center of town. A bald infant with closed eyes being held. SCREAMS.
-"Attention, guests and crew!" Billy's eyes snapped open. The ship had pulled into the dock, and all eyes pulled to a tall man dressed in a loose black wool shirt, the first mate. "We have arrived. Tell all near to you. Get your things, the crew will not assist you unless you are travelling alone, you are to depart!""
+"Attention, guests and crew!" Billy's eyes snapped open. The ship had pulled into the dock, and all eyes pulled to a tall man dressed in a loose black wool shirt, the first mate. "We have arrived. Tell all near to you. Get your things, the crew will not assist you unless you are travelling alone, you are to depart!"
 The primmed guests let out laughters of awe at the town. Billy's eyes narrowed at them, those pretentiously polite peacocks who saw none of the real flaws or goods of this town, but looked upon it like a doll house for their amusement. Over the three weeks as he had heard those same conceited laughs, knowing that they enjoyed exported delicacies while the rest of the ship rationed out the fish stews, he had to resist the temptation to march up to the upper deck and give them the taste of dusty, furious reality he was so used to.
 Luckily his mind was focused on something greater. In a way, though not as superficial as theirs, he was excited, though he was careful to hide it. He looked down at his brother, who just seemed more shocked than anything.
 The boat pulled in and knocked against the dock. Billy grabbed Damin's by the shoulders and helped him up the dock and he himself got up.
+:question:
+confused what is happening here. They should probably have some luggage. A bag at least
+:END:
 Billy turned at the clicking of boots against the dock.
 "Halt!" A well-built man in a studded leather breastplate on the dock raised a hand towards Billy.
 "We must do a check-in of your ship, its contents, and its passengers before anyone disembarks."
@@ -526,19 +541,27 @@ Billy just raised an arm over Damin's chest and took a step back, but did not mo
 "A sister ship in our company will arrive in a two weeks time, which will return them home," the first mate said.
 The armor man nodded. He turned to Billy and Damin, gave them a quick look over, and then turned to the crowd of a few dozen passengers which had gathered on the main hull of the ship.
 "Welcome to Metheno. I am Devinar Vakas, port marshall. There are two businesses which accommadate guests, a more expensive accommadation on the north side of town, on Revictus street and a cheaper one on the east side, on Nexon street. I can arrange guides to bring you to each. No matter which you choose, you will be expected to report to your rooms every night. Guests are allowed in Metheno, but you must submit to the Kuarko and show no dishonor to our gods, or you will be removed."
+:comment:
+This guy should be a Krusadar
+:END:
 Billy's nails dug into Damin's arm at the mention of the Kuarko. The boy whimpered, and Billy loosened his grip.
 "If you are unaware of our customs, we will be happy to show you," the armored man continued. "But we will not warn you twice. Understood?"
 The crowd nodded in unison to the Devinar.
 "I can't speak for the rest, but my wife and I are *splendidly* acute to your customs," a suited man with a thin mustache said. "We studied--"
 "Silence," the Devinar raised a gauntlet, and the suited man's smirk turned to a shocked purse. "It is customary that all refer to clergymen with their titles. I am Devinar Vakas, if your memory has aleady failed you," the armored Devinar said without the expected sass.
 "Though the Versalist world has not seen it urgent to spread the Truth to Apathasaw, and Apathasaw has rejected the Truth repeatedly, we are still told to spread it. Thus, if any of you wish to join us, as the Versalist world is not a world bound merely by nation, come to the chapel. We will arrange something," the Devinar continued.
+:comment:
+Vakas should mention the pirates. Or Billy should be surprised by how unharassed they were
+:END:
 The crowd on the hull fidgeted like bored schoolchildren, but Billy was especially antsy being overlooked by the Devinar so long, and especially his being commanded by one.
 "One last thing," the Devinar spoke. "If you go out at night, bring a lantern. Anyone out at night without a lantern will be treated as a hostile Dark Herald by the Devinars."
 Damin shook, but Billy squeezed his shoulder to stop any motion. The Devinar turned to Billy. After a few seconds, Billy gave a cheesy smile, but the Devinar remained stoic.
 "Come now," the Devinar said. "Let us exchange your money, and get you settled."
 
-
-Billy felt the dew on his hands, neck, face, and ankles-- every part that wasn't covered by his new-- well, new for him-- coarse wool tunic and thin loincloth. They were customary for Wreathwardian commoners, rather than the durable leather he sported in Apathasaw. It was shabbily cut, not that Billy cared, though the colder weather then what they were used to did make Damin shiver. Damin's feet crunched against the pebbles on the dusty path, he floundered forward; it looked as though he could collapse at any step.
+Billy felt the dew on his hands, neck, face, and ankles-- every part that wasn't covered by his new-- well, new for him-- coarse wool tunic and thin loincloth. They were customary for Wreathwardian commoners, rather than the durable leather he sported in Apathasaw. It was shabbily cut, not that Billy cared, though the colder weather made Damin shiver. Damin's feet crunched against the pebbles on the dusty path, he floundered forward; it looked as though he could collapse at any step.
+:comment:
+loincloth might be too primitive
+:END:
 Billy turned to him with a scowl. Billy had a pack full of clothes and money, and Damin had nothing-- and the boy was still struggling just to walk. There was just a little sting that maybe it was Billy's fault for sheltering the boy all these years, but Billy quickly shut that down-- no poor orphan kid was ready for the struggle and chaos of life alone in Apathasaw, let alone Damin.
 "Come on. We've been waiting for this for *years*. You're walking like a criminal about to be hung," Billy's throat shook with passion.
 Damin stopped and looked up to Billy with wide but dead eyes. He just gave a nod, and then continued tumbling on, just a bit faster.
@@ -546,12 +569,12 @@ Billy exhaled and blasted off into a jog. He turned his neck, Damin panted on, b
 "Come on!" Billy shouted.
 His voice quited between pants. "We have to find dad."
 
-
 Billy groaned as he tredged up the grassy hill. It was just the last few steps, and he had slowed down to let Damin catch up. The boy's chest pumped up like a panicked dog's.
 Billy grabbed his brother's arm as they got to the last few steps. They gave each other a brotherly nod as they got to the top of the hill. The sun basked down on Billy's skin, and he gave a big yellow smile. He put his hands on his hips and peered out over the valley below-- and the rows of graves that filled it. His smile disappeared into a solemn purse of the lips, and he met Damin's irresolute stare.
 Billy glanced back to the valley of graves. He blinked to stop his eyes from tearing up. He glanced back to Damin, whose childish eyes pierced his soul in the way only a child could. Billy marched down the hill to avoid his brother's gaze.
-
-
+:comment:
+Add more transitions between these snippets it too jarring as is
+:END:
 "I--I don't know. Maybe-- just maybe it's not--"
 "C'mon. It's-- FUCK!" Billy shouted and kicked up dirt onto a nearby grave. He looked out over the rows and rows of graves they had already checked.
 "We came all this way-- I'm gonna keep lookin, I'm gonna keep lookin. Maybe we missed it." Billy's throat shook with resolution as his eyes dashed from one grave to the next. His ankles shook in his dirt-filled shoes as he ran from grave to grave, and he ignored his aching legs' plea for rest and food.
@@ -562,7 +585,9 @@ Billy's bony hand and manic eyes shook at Damin, like an insane magician cursing
 Damin rushed to his aid, but Billy turned as if the boy wasn't there, to the nearest grave, marked Yorval Arektre. His tunic smattered with dirt, he shook his fist at the grave.
 "Dad, wherever you are... you'll see it through my eyes. You'll rest-- knowing that they paid with their lives... they'll pay for taking yours... for stealing ours," Billy's fist smothered the dirt. He pounded his fist, as though his father was trapped behind a wall of dirt.
 Damin opened his mouth, but he pursed his lips in reconsideration before anything could come out. Billy hurried to his feet like a dirty dog. The boy trembled with wide eyes as Billy grabbed his shoulder and pushed him forward, back towards the city which they had left.
-
+:comment:
+be explicit here with Billy saying his goal is to kill Aldwin
+:END:
 
 Billy pushed Damin against the white wood walls which glowed like a star in the center of the city.  Billy talked down with a pointed finger at the boy.
 "Don't move a muscle. If there's a problem, you know what to do--," Damin said with Billy in unison, "stall, scream, scram." Billy nodded and gave the boy a pat on the shoulder before turning into the building. Inlaid on the doors shone a diamond, its corners pinned by four crystals, one green, one an ocean blue, one red, and one a piece of the sun.
@@ -592,6 +617,9 @@ Billy nodded. "Thank you for your Honesty, Ather," he gave a fake smile, and his
 ** Notes
 - Add area where Damin disputes Billy killing Aldwin in the Citadel before it happens.
 ** Chapter
+:comment:
+Establish where they are here and what their goal is. It should be explicit they want to track down Aldwin.
+:END:
 "Wait here", Billy stopped Damin from advancing as he marched towards a coachman and his carriage on the top of the hill.
 "What can I do--"
 "We need to get to The Citadel," Billy interrupted the coachman.
@@ -606,6 +634,9 @@ Billy snapped around to be confronted by a man in an impractical doublet with a 
 "Two tickets to *, good sir," the man said.
 "Hey!" Billy barged through, raising his arms to push back the well-dressed man. "We were being served here!"
 The woman gave an unbelievable scoff, and the man shook his head. "The coachman asked how he might be of service to our party, did you not, good sir?"
+:comment:
+Billy is rough, but I think he should kind have some more manners? At least Damin should try to, it feels more informed in relation to their background
+:END:
 The coachman's nervous glance darted between Billy's hard stare and the proper man, until landing on the proper man's smile and reassuring nod.
 "T-that is right," he finally said.
 The couple then stepped between Billy and the coachmen, the woman squinting and raising her chin at him. Billy had to dig his fingernails into his palms to crush his desire to pummel the two the ground.
@@ -619,8 +650,13 @@ Billy grit his teeth and reached into his bag. He pulled out the sixshot, and th
 "Billy-- don't," Damin rested a thin, pale hand over the sixshot.
 Billy turned to Damin, glanced at the wagon in the distance, and then looked back to the gun. With a sigh, he put the contents back into his bag.
 "So much you did," Billy pushed Damin back. The boy caught himself by doubling over, pressing both hands against the dirt.
+:question:
+Last time is confusing not sure what happened
+:END:
 
-
+:comment:
+Transition here. Too abrupt again
+:END:
 "It's better this way, anyway," Billy shouted over the rhythym of pounding hooves and heavy breaths.
 "Don't have to have small talk with some shaky little wagon driver, or fear that you say something stupid that gets us under heat."
 Atop the horse, Damin looked like a kid who had just lost a sport. "We didn't have to--"
@@ -641,7 +677,9 @@ Billy turned back to Damin with a harsh glare.
 "And how's that going to happen?" Damin's eyes grew serious. "What even is your plan, Billy? Do you even know how to find them? Do you even know how to get out, and get us back to Apathasaw, after all this is over?"
 Billy's eyes, dead with determination, stared at nothingness. "I'll find a way, just like I always do. After I've delivered what's been coming."
 With a whip of the reins, Billy dashed off. Damin's chest sunk, but after a few seconds, he followed.
-
+:comment:
+Good convo
+:END:
 
 "Stay close, now," Billy said as the neck of the crowd of riders and wagons shortened and widened along the road. The mass of riders, which created an ambience of neighing and chatter, were all under total shade. It was already evening, but they could barely see each other.
 "Wow," Damin stared upwards at what appeared like a border of the world. Slabs of stone, each double the height of men, towered upwards, creating a horizon of the sky: a wall that hid the sun.
@@ -666,6 +704,9 @@ Billy closed the bag. A sigh escaped their chests as they crossed under the mass
 The Citadel was undoubtedly alive, and as such always growing, yet simultaneously every building felt like it had always been there; almost everything was made of stone, limestone that shimmered in the sun, or marble, which gave it all a statuesque look that sat upon eternity, fit with carved faces atop buildings which stood as watchers over the fragile men below. The roads were made of brick, without a bump, and thus, what was wood or any softer material was only the carriages, and thus it felt as though the bustling mass moved about an immutable city. Stone spires reached up far past what would be the tallest buildings in most other capitals, yet they were still dwarfed against the backdrop of the Citadel walls, which one could often notice if they focused through and far enough.
 Even from the perimeter where they had just entered, one could also intuit the circular shape of The Citadel-- there were outer roads which curved perfectly around, as did the walls, which, along with the buildings, gave the place an obvious symmetry. And in the center, down the main road they had just entered, a guiding star shone, though it was day-- Billy shielded his eyes, though he did a double take-- it was not the sun, it was too white, and too narrow in its glare. What it was, he did not know, but it was perfectly in the center of the Citadel, what appeared to be miles down the main road, atop the tallest building in the entire Citadel, reaching over two-thirds the height of the walls, though it was obscured by the glowing light.
 Billy and Damin continued towards it. It was high up enough that though brutally bright, much like the sun, it could be ignored if one kept there eyes at normal level.
+:comment:
+what is giving the big glare
+:END:
 Billy's eyes darted around the crowd, and he locked in as he found an Ather, clad in the quadruple-colored robes. Billy jumped off his horse and grabbed it by the lead, and cut through a crowd of passerbys to the man.
 "Excuse me, Ather! I'm a newcomer here-- do you know where Ath- Impalias Aldwin might be this morning?"
 "If not in the Kuarko, he'll be at the Grand Temple of Aredal," the Ather replied, unimpressed.
@@ -679,6 +720,9 @@ As they got closer to the center of the Citadel, and the Light got higher, the m
 Though Billy just looked upon the statues much as a wild animal would look upon any human work of art, not with awe, but an empty stare of indifference, Damin was truly blinded by the Light. As he saw his brother's unfiltered reaction, Billy took a second look to pour over the intricate embeddings and embossings of the monument. It *was* breathtaking, even an animal could realize that. A little nag pierced his thoughts about how special this must be for Damin, and really, should be for him-- after years and years of crappy, dusty towns, to take in a masterpiece which could have been built by titans.
     But a feast of shouts snapped Billy out of his wonder. He and Damin turned to see a large crowd gathering in the intersection of the road.
 Billy slid off his horse, and Damin followed suit. They tied their horses to a nearby hitch as they moved toward the outskirts of the crowd. The crowd was gathered around a wooden podium, atop which stood several Devinars, as well as one man that looked like an Ather, but his robes were more colorful and ornate, and in the center was a diaroma of the completed symbols of all the Four atop each other.
+:lore:
+I think this takes place at the Olitheon statue in the Okin chapter
+:END:
 The robed man's voice boomed with passion. Billy grabbed Damin by the arm and stabbed through the crowd, against the vicious retaliatory elbows.
 Billy moved with determination, nearly losing Damin, his eyes not leaving the podium. Squirming, screaming, a thin teenager struggled against the steel arms of a Devinar, as ropes wrapped around his arms and legs.
 "Darkness hides in many forms. It corrupts everything-- it takes pleasure in using our greatest goods as its cloak. Deionis is the master of Deception-- he will not come as an ugly miser, but a beautiful woman! A feeble child!"
@@ -688,6 +732,8 @@ He thought it *did* sound like Aldwin, but shouting that fervent sounded the sam
 He jumped up, slowing Time as he did so. The world froze, his vision of the podium slowly sharpening, until the robed man's face was front and center--
 Though Time was frozen, and only Billy's eyes barely moved, his heart exploded. It was *him.* Aldwin.
 Billy released Time, scrambled for his bag, grabbed the sixshot--
+:time:
+:end:
 *WHAM!* He was thrown onto the ground. "That's what you get, cutting through like that!"
 His vision blurred, Billy palmed around for the sixshot. The crowd erupted in cheers.
 Billy found the gun and stood up. As his eyes met the podium, the stake erupted into flames.
@@ -706,6 +752,9 @@ Billy looked down for the gun, and saw it in between the legs of a jumping man. 
 Leveled the sight at Aldwin's head. Froze Time. Closed an eye.
 Fired.
 * Chapter V
+** note
+This doesn't line up with the Okin chapter. The two should probably be one chapter
+** chapter
 Aldwin's breath fled his body. Searching for it, he clasped his collar with both hands. His eyes rolled back in his head, and he collapsed.
 Billy was amazed how long it took for the crowd to realize what happened. Though both forms of high adrenaline, it seemed like the crowd needed to be lowered out of their excited roars of religious ecstacy to be reheightened into screams of terror.
 Just as soon as the ring of the shot faded, Billy snapped back into alertness--
@@ -729,6 +778,9 @@ He was yanked back.
  Billy turned to see an approaching duo of Devinars from an intersecting street. They were jolted alive as they saw Billy running. Billy swerved off to the far side of a carriage, so they were blocked. Though his body could barely handle it, he sped up.
  It seemed like both seconds and hours by the time he reached the outer wall. The boots of the Rothars had fallen behind, but they still rumbled in the distance. He glanced for Damin through the gate, and saw him atop his horse, next to the long line slowly moving in and out of the Citadel.
  Billy sprinted through the gate, passing once again from the dense, architectured space of the Citadel out into the outside world.
+:comment:
+they're probably too far for this to make sense. The chase should be longer
+:END:
  "Rothars at the gate! The man running! Stop him!"
  Billy heard the shout of the Rothars behind him just as he passed through the gate, but even their loudest shout was quiet to him. Still, he turned and saw the Rothars at the gate snap to attention.
  "That man! Get him!"
@@ -765,7 +817,7 @@ Billy turned to Damin.
 "I know!" Damin said with wide, excited eyes.
 Billy elbowed the silver-haired woman back, and she relented. He hadn't noticed it before, but a mass of tentacles were wrapped around the dark-skinned man. The man's face now turned to him, Billy could see his eyes were pupiless, glowing with a dark violet.
 "What's going on here? What the fuck is this?" Billy snapped.
-"Don't worry. We're only here to help," the woman said.
+"Don't worry. We're only here to help," the silver haired woman said.
 "If that's true, you can find the nearest town and set down a mile from it," Billy replied. He crouched into a ready position, and his glare darted back and forth between the three strangers.
 The silver eyes stared at Billy with still seriousness. Billy glanced to Damin, who looked as the child he was, waiting docile for the pronouncement, with apprehension and curiosity.
 "We saved your lives, we only mean to help you. And that is just the beginning. What we have to offer you, and especially your friend, is the greatest gift," the woman said with measure.
@@ -779,9 +831,12 @@ Billy glanced between the dark-skinned man, who had turned back into himself, hi
 "All the better," the silver-haired woman's calmness remained. "Then I offer you both the same opportunity for enlightenment."
 Billy's eyes narrowed. He paced around, circling the group, who's gazes remained on him.
 "Sounds like a bunch of bullshit," he said. "You make all these holy promises and then get a bunch of slaves to work for you, who won't rebel because they're stupid enough to believe it's some *holy calling*."
-"We are not The Citadel. Our community is local and transparent," Allia said.
+"We are not The Citadel. Our community is local and transparent," the taller woman said.
 "Come on, Billy," Damin said. "Give them a chance."
 Billy looked to Damin. The boys' eyes betrayed his starvation-- not just for food, but for a more meaningful life.
+:comment:
+More argument here. And name intros
+:END:
 "Okay," Billy relaxed his shoulders. "So where are we going? What's gonna happen?"
 "You will experience our way of life at the Tsuman Monastery," the silver-haired woman said.
 "And if it sucks?"
@@ -794,7 +849,11 @@ More bullshit. But what could he do? They had no food, no clothes, no plan, nowh
 "It sounds like this will be a permanent choice," he rumbled.
 The silver-haired woman's lips pursed. "As I said, if things go poorly, we will find a way to you leave you unharmed. But-- yes."
 The smaller woman spoke up. "If you wish for us to leave you, we can do that. You're missing out on something beautiful, but we're not gonna force you."
-Permanent. Billy hated that. The word might as well be "prison". Was he about to buy into a cult? The people seemed *pretty* normal, despite the giant jellyfish ship, and the silver woman's static mannerisms. He sized up the three Heralds. Could him and Damin take them, if it came to that? The way the conversation was going, he'd be lucky if Damin lifted a finger against them. Could he take them all? It seemed unlikely. He had no idea how powerful Heralds they were, but they were confident to hold off a dozen Rothars, one who was a Gas Herald. For most people, a Teleportation Herald was an existential threat-- before they could act, the Teleportation Herald could blink behind them and knife them and stab them in the back, but being a Control Herald Billy would always be the one with the reaction advantage, and could surprise the surprise attacker. And the Mind Herald probably couldn't be as active in a fight-- but he could be deadly if it came to that. Billy felt for his bag-- he still had the six-shot, and there was no way the Heralds knew about it. If the Mind Herald entered the fight, would he drop the ship, killing them all? If Billy somehow won, would he hold the Mind Herald hostage? And would the Mind Herald cooperate?
+Permanent. Billy hated that. The word might as well be "prison". Was he about to buy into a cult? The people seemed *pretty* normal, despite the giant jellyfish ship, and the silver woman's static mannerisms.
+:comment:
+Billy should maybe know about the jellyfish ships. Unless they don't exist at all in Apathasaw
+:END:
+He sized up the three Heralds. Could him and Damin take them, if it came to that? The way the conversation was going, he'd be lucky if Damin lifted a finger against them. Could he take them all? It seemed unlikely. He had no idea how powerful Heralds they were, but they were confident to hold off a dozen Rothars, one who was a Gas Herald. For most people, a Teleportation Herald was an existential threat-- before they could act, the Teleportation Herald could blink behind them and knife them and stab them in the back, but /Suspicion/ tensed every muscle in his body. Maybe it would be enough to react to the blink and surprise the Teleportation Herald. And the Mind Herald probably couldn't be as active in a fight-- but he could be deadly if it came to that. Billy felt for his bag-- he still had the six-shot, and there was no way the Heralds knew about it. If the Mind Herald entered the fight, would he drop the ship, killing them all? If Billy somehow won, would he hold the Mind Herald hostage? And would the Mind Herald cooperate?
 Billy glanced to his brother.
 And most importantly, could he ensure Damin didn't get hurt?
 No. He hated to admit it, but the situation was too risky. It was a position that brought the acid from his stomach up into his mouth, but he had to be a good pet.
@@ -802,20 +861,20 @@ Billy recaught everyone's stares.
 "I'd like to know more," he put on a polite ruse. "Who are you? Why did you save us? What *exactly* are you offering?"
 "Of course," the silver-haired woman said. "We are the Tsuman Monastery, an order which tasks itself with growing the most noble, potent, and wise Heralds. We accept non-Heralds as well, who are tasked with more humble duties. We train in solitude, away from the world, to ensure that we are focused and uncorrupted, but, as we have shown, we are willing to be peacemakers if the time arises."
 The silver-haired woman maintained her solemn delivery, but there was an ounce of passion brewing with each sentence. The smaller woman smiled and tingled like she was holding back a round of applause. Even though Billy was a Herald, he felt a bit of disgust of hearing that the non-Heralds were tasked with "more humble duties". Surely a sugarcoating of "hard, back-breaking, thankless work".
-"Oh. And I am Allia," the silver-haired woman motioned to the smaller woman, " this is Voshri," and then to the man with violet eyes, "And this is Rakaal."
+"I am Mei-Li," the silver-haired woman motioned to the smaller woman, " this is Voshri," and then to the man with violet eyes, "And this is Rakaal."
 The dark-skinned man smiled.
 "And where exactly is this Monastery?"
 "Well. That's-- ," Rakaal chuckled. "A bit complicated."
 "What the fuck is that supposed to mean?" Billy asked.
-"It's not a fixed location," Allia said. "The Monastery travels in the clouds, far above the ground."
+"It's not a fixed location," Mei-Li said. "The Monastery travels in the clouds, far above the ground."
 "Okay, okay. That's enough of your fairy tales. Are you people fucking delusional?" Billy stomped towards the back of the ship, where a cabin lay.
 "I mean, Billy, they got a flying ship, wouldn't it make sense they live in the sky?" Damin interjected.
 "I mean, you're all Heralds... maybe this is all one big Illusion. Is there a fourth person on board? Cause it just seems like something else is going on here," Billy eyed the three Heralds like a hawk. His senses rose as his Suspicion grew, but he just felt the breeze harder.
-"I know it's hard to believe, but we are serious. We are only here to help you, and hope you will join us," Allia said. "Now it looks like you've had a long week. Please, we have an empty room for you. Why don't we get you some rest."
+"I know it's hard to believe, but we are serious. We are only here to help you, and hope you will join us," Mei-Li said. "Now it looks like you've had a long week. Please, we have an empty room for you. Why don't we get you some rest."
 Billy's insides prickled at the prospects of sleeping on the same ship as these oddballs. He *was* exhausted, but he planned to cycle staying on watch with Damin.
 "Okay," Billy nodded. "But this isn't over. You're not gonna make any decisions for us until I find out *exactly* what's going on here."
-Allia gave a curt nod. "Of course. As I said, you'll experience it soon enough."
-Billy followed Damin's childish gaze off into the endless horizon of the evening sky, the explosion of violets and crimsons before they followed Allia and Voshri into the cabin of the ship.
+Mei-Li gave a curt nod. "Of course. As I said, you'll experience it soon enough."
+Billy followed Damin's childish gaze off into the endless horizon of the evening sky, the explosion of violets and crimsons before they followed Mei-Li and Voshri into the cabin of the ship.
 
 
 "Can you believe it? We're flying!" Damin bounced up and down on his cot.
@@ -844,18 +903,91 @@ Aldwin and Okin. In all the adrenaline, in the chaos of The Citadel, Billy never
 But none arose. Perhaps it was just because of all this nonsense, or more likely, because him immediately seeing Okin afterward set his mind on running the back half of the marathon.
 He knew why the catharsis owed to him of seeing his father again was unpaid, because his father wasn't given a grave, and thus, he never really saw him again. But where the sense of justice for killing Aldwin, the man who ruthlessly executed his best friend and tried to burn that man's son alive, should have been, there was just void.
 Billy turned over in his bed. Yes, it was because his conscience was serious, it would not be satisfied with just one half of the job done. He gathered up all his rage, his strength, his Resentment, and focused on Okin. The greatest betrayal of all, from his childhood best friend. A man who needed to die.
+* Chapter VII
+Billy stared out the porthole of the room that had been granted to him and Damin. Below them he could see only the endless blue expanse of the ocean. He guessed this was the Dehden Ocean, to the West of Wreathward. He'd glimpsed a dessert on the horizon last night that could have been Farsun.
+They'd been on the boat for just over a day now, and despite his best efforts Billy hadn't been able to get any sleep. It had been a struggle to keep Damin in the room, all the boy wanted to do was explore and interact with the strangers. He'd bought in fully to their propaganda, to their noble lie of purpose. Billy admitted it was a good lie, one a part of himself wanted to believe. But he wasn't as naive as his younger brother.
+A knock came at the door and a feminine voice spoke, "I brought food."
+It was Voshri, the younger of the two woman on the boat, she had delivered the food late last night when Billy had refused to go to the mess for dinner.
+Damin sat up in his bed looking to Billy, searching for permission to speak. Billy reached down to unbuckle his holster, the cool metal seeping into his fingers as he wrapped them around the six-shooter's handle.
+"Come in," Damin yelled.
+Voshri was a short woman, more than a head shorter than even Damin. She had mahogany skin, with a cool silver undertone, and black curly hair tied back in high tail.
+She placed two bowls of stew on the table and a cloth wrapped portion of bread. "We'll be arriving soon. You should come up on deck, the view will be /amazing/. I promise!"
+"Sure, sure," Billy waved her out of the room as he sat at the table. How could anyone be so chipper and energetic? The petite woman's attitude baffled Billy.
+Once door was shut Damin spoke, "can we please go out? I'm sick of being stuck in here."
+"I thought you'd be use to staying inside, it ain't like you went out all the time in Apathasaw." Billy tore off a chunk of bread and proffered it to Damin as the boy took a seat at the table.
+"But we're flying Billy," Damin's eyes lit up as he spoke. "Think of all the things we could have saw that we missed. Did you ever think we'd fly? There was no way we'd have been able to afford an airship, no matter how many duels you won. I know you wish we could fly, don't you remember when we use to go work on the docks? We'd sit out there watching the airships coming in, imagining what kind of adventures we could go on if we had a ticket on one of those."
+Those had been Damin's fantasies, Billy never had the luxury of entertaining those ideas.
+"Ok fine, we can go up after we finish eating. But let's keep to ourselves, the less we talk the less they can use against us."
+Damin shook his head furiously, "ok, ok, ok. I promise Billy."
+A smile grew on the older man's face as he watched the unadulterated joy in his brother's face.
 
-* Monastery jtraining
+The air on the deck was frigid, nearly colder than a night in a dessert canyon. Mei-Li and Rakaal huddled together in the far corner of the deck. Rakaal wore a long fur overcoat, Mei-Li wore a traditional Marthia robe, both held various navigational instruments in their hands. He breathed hard, even though he was standing still. The light was brighter, brighter than he had ever experienced. His muscles vibrated with the potential, with more Light than he ever felt. The cold ebbed away and Billy was forced to take a shaky breath as it all overwhelmed him.
+Damin excitedly ran to the rail, and Billy had to pull the youth back by the collar of his shirt. "Be careful."
+"Right, right, sorry."
+Damin slowed to a speed walk, but still moved too quickly for Billy.
+Voshri was leaning against the rail, the only other person on the whole deck. The vessel was shaped like an enlarged canoe, with thin pointed ends. It wasn't the largest ship Billy had ever been on, but if the ship had been a seafaring vessel it would have been crewed with at least 20 sailors He could cover the width of the deck in five long strides, and the length in less than twenty. The vessel had at least three decks, but Billy hadn't gone down past the second, where there room was.
+Where were the other sailors? He doubted there were truly only three of them on this whole ship. There had to at least be a chef. 
+"Billy look!" Damin's yell drew the attention of the other three as Billy approached the rail.
+"What is it?"
+"Don't you see it? Down there!" Billy peered down to see huge whirl pools of water laid out in an S shaped curved. Between each pool the shadow of something moved. It had to have been gigantic to be visible from this height.
+"It's the Leviathi!" Damin's smile fell as he saw Billy whirl on the two older Heralds.
+"Where are you taking us? That's the Leviathi down there, which means we went North" He took three quick strides and was upon Mei-Li and Rakaal. "Are you delusional enough to take us to Krinosas?"
+Rakaal glanced to Mei-Li who put up a hand. "We're not taking you to Krinosas. Like I said before, we're taking you to the Monastery. We had to come this way to catch it's path."
+"It's path?" Billy took another step foward. Mei-Li was surprisingly tall for a woman, she owed that to her Bei-Sanian heritage. She was only a bit shorter than Billy and easily met his stare.
+"You'll understand soon enough. We're nearly there." Wind roughed Billy's hair as the ship sped up.
+"No. You tell me now," the ship was rising.
+"It's better if we show you. Most find it unbelievable at first."
+"Billy look!" At the sound of his brother's voice Billy turned. He backed away from the silver hair woman, /Suspicion/ thrumming within him.
+Over the side of the rail, and ahead of the vessel, Billy could see a create who's size dwarfed any he had ever seen. This was one of the legendary beasts of folk lore, like the Leviathi, it had to be. Nothing else could be so big.
+The creature had orange, stony looking skin. Two huge wings held it aloft, and two small claws jutted out from it's body. Along the spine, rose bone white--- teeth like ---spikes.
+They rose higher and Billy finally saw the head of the Beast. The head itself was huge, as big as the whales people hunted in Northern Apthasaw. It had a bird like beak which opened horizontally, but he couldn't imagine what the beak was for. Surely a Beast like this didn't feed on regular food.
+"Do you see now, why I did not explain?" Mei-Li had moved to join the brothers at the rail, and Billy had been too distracted to see. How could he have been so careless?
+Mei-Li waited for a response, but Billy gave only a simple grunt.
+"Do they know we're coming," Voshri asked from the front of the vessel.
+"I just called your brother," Rakaal said. "He didn't seem please. Not at all. Nor does the council."
+"I'll shall handle the council," Mei-Li said. "Did he tell you where to dock?"
+Rakaal nodded, which seemed to end the small spat.
+Damin hadn't taken notice of it at all. The boy was transfixed by the Beast, and Billy could only imagine the questions that would be in the youth's mind. None of which he could answer.
+"I see worry on your face. Suspicion perhaps?" Billy suppressed the surprise in his expression at Mei-Li's guess. "Do not fret, I have guaranteed your safety and freedom. And those of us in the Monastery stand by our vows."
+"As long as we agree to join your cult?"
+Mei-Li made a small *tsk*, "what will it take to dissuade you of your assumptions? We are not a cult, nor will we take your prisoner. If you wish to leave, your freedom will be arranged for. But I truly believe you should consider our offer. Our purpose is noble."
+"Everyone thinks that," Billy said.
+"What more noble purpose is there than self improvement?"
+Billy saw Damin from the corner of his eye watching the conversation.
+"Getting what you're owed, what you deserve. That's what." Billy jerked his thumb towards himself. Mei-Li gave a soft, pitying, smile that made Billy want to reach out and flood her with the power of /Indignation/.
+"We're coming in," Voshri's high pitched voice came from the front of the vessel. They had pulled up near one of the massive spines on the Beast's back. Billy could see that the spines were pocked with holes and arches--- if the pattern had not been so regular it would have been sickly, in fact it still was. Near the top of the spine a series of larger arch ways ringed the spike. As they floated up to the massive arches it was clear each led to some sort of dock. Many of the arches were filled with similar, but not identical, ships to the one Billy and Damin rode.
+The empty arch they entered had a metal walk way around the perimeter, half way up. Two men stood together, watching the ship's approach. One had the same mahogany skin tone as Voshri and a circular head of curling hair. The other was a portly man in flowing navy robes who stood with his hands on his hips.
+"They don't look happy..." Voshri said.
+"They do not," Rakaal agreed.
+The vessel entered the arch and Billy was struck by a sudden sense of warmth.
+"Woah, the air, it's so warm..." Billy saw Mei-Li flash a smile at the reaction. It wasn't just warmer, but the whole arched chamber seemed to have a different climate to the air outside. The air was more humid here, and didn't seem to flow out to the colder opening, the way it would in a building in a dessert day.
+Dock workers that were previously hidden came out on the catwalk, throwing lines to the vessel which Mei-Li and Voshri caught. Billy pulled Damin back, letting the pair work.
+The pair that Billy had spotted over made their way up the catwalk, as a plank was extended to bridge the gap from vessel to catwalk.
+"Calkesh!" Voshri hopped down the plank and was swept up in a hug by the mahogany skinned man.
+"I'm glad you all made it home safe," the portly man said from the catwalk. Now that he was closer, Billy could see the black curled handlebar moustache and short combed hair the man wore.
+"As am I master Avador," Mei-Li tied the final knot off, leaving the vessel in place and suspended by the massive jelly fish above. Avador stepped from the plank and onto the ship. Rakaal gave him a deep bow from the farside of the vessel. Mei-Li bowed too--- with her fists locked against each other ---in a deeper bow than the one Rakaal had given. Avador returned the bow, with the same hand gesture. Billy could see the portly man eying him from the corner of his eye.
+"I ain't bowing," Billy spat out a wad of flem onto the deck near Avador's feet.
+"I'm sorry about my brother," Damin shot a glance up at Billy that caught the older man off guard. He didn't understand how his brother could be so quick to defend these strangers. He should have experienced enough of the world to know this whole deal was too good to be true.
+"It is ok," Billy felt himself shift into Indignation at Avador's beaming smile. The Light within him vibrated, begging to be let out. It was only with great effort that Billy kept himself from exploding in Indignation.
+Mei-Li, having seemingly squared the ship away, leaned over to whisper in Avador's ear. Billy's sense opened, his hearing growing sharp with Suspicion.
+"Rakaal informed me that the council is aware of our actions, is this true?"
+Avador had no visible reaction, but turned to hide his words from the brothers. "I informed them as soon as I knew."
+"Why Master?" There was terseness in Mei-Li's voice that betrayed her calm, respectful, words.
+"What was your plan child? Show up unannounced and pray the council was no your side? You though to escape their ire at your expedition by distracting them with outsiders?"
+"I- I don't know master." So she was stupid, but Bill knew that already. You had to be stupid to stick your neck out for two strangers.
+"
+* Fragments
+** Monastery training
 "Revenge. Injustice. All from one moment. In one moment I went from seeing the world the Citadel laid out to the rotten world that really is. It's fueled me since that day, fueled my Indignation, fueled my Resentment."
 "You are lucky, Billy. Not everyone has something that powerful, that consistent to drive them."
 "You think ANYTHING about that is fucking lucky!? Do you know what fucking happened!?"
 "Calm, Billy. This is not the time for training."
 "What? This is all some exercise to you people?"
-* Nexon Chapter
+** Nexon Chapter
 "You see the thing is about these things, especially ones THIS big, is that they're tougher than us regular Heralds. You can't just walk up to them with a pile of Shell and make their powers go away, and even stabbing them with a Shell spear won't do enough, unless you do it enough times till it looks like a big ol' snake had child with a big ol' porcupine. And that's not really doable, even with all the Time in the world, trust me, I'd know. But the thing about this kid is as a Spacie he's an especially tricky case, cause let's say you're somehow able to get a huge pile of it, he'll sense before it's able to really disable his Heraldry, and he'll just fuck right off. So, we need him to get exposed to a huge amount, without him knowing, until by the time he knows it's too late and his powers are already gone."
 Billy nodded.
 "And you know what all us boys like, men or beast? A good meal. So we stuff some Shell into several crates full of fishies. It'll take him some time to digest it enough and the Shell really to be exposed to his body, giving us enough time to feed him quite a few. And when he's tasted enough, I'll swim down there and give him a good ass-kickin'."
-* Krinosas First Chapter
+** Krinosas First Chapter
 "I FORGIVE YOU!" Billy's hands shook as he tried to concentrate Light in his hands. "I FORGIVE YOU!"
 "Please, PLEASE, LET ME FORGIVE! I LOVE you. So I *must* FORGIVE you! Why is there no Forgiveness in me!?"
 The Light energy glowed in Billy's hands, and then he clutched a piece of driftwood, and it grew red. Indignation. He threw the driftwood in the air. It exploded, chips of wood falling around the beach.

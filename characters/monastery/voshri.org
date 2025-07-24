@@ -3,8 +3,10 @@ CHARACTER NAME
 * Identification
 ** Aliases
 ** Background
+Wreathward
 *** Childhood
-** Appearance	
+** Appearance
+Thin, bronze skin, 
 *** Ethnicity
 *** Build
 *** Face

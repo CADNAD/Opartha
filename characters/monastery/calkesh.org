@@ -28,3 +28,4 @@ CHARACTER NAME
 ** Romantic
 ** Friendships
 ** Enemies
+!"

@@ -4,7 +4,7 @@
 
 * ACT I :apathasaw:metheno:citadel:
 ** Opening Image 
-*** ! Billy doesn't have enough money for Wreathward, but he can make enough in a duel >
+*** ! Billy doesn't have enough money for Wreathward, but he can make enough in a duel
 - [x] Billy complains he doesn't have enough money for the duel and is alcoholic.
 - [x] Damin steals gun for Billy for the duel
 - [x] Billy joins the duel
@@ -57,29 +57,29 @@
 - [ ] Avador witnesses Damin having a nightmare. Damin recognizes Intillia from his nightmare, and Avador interprets this as a prophecy.
 *** - Billy tries to escape with Damin [+]
 - [ ] Billy informs Damin that the Monastery sees their arrangement as permanent and makes him leave by going to hijack a jellyship.
-   - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
+- [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
 - [ ] Billy says "it's me or them", and Damin and him try to board a jellyship.
 ** First Pinch Point
 *** ! Billy and Damin are caught [-] {+}
-- [ ] Billy and Damin are caught by Monastery members. They fight, but are outnumbered and surrender to the Monastery after Damin is disconnected from the jellyship.
+- [ ] Billy and Damin are caught by Allia. They fight, but are outnumbered and surrender to the Monastery after Damin is disconnected from the jellyship. Allia convinces her friends not to tell the council, but they the rumor spreads
 - [ ] Upon this development and the unsuccessful hunt for Intillia's killer, the Monastery Council makes leaving the Tneranatos prohibited, infuriating the minority factions, especially the Revenants, within the Monastery. Allia is furious at Billy and Damin.
-- [ ] Billy is beaten mercilessly during a training exercise by his peers for attempting to escape the Monastery.
-  - [ ] Billy narrowly escapes and tries to stop the same from happening to Damin, but it's too late. However Damin has a huge Tregale freakout, scaring the bullies away. Billy swears revenge on Damin and his' bully.
+- [ ] Billy is harrassed during a training exercise by his peers for attempting to escape the Monastery. Both him and Damin are teamed up_uring exercises.
+- [ ] Billy narrowly escapes and tries to stop the same from happening to Damin, but it's too late. However Damin has a huge Tregale freakout, scaring the bullies away. Billy swears revenge on Damin and his' bully.
 *** - Billy meets the Revenants, Damin meets the Sentinels [+] {+}
 - [ ] Billy is introduced to the Revenants when Calkesh, a radical Mind Herald, defends him against his bully. Calkesh is very anti-Citadel and seeks Intillia's killer [+]
-  - [ ] Some of the Revenants are suspicious of Billy since he tried to leave the Citadel, but Billy quickly understands their motives and charms them into believing he just has the same problem with the Citadel as they do.
+  - [ ] Billy quickly understands the Revenant's motives and charms them into believing he just has the same problem with the Citadel as they do.
 - [ ] Avador and Allia introduce Damin to their faction, the Sentinels, who have the same goals as Intillia had later in life, to reintroduce the Monastery into society as a correct version of the gods. {+}
 *** - Billy tricks Revenants into planning a secret mission to track and kill Okin [+]
 - [ ] After Damin tells him about the Sentinels and Intillia, Billy sneakily gets information from Allia and Voshri about Intillia.
 - [ ] Billy crafts some lies to make Calkesh believe that Okin was Intillia's murderer.
-  - [ ] Billy refuses Calkesh' request to get Damin to join the Revenants, as Billy thinks its too dangerous for him. Still, Calkesh gives Billy a Dark Crystal that Damin can use to contact him if necessary.
+- [ ] Billy refuses Calkesh' request to get Damin to join the Revenants, as Billy thinks its too dangerous for him. Still, Calkesh gives Billy a Dark Crystal that Damin can use to contact him if necessary.
 *** - Damin discovers a map to the Forge {+}
 - [ ] In the Sentinel hideout, Damin's visions, with Avador's help, lead him to Intillia's secret records where finds Intillia's journal which gives him thne location of the forge in krinosas, as well as Tregale's first journal, which gives him new visions.
 - [ ] Billy and Calkesh finalize their plan to infiltrate the Citadel and kill Okin, with the help of many including Calkesh' submissive sister, Voshri, a quiet and kind Elements Herald. Billy is put in charge of the "home team" which includes a Dark Herald and Voshri who will meet up with Calkesh when the mark is found. Calkesh leaves the Monastery. [+]
 * ACT III :leviathiStrait:
 ** Midpoint
 *** ! Billy's rebel scheme is found out and he faces execution. [-] {-}
-- [ ] Billy is ready to leave, but just before he does, he goes to take revenge on his bully by crippling him. [-]
+- [ ] Billy is ready to leave, but just before he does, he goes to take revenge on his bully by crippling  [-]
   - [ ] Billy successfully cripples the bully, but is caught by the bullies' friends. Billy is knocked out in the fight and arrested.
 - [ ] Voshri finds that Billy has been arrested, and tells Damin and Allia. [+]
   - [ ] They figure out how they will break out Billy.
@@ -142,5 +142,4 @@
 - [ ] Billy denies Architor-Revictus' offer for the weapon in exchange for Okin's life.
 - [ ] Architor-Revictus final battle in the Forge Lava pit. A few Dark Children disable him and join the Party.
 ** Closing Image
-*** ! The Party escapes with Dark Children from the Forge
-
+*** ! The Party escapes with Dark Children from the Forge, Billy is excited and determined to help save the world

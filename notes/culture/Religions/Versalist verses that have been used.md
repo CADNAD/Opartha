@@ -11,3 +11,7 @@ Neiman 7 18:4 "Only a fool or a demagogue, will say, before the signs have come,
 Neiman 4 2:8 "/Virtue and Vice cannot be united, neither can Versalist Truth and Wisdom with foreign Deceptions and Foolishness, just as the Four could not be at Peace amongst the Darkness/"
 
 Rentar 1:6 /the Light of Aredal was radiant, none could look upon him and admit him a normal man, or be left unchanged by him/ 
+
+Neiman 1 1:4: He hated no one, not even his enemies!
+
+Votaas 4:6 spirit is more crucial than appearance, as the Darkness can manipulate the appearance

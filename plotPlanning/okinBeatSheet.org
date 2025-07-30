@@ -38,9 +38,11 @@ Additions:
 - [X] Okin tells Previa he is surprised the Synodontis vote has more people voting for Synodontis. Previa tells Okin he suspects this all ties together in the assasination as an attempt to silence Aldwin for speaking out that Synodontis is the antichrist. Okin tells Previa that is crazy and that that conclusion is hasty and he thought it was actually Billy. Previa says that's crazy and that Billy is probably dead.
 - [0] Okin and Previa's argument escalates when Okin tells Previa he is always just mad about Aldwin
 - [X] Impalias Vovaq tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
-- [ ] Okin is surprised that by the second debate everyone has shifted (except him and Henard) to the pro-Synodontis side. (8/10). Okin starts to suspect that some Impalises are corrupt and working together, namely Vovaq and Ricartotten. Henard advises the other Impalises to think about this more carefully.
+- [X] Okin is surprised that by the second debate that Mikeol has shifted to the pro-Synodontis side. (7/10). Okin starts to suspect that some Impalises are corrupt and working together, namely Vovaq and Ricartotten. Henard advises the other Impalises to think about this more carefully.
+*** Okin goes on a date with Liejuett
+- [ ] Liejuett is a a very popular Othar known for her genius scientific mind, beauty, and advancements in Whenran, who was childhood friends with Okin. She visits him and they go on a date in Metheno to help relieve Okin's stress
 *** Okin goes to the opposition meeting and meets Deionis
-- [ ] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
+- [X] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
 - [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together. Deionis and Okin agree that Previa is too unstable and impulsive to be a leader of True Light and they need to work together tbehind the scenes.
 - [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
 *** Okin tells Henard about his concerns
@@ -54,8 +56,8 @@ Additions:
 *** Okin avoids lying and Mikeol is attacked and killed by a Follower of the Return
 - [ ] When leaving the building, Okin and Mikeol are attacked by Followers of the Return who believe that the Citadel has been taken over by the Decievers. The attacker asks Okin if Mikeol is a supporter of Syno. Despite Mikeol's wishes, Okin tells the Truth, and the attacker kills Mikeol.
 - [ ] One of the guards kills the attacker.
-- [ ] Ovolo blames Okin for Mikeol's death.
-*** After Mikeol's death, Okin uses it to convince his replacement and Mathelin
+- [ ] Ovolo blames Okin for Mikeol's death. A lot of the Impaliases distrust Okin now, but some support his supreme dedication to the Virtues
+- [ ] Okin uses it to convince his replacement and Mathelin, bringing it to (6/10)
 * ACT III
 ** Midpoint
 *** ! The Mouth is upset Okin is pushing the vote for Synodontis in the opposite direction and calls for an election in Whenran
@@ -78,16 +80,16 @@ Additions:
 *** Okin fights back
 - [ ] Okin spends time visiting local towns. He profusely denies the allegations about his staff.
 - [ ] Okin talks to Deionis about the campaign. Deionis says that he has to admit the election is rigged against him, and come out in support of True Light, the only base that will support him. He also points out Vovwaq's corruption and says the Impaliases are not to be trusted, they are the Deceivers. Okin is sure Vovwaq might be sinful but still doesn't believe.
-*** Nishellp makes an offer
-- [ ] Othar Nishellp, a very popular Othar known for her genius scientific mind, beauty, and advancements in Whenran, promises that she can move a huge amount of the Istar's in Okin's favor, if he marries her. Okin sees this as against Temperance, and somewhat Corruption, but considers it.
-- [ ] Okin discusses with Deionis what he should do. Deionis tells Okin it is still in Temperance to marry her, and the greater good is what matters here.
-- [ ] Okin agress to marry Nishellp.
-** Second Pinch Point
+- [ ] Liejuett makes an offer to help Okin's campaign with the Istars. Okin talks about marrying her
 *** ! Okin's support for True Light backfires
 - [ ] Okin comes out in support of True Light. Okin says he'll be making deals with Xohl'a to increase Whenran's economy. His popularity rises.
 - [ ] There is a large brawl between True Light and the Followers of the Return at one of Okin's rallies. His popularity plummets.
+*** Okin breaks up with Liejuett
+- [ ] Okin realizes he is lusting after Liejuett and breaks up with her.
+- [ ] Liejuett sees this as a betrayal and tells the public that Okin led her on, told her to help his campaign, asked her to marry him and then told her its over, which is all technically true. Okin's approval rating plummets to near 0
+** Second Pinch Point
 *** Okin and Deionis break into the opponent's house
-- [ ] Deionis claims that the opponent is housing a Dark Herald. It's a long shot and risky but Okin thinks he needs it to win
+- [ ] Desperate, Okin goes to Deionis for help. Deionis claims that the opponent is housing a Dark Herald. It's a long shot and risky but Okin thinks he needs it to win
 - [ ] They break in and find the DH with crystals
 - [ ] Small brawl between Okin and opponent.
 - [ ] Deionis calls authorities to see DH and Crystals
@@ -95,7 +97,7 @@ Additions:
 - [ ] Okin interrogates the DH
 - [ ] Okin oversees execution but feels guilty
 *** Okin wins the election
-- [ ] By a thin margin, Okin wins the election. (Backuh did some anti-meddling)
+- [ ] By a thin margin, Okin wins the election against the unknown opponent. (Backuh did some anti-meddling)
 *** Okin winning the election convinces Volmunst and Levinor
 - [ ] Volmunst says that everything was against Okin, and he knew Okin went through several hurdles and still stood by his Virtues, so he knows the Four are on his side. He changes and it becomes (4/10).
 ** All is Lost
@@ -123,6 +125,7 @@ Additions:
 - [ ] Okin, though a bit suspicious, accepts. Henard takes him to meet Revictus
 - [ ] Revictus looks like Olitheon, but explains he's Revictus but needs to fulfill the prophecy of Olitheon because Olitheon is dead.
 - [ ] Okin is shocked. Revictus explains that Tregale is real and coming and Synodontis needs to be declared as Aredal, and Okin must agree to undo the nay-nay
+- [ ] Revictus offers Okin to be his right hand if he undoes the nay-nay
 - [ ] Okin promises he will, but now he is having a full existential crises about his morals and everything he ever believed
 *** Okin tells Deionis about Revictus
 - [ ] Okin tells Deionis he met Revictus, but Deionis tells him that who he calls Revictus is really the deciever, Deionis himself

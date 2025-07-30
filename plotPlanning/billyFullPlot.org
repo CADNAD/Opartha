@@ -40,9 +40,9 @@
 *** ! Allia eliminates the Rothars and rescue Billy and Damin [+]
 - [x] Allia fights off the Rothars, and then her Space ally teleports them of them out of the Citadel (into the airship).
 *** - Allia takes Billy to the Monastery [-]
-- [ ] Allia takes Billy and Damin to her airship.
-- [ ] Billy questions who Allia's party are and what they are doing. Allia and the party are conflicted to
-- [ ] Billy tries to negotiate to leave, but the party won't let him, and Billy realizes that they are doomed if they don't receive help.
+- [x] Allia takes Billy and Damin to her airship.
+- [x] Billy questions who Allia's party are and what they are doing. Allia and the party are conflicted to
+- [x] Billy tries to negotiate to leave, but the party won't let him, and Billy realizes that they are doomed if they don't receive help.
 *** - Billy and Damin train in the Monastery [+]
 - [ ] Billy and Damin meet the Council. Allia has to justify their rescue, the Council heavily dissaproves of outsiders. Billy respects Allia a bit for defending him. some of the council members even imply killing Damin and Billy, which further raises Billy's suspicion.
 - [ ] Billy is staying in the Monastery but is too suspicious to participate. Damin meets people his age.
@@ -57,7 +57,11 @@
 - [ ] Avador witnesses Damin having a nightmare. Damin recognizes Intillia from his nightmare, and Avador interprets this as a prophecy.
 *** - Billy tries to escape with Damin [+]
 - [ ] Billy informs Damin that the Monastery sees their arrangement as permanent and makes him leave by going to hijack a jellyship.
+<<<<<<< HEAD
 - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
+=======
+ - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
+>>>>>>> refs/remotes/origin/main
 - [ ] Billy says "it's me or them", and Damin and him try to board a jellyship.
 ** First Pinch Point
 *** ! Billy and Damin are caught [-] {+}

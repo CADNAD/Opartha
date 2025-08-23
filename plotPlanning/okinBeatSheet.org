@@ -7,6 +7,8 @@ Concerns:
 
 Additions:
 - Okin just temporarily replaces Aldwin
+- *Okin tells his crew to spy on Vovwaq.*
+- "Double mentor decision motif" w/ Henard, Deionis
 
 * ACT I
 ** Opening Image
@@ -55,13 +57,13 @@ Additions:
 ** First Pinch Point
 *** Okin avoids lying and Mikeol is attacked and killed by a Follower of the Return
 - [ ] When leaving the building, Okin and Mikeol are attacked by Followers of the Return who believe that the Citadel has been taken over by the Decievers. The attacker asks Okin if Mikeol is a supporter of Syno. Despite Mikeol's wishes, Okin tells the Truth, and the attacker kills Mikeol.
-- [ ] One of the guards kills the attacker.
+- [ ] The guards come in. Okin helps to kill the atttacker.
 - [ ] Ovolo blames Okin for Mikeol's death. A lot of the Impaliases distrust Okin now, but some support his supreme dedication to the Virtues
 - [ ] Okin uses it to convince his replacement and Mathelin, bringing it to (6/10)
 * ACT III
 ** Midpoint
 *** ! The Mouth is upset Okin is pushing the vote for Synodontis in the opposite direction and calls for an election in Whenran
-- [ ] In reality, the Mouth was told by Henard
+- [ ] In reality, the Mouth was told by Henard, but Okin thinks it's Vovwaq, who mocks him.
 - [ ] Okin confronts the Mouth, the Mouth justifies that this is the way it was supposed to be as Aldwin is not reported to be recovering.
 - [ ] Okin looks to the other Impaliases, but they say it is the Mouth's decision as leader of the Impaliases. Henard admits it is a bit wrong with this crucial issue, but relents.
 *** Okin starts his campaign
@@ -95,7 +97,8 @@ Additions:
 - [ ] Deionis calls authorities to see DH and Crystals
 *** Okin oversees the Dark Herald and opponent's execution
 - [ ] Okin interrogates the DH
-- [ ] Okin oversees execution but feels guilty
+- [ ] Okin oversees execution but feels guilty (could put this after Okin discovers he's a DH. If so, Deionis should physically stop Okin)
+*** Okin tells Deionis he doesn't want to work with True Light anymore
 *** Okin wins the election
 - [ ] By a thin margin, Okin wins the election against the unknown opponent. (Backuh did some anti-meddling)
 *** Okin winning the election convinces Volmunst and Levinor
@@ -106,16 +109,16 @@ Additions:
 - [ ] Deionis warns Okin that assassins are coming, but Okin doesn't heed his warning
 - [ ] During the attack, everyone is killed. Okin instinctively uses Dark Heraldry to defend himself
 - [ ] Okin is in denial about himself being an Illusion Herald.
-- [ ] Okin is insecure and still in denial about whether he should tell the truth about being an Illusion Herald and gets guidance from Gendro at a Dark Herald execution without getting into details. Gendro stands by his Versalist values.
-  - This time, Okin looks away.
+- [ ] Okin is insecure and still in denial about whether he should tell the truth about being an Illusion Herald and gets guidance from Gendro. Gendro stands by his Versalist values.
 *** Okin gives up
 - [ ] Having given up, Okin attends the council, and agrees to vote for Synodontis. Everyone else gives up in the same meeting (10/10).
 - [ ] Okin finally can't take it and tests his Illusion Heraldry.
-- [ ] Okin is about to kill himself, but Backuh knows something is wrong. They meet. Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative, and that there is all this Corruption in the Citadel. (Maybe Backuh references the line /Darkness will destroy itself/)
+- [ ] Okin is about to kill himself, but Backuh knows something is wrong and has come to meet him. Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative, and that there is all this Corruption in the Citadel. (Maybe Backuh references the line /Darkness will destroy itself/)
 *** Okin meets Synodontis
 - [ ] Since Okin agreed, the Impalias' all travel to see Synodontis. Okin and Deionis discuss that Okin will test Synodontis based on passages in the Onorun.
 - [ ] Synodontis is frustrated by Okin's games and shows anger that Aredal wouldn't.
 - [ ] Okin asks Syno to display his power. It is not the same as the one shown in the Onorun.
+- [ ] Okin is still unsure, until he hears Wosa say something that matches the voice on the other end of his opponent's Dark Herald's line. (could either be played when they were spying-- this would make sense why no one else will believe him)
 * ACT IV
 ** Break Into 4
 *** ! Synodontis is declared Aredal -- until Okin interrupts it

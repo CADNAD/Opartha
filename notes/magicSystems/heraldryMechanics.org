@@ -12,7 +12,7 @@ Light: Multi colour / Multi
 Dark: Black / White
 Time: Orange / Blue
 Elements: Green / Red
-Space: Puple / Yellow
+Space: Purple / Yellow
 
 * The virus
 

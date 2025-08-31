@@ -61,7 +61,6 @@
 - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
 =======
  - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
->>>>>>> refs/remotes/origin/main
 - [ ] Billy says "it's me or them", and Damin and him try to board a jellyship.
 ** First Pinch Point
 *** ! Billy and Damin are caught [-] {+}

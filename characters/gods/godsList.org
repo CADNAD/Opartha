@@ -46,7 +46,7 @@ Ethnicity: Wolstammish
 *** Votaas [X]
 Special:
 Type: Love
-Name:
+Name: Hlith'ei
 Gender: M
 Ethnicity: Colonial
 *** Palno []
@@ -70,7 +70,7 @@ Ethnicity: Kainese
 *** Revictus
 Special:
 Type: Dual Space
-Name: Rosthand Hon Uvrich
+Name: Rosthand Han Uvrich
 Gender: M
 Ethnicity: Nairfalk
 *** Feiza(E)

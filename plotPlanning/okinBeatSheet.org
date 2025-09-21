@@ -83,13 +83,13 @@ Additions:
 - [ ] Okin spends time visiting local towns. He profusely denies the allegations about his staff.
 - [ ] Okin talks to Deionis about the campaign. Deionis says that he has to admit the election is rigged against him, and come out in support of True Light, the only base that will support him. He also points out Vovwaq's corruption and says the Impaliases are not to be trusted, they are the Deceivers. Okin is sure Vovwaq might be sinful but still doesn't believe.
 - [ ] Liejuett makes an offer to help Okin's campaign with the Istars. Okin talks about marrying her
-*** ! Okin's support for True Light backfires
+*** Okin's support for True Light backfires
 - [ ] Okin comes out in support of True Light. Okin says he'll be making deals with Xohl'a to increase Whenran's economy. His popularity rises.
 - [ ] There is a large brawl between True Light and the Followers of the Return at one of Okin's rallies. His popularity plummets.
-*** Okin breaks up with Liejuett
-- [ ] Okin realizes he is lusting after Liejuett and breaks up with her.
-- [ ] Liejuett sees this as a betrayal and tells the public that Okin led her on, told her to help his campaign, asked her to marry him and then told her its over, which is all technically true. Okin's approval rating plummets to near 0
 ** Second Pinch Point
+*** ! Okin breaks up with Liejuett
+- [ ] Liejuett says Okin and her should get married and he should drop out of the race. Okin realizes he is lusting after Liejuett, and she is a tempation for him to stop following his mission. and breaks up with her.
+- [ ] Liejuett sees this as a betrayal and tells the public that Okin led her on, told her to help his campaign, asked her to marry him and then told her its over, which is all technically true. Okin's approval rating plummets to near 0
 *** Okin and Deionis break into the opponent's house
 - [ ] Desperate, Okin goes to Deionis for help. Deionis claims that the opponent is housing a Dark Herald. It's a long shot and risky but Okin thinks he needs it to win
 - [ ] They break in and find the DH with crystals
@@ -111,8 +111,8 @@ Additions:
 - [ ] Okin is in denial about himself being an Illusion Herald.
 - [ ] Okin is insecure and still in denial about whether he should tell the truth about being an Illusion Herald and gets guidance from Gendro. Gendro stands by his Versalist values.
 *** Okin gives up
+- [ ] Okin finally can't take it and tests his Illusion Heraldry. It works and he is suicidal.
 - [ ] Having given up, Okin attends the council, and agrees to vote for Synodontis. Everyone else gives up in the same meeting (10/10).
-- [ ] Okin finally can't take it and tests his Illusion Heraldry.
 - [ ] Okin is about to kill himself, but Backuh knows something is wrong and has come to meet him. Backuh presents Okin with someone who has testimonies of Synodontis' non-godliness (who knows him from Marthia.) Okin is somewhat convinced by Backuh's "greater truth" narrative, and that there is all this Corruption in the Citadel. (Maybe Backuh references the line /Darkness will destroy itself/)
 *** Okin meets Synodontis
 - [ ] Since Okin agreed, the Impalias' all travel to see Synodontis. Okin and Deionis discuss that Okin will test Synodontis based on passages in the Onorun.

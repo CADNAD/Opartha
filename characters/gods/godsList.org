@@ -121,7 +121,7 @@ Ethnicity: Terillié
 *** Deionis(D) [A]
 Type:
 Special:
-Name:
+Name: Backuh (Gofoth)
 Gender: 
 Ethnicity: Delmian
 *** Meanthos(T) [A]
@@ -140,7 +140,7 @@ Special:
 Name:
 Gender: M
 Ethnicity: Colonial
-*** Parsalinah () [ ]
+*** Parsalinah (E) [A]
 Type:
 Special:
 Name: Parsalinah

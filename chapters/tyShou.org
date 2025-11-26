@@ -30,10 +30,7 @@ He stood near the centre of a vast circular chamber. Pillars of painted red wood
 Ty-Shou held a similar wooden ball in his hand. Half his ball was plain wood, the other intricately carved and painted. He knew the ball was meant to represent the life journey of the person who's memory he inhabited, but Ty-Shou was unable to properly interpret the precise, dense writing and images on it.
 The ranks of the crowd inched forward, and Ty-Shou found himself at the head of the crowd before long. Near the base of the triangle, a monk in grey robes stood with his hand out for Ty-Shou. Ty-Shou watched his hand move and place the ball in the monk's palm. The monk placed it at the bottom of the triangle, in last place. Once the ball was in place, another monk--- in the same gray robes ---handed Ty-Shou a circular tag with a number on it. Ty-Shou knew it was a very large number, the same number as the amount of balls now in the pyramid. Ty-Shou placed the tag around his neck, like everyone else in the chamber had. That same monk called out his name with his number, and the crowd yelled it back in a chant. Suddenly, Ty-Shou felt the edges of his consciousness blurring as the memory skipped forward.
 
-The memory rematerialized as Ty-Shou found himself in the middle of a battle. He was shoulder to shoulder with other men, all holding spears. Mere feet away, the enemy formation of spears thrust forward. All the men he could see wore simple leather armour. This memory was old, at least 400 years old.
-:style:
-Not sure if I like that he knows this specific
-:END:
+The memory rematerialized as Ty-Shou found himself in the middle of a battle. He was shoulder to shoulder with other men, all holding spears. Mere feet away, the enemy formation of spears thrust forward. All the men he could see wore simple leather armour. This memory was old, at least four-hundred years old, according to Wosa.
 
 A spear tip grazed Ty-Shou's cheek, and he felt searing pain shoot through his body. An equally intense freezing fear set into his bones. Ty-Shou couldn't tell if the fear was his own, or from the memory. Before he could decide, he felt himself jolt forward in a lunge. His spear tip danced past an enemy spear and found purchase in their neck. Shoulders pressed up against Ty-Shou as his formation took a step forward. The man next to him dropped as the enemy thrust forward. Ty-Shou's spear frantically worked to parry incoming attacks, but the enemy formation pressed forward endlessly. Pained moans from his allies filled the air. Men from the back ranks of the formation moved to fill the gaps as the injured were dragged to the back. A whistle blew and Ty-Shou was pulled back as a new front rank swapped in. He felt exhausted, more than he ever had in his short life. His body sagged with the effort, and leaning on his spear was all that kept Ty-Shou from slumping.
 The yelling from the formation's head grew louder and nearer. His grasp on Vareeshi was weak, but he was sure the yelling was in a dialect he hadn't been taught. Around him men snapped to attention. Ty-Shou's grip on his spear tightened. A sudden wave of motion knocked him on the ground as a group of the enemy burst through the ranks.
@@ -48,39 +45,25 @@ For the third time in the fight Ty-Shou felt himself thrown onto the ground, thi
 
 Ty-Shou was panting and covered in cold sweats when he came out of the memory. The servants had uncovered the Light Crystals at some point.
 "Do you understand now?" Wo-Sa asked.
-Ty-Shou felt sluggish coming out of the memory and could barely move his head to nod. "That was... What was that feeling? I- I've never felt it before."
-"Fear," Wo-Sa said solemnly.
-:comment:
-it feels like we can expand this moment a bit.
-:END:
+Ty-Shou felt sluggish coming out of the memory and could barely move his head to nod, but his body was still shivering. "That was... what was that feeling? I-I've never felt anyuthing like ."
+"Fear," Wo-Sa said solemnly. "It is one of the most common, and important emotions. It has been a failing of mine that I did not get you to experience it sooner."
+"Why-- how could that be so common? So important?" Ty-Shou looked up to his advisor with wide eyes. He remembered that Wo-Sa had told him of horrible wars, and that the world was far more chaotic beyond the palace walls, but what possible reason could there be for people to feel like /this/, and for it to be /right?/
+
 "I'm glad you understand that now."
 Ty-Shou knew his heart wasn't racing, but he could still hear the drumming of a heartbeat in his ears. The lingering effects of the memory but have been evident, as Wo-Sa knelt down to meet Ty-Shou's seated eye level.
-"You are the most powerful Herald to have ever lived. Those Heralds in the vision have barely a fraction of your power, my Synodontis." Wo-Sa reached out to grab Ty-Shou's hand. "I've tried to instill in you how powerful you are, how much capacity for good you have. I hadn't intended for this lesson to reinforce that. Perhaps now you understand both how brutal the Vareeshi are, and how much power you hold."
-:comment:
-he hadn't intended for this lesson to reinforce that? or he had?
-:END:
-Ty-Shou didn't reply, only nodded.
-"Come, it's time to leave for Cong Lang. We must ensure we make all our appearances at the festivities before King Making begin in earnest. You would not want to experience the real memory now, would you?"
-Ty-Shou rose from the chair with a shake of his head. "Of course not."
-:comment:
-I think I know what he is saying but it is a bit confusing and not the most smoothly phrased.  (You wouldn't want to experience death for real like in the memory, right?) i feel like this transition can be a bit less abrupt, and maybe Ty-Shou can have more questions about the King Making and Vareeshi.
-:END:
+"You are the most powerful Herald to have ever lived. Those Heralds in the vision have barely a fraction of your power, my Synodontis." Wo-Sa reached out to grab Ty-Shou's hand. "I've tried to instill in you how powerful you are, how much capacity for good you have. Perhaps now you understand both how brutal the Vareeshi are, and how much power you hold-- to prevent others from having the same fate-- the same /fear/-- as the man in that vision."
+Ty-Shou didn't reply, only nodded. If this really was how the world was, Wo-Sa was right-- he did have a duty.
+"Come, it's time to leave for Cong Lang. We must ensure we make all our appearances at the festivities before King Making begin in earnest."
+Ty-Shou rose from the chair with a nod. "Of course."
 
 
-The streets of Bei-San was overcrowded for his procession out of the city. Ty-Shou rode in a two-tiered carriage, pulled by six horses. The carriage had been originally commissioned by the Stewards of Bei-San, the noble family appointed to lead the councils of nobles and govern Bei-San in Ty-Shou's stead. The carriage was a reflection of the prestige and history of the city: it was made of black lacquered wood, with a polished gold trim along it's edges, and the panels were engraved with art depicting the most famous of Ty-Shou's feats. The door panel had his favourite engraving; it pictured him standing against a dragon coiling around the world.
-:suggestion:
-I really like this. This is also a spot you can show some of Ty-Shou's backstory and legend more naturally and maybe even eliminate the intro. A possible flow could be, "it showed Ty-Shou's feats, some past: him fighting off six other figures, some present: him coming down from the sky in a ball of Light", and some future; "Him standing against a dragon coiling around the world."
-:END:
+The streets of Bei-San were overcrowded for his procession out of the city. Ty-Shou rode in a two-tiered carriage, pulled by six horses. The carriage had been originally commissioned by the Stewards of Bei-San, the noble family appointed to lead the councils of nobles and govern Bei-San in Ty-Shou's stead. The carriage was a reflection of the prestige and history of the city: it was made of black lacquered wood, with a polished gold trim along it's edges, and the panels were engraved with art depicting the most famous of Ty-Shou's feats. The door panel had his favourite engraving; it pictured him standing against a dragon coiling around the world.
 The bottom tier was designed as a regular carriage for long distance travel. It had padded seats, which could be made out into a full bed by his servants. Light curtains gave privacy, but allowed in a light breeze while on the move. The top level was a viewing platform. A waist hair railing ran around it's edge, allowing Ty-Shou to stand and wave out at the Bei-Sanian citizens as his carriage wound its way out from the palace at the city's heart.
-Wo-Sa had held back no level of splendor for the parade. The trip to Cong Lang had a stripped-down escort, despite that every one of his mounted Royal Guards had on perfect dress uniforms. A long stark white tunic which flowed down to below the knees, cut in the middle to allow for comfortable riding. A golden belt secured at their waist gave the top of the uniform a sharp triangular silhouette, and the tunic was trimmed in the same shade of gold. The symbol of Bei-San was embroidered in the centre of the chest: a blazing sixteen-pointed sun held in the palm of Ty-Shou's hand.
-:question:
-is it like, you see him? or is it like a sun in the palm of a hand?
-:END:
-Their tall black hats provided minimal shade, with a thin rim.
+Wo-Sa had held back no level of splendor for the parade. The trip to Cong Lang had a stripped-down escort, despite that every one of his mounted Royal Guards had on perfect dress uniforms. A long stark white tunic which flowed down to below the knees, cut in the middle to allow for comfortable riding. A golden belt secured at their waist gave the top of the uniform a sharp triangular silhouette, and the tunic was trimmed in the same shade of gold. Their tall black hats provided minimal shade, with a thin rim. The symbol of Bei-San was embroidered in the centre of the chest: a blazing sixteen-pointed sun held in the palm of Ty-Shou's hand. 
 The Imperial Guard were selected for their size and strength. No man was shorter than Ty-Shou; all were at least twelve hands tall. Each wore two weapons. A long sword for unmounted combat, and a curved cavalry blade.
 At their head was Ji-Xing. The head of Ty-Shou's guard, and Field Marshall, wore a white hat to match his white uniform. At forty-five man was past his physical prime, but could easily beat five of the other Royal Guard at once. fhis face was nearly a perfect square with a jawline that could cut glass. A scar across his eye gained during his youth only added to the his fierce appearance.
 As they passed alleys, Ty-Shou could see people lining up thirty, even fifty ranks deep to try and get a glimpse of their god. From the window of passing houses, and from the nearest ranks on the street, Ty-Shou could hear Bei-Sanians yelling for blessings. Some even prostrated themselves on the pavement in attempt to garner his favour. A yell to bless a sickly relative. A cry to aid a son on an examination. They were all cries Ty-Shou had heard before, and all aid Ty-Shou had no power to grant.
-His powers allowed him to heal some of the sick and wounded, but only if he was in the correct mental state. But he couldn't bless people with better fortune, or perform any true miracles. He was a Herald, but they called him more. They called him God.
+His powers allowed him to heal some of the sick and wounded, but only if he was in the correct mental state. But he couldn't bless people with better fortune, or perform any true miracles. He was a powerful Herald, and some really believed that one day he would bless them all with great fortune, and perform great and holy miracles. And so, they didn't just call him a great Herald, or even 'king', or 'majesty.' They called him God.
 ** Chapter 2
 Cong Lang was the crowning jewel of the Central Marthian cities.
 ** Chapter 3

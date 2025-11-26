@@ -12,30 +12,35 @@ Special: All Light, Compassion Ability
 Name: Ty-Shou Xing
 Gender: M
 Ethnicity: Bei-San/Beisanian
+Age: 45
 *** Tregalei [ ]
 Type: Tri Dark
 Special: Self-Evolution !
 Name: Trevari Galé
 Gender: M
 Ethnicity: Terillié/Terilli
+Age: 25
 *** Olitheon [X]
 Type: Dual Space
 Special: Move Living Things
 Name: Filip ere Ducére
 Gender: M
 Ethnicity: Monasquen/Monaskan
+Age: 27
 *** Nexon [A]
 Type: Dual Time
 Special: Melded Dual, Going into other timelines
 Name: Samson ere Ducére
 Gender: M
 Ethnicity: Monasquen/Monaskan
+Age: 27
 *** Intillia [X]
 Type: Tri-elemental
 Special: Atomic Manipulation
 Name: Misun Ito
 Gender: F
 Ethnicity: Feixiangian
+Age: 39
 * Aredal Aligned
 *** Geatro [A]
 Special: When he's reading, time goes even slower
@@ -43,12 +48,14 @@ Type: Time Subject
 Name: Ivopp Kosh
 Gender: M
 Ethnicity: Wolstammish
+Age: 65
 *** Votaas [X]
 Special:
 Type: Love
 Name: Hlith'ei
 Gender: M
 Ethnicity: Colonial
+Age: 
 *** Palno []
 Special:
 Type: Depression
@@ -73,6 +80,7 @@ Type: Dual Space
 Name: Rosthand Han Uvrich
 Gender: M
 Ethnicity: Nairfalk
+Age: 22
 *** Feiza(E)
 Type: Gas
 Special:
@@ -97,6 +105,7 @@ Special: Recreate anything through visualization
 Name: Azhir Arsunni
 Gender: M
 Ethnicity: Farsunni
+Age: 50
 *** Mezenius
 Type:
 Special: Time Object
@@ -109,43 +118,47 @@ Special:
 Name:
 Gender: M
 Ethnicity: Whenran
-***
 * Tregale Aligned
 ** Tregale Five
 *** Neiman(S) [A]
 Type:
 Special:
-Name:
+Name: Arelie
 Gender: 
 Ethnicity: Terillié
+Age: 24
 *** Deionis(D) [A]
 Type:
 Special:
 Name: Backuh (Gofoth)
 Gender: 
 Ethnicity: Delmian
+Age: 32
 *** Meanthos(T) [A]
 Type: Object
 Special:
-Name:
+Name: Darzhir
 Gender: 
 Ethnicity: Jaraladi
-
+Age: 36
 The Meanthos in the story is not Meanthos prime. Meanthos prime died during a mission with the current Meanthos allowing him to take over the timeline.
 
-There is a council of Meanthos which Meanthos from all timeliness collaborating and assigning missions.
+There is a council of Meanthos which Meanthos from all timeliness collaborating and
+assigning missions.
 *** Commegor (L) [A]
 Type: Light
 Special:
 Name:
 Gender: M
-Ethnicity: Colonial
+Ethnicity: Nairfalkish
+Age: 37
 *** Parsalinah (E) [A]
 Type:
 Special:
-Name: Parsalinah
+Name: Lilanth
 Gender: 
-Ethnicity: Trentanian
+Ethnicity: Colonial
+Age: 61
 *** Oktalus () [ ]
 Type: Dual Space
 Special:

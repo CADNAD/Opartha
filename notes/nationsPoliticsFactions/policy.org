@@ -1,0 +1,6 @@
+* Versalist Realm
+** Geographical Organizational Units
+- 'realm' (whole thing)
+-  'province' (every district, about 20 districts)
+- 'district' (4-5 towns and surrounding region)
+- 'town'

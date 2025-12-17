@@ -1,5 +1,0 @@
-Time Heralds accumulate Zeltics by the natural passing of them spending time at the fixed pace in the central timeline. There is a fixed rate at which one accumulates Zeltics, though Control Heralds can also adjust their perception of Time in a positive direction and accumulate Zeltics more quickly, though it is overall less efficient (Zeltics/sec), then accumulating naturally due to the initial Zeltic cost of changing Time Perception. 
-
-Subject heralds can experience time at a different rate than the main timeline.
-
-Object heralds have two types. They can make an object experience the next X amount of time in a single moment, condensing the most likely forces that object experiences into one large force. The second freezes and object in place. Actions done to this object will have no visual effects, but will effect the outcome. After a X  amount of time the object will "teleport" to the state it would have been after X amount of time, taking into account all the things that have happened to it during its feezing and most probable outcomes. 

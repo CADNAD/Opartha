@@ -1,5 +1,5 @@
-Previa
-
+Okin
+28
 * Identification
 ** Aliases
 ** Background
@@ -10,8 +10,6 @@ Previa
 *** Face
 ** Social Status
 *** Class/Allegiances
-Dedication: Aredal
-Virtues: Bravery 
 *** Wealth
 *** Clothing
 * Character

@@ -2,7 +2,9 @@
 
 *Aredal 1 1:45: To oppose Truth is not just to speak outright lies. Witholding information for the sake of one’s status or reputation, twisting the tongue to use the words of Truth but the essence of Deception, blocking the eyes, ears or mind from Knowledge which reveals Truth, this is all Deception.* 
 
-/Aredal 1 8:2: Truth is not just telling no lies when asked-- it is a duty to use one's voice to spread it as far as possible./
+Aredal 1 8:2: Truth is not just telling no lies when asked-- it is a duty to use one's voice to spread it as far as possible./
+
+Aredal 1 4:8: Be upfront both about what you know and what you do not know.
 
 Aredal 2 4:14 My Compassion will hear all those who hear me. 
 

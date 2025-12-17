@@ -8,7 +8,7 @@
   of the last beat of the act are duplicated as the first beat of
   the next act to show continuity.
 * Themes and Central Characters
-Ty-shou's main power comes from his genuine love for humanity. Wosa tries to force it but it doesn't work because it is not d genuine love. Aredal's version of the power was to amplify the aspects of a person, but Ty-Shou has a twisted version based on his own ego and self image that makes everyone a reflection of himself and super soldiers.
+Ty-Shou is supposed to be the idealized version of Aredal, the idealized version of the Synodontis, and/or a Vareeshi warlord. He is really an agreeable child who knows he has a lot to learn, and also likes the approval he gets from embodying these heroic roles, so he does this at first. 
 
 Ty-Shou's struggle with divinity and leadership. Who's god/prophet should he be and which people should he lead
 He arcs from very-in group to everybody in the world. The Bei-sanians are very dutiful, honorable, beneveolent and respectful even towards him. In the end of this book, he wants to deconstruct the Synodontis god status and make everyone more egalitarian, and also respect and defend all peoples. However the brutal tactics of the Vareeshi highlight and challenge the in-group vs out-group and tribalism tension in this arc.
@@ -17,7 +17,13 @@ Anut is obsessed with the in-group vs out-group, like the rest of the Vareeshi, 
 
 Anut is about the small, current, temporal in group. Who is under his command /now/ is the only people he should be loyal too. He will do anything to fight for this in group, but kill anyone mercilessly who is not in it, no matter how long they were in it before.
 
-
+Therefore Ty-Shou is always encouraged by his own nature and the others in this story to always choose to embody some role or person he should be, which implies also choosing an in-group to protect. In the end he makes the claim that HE is all these people, and he wants to protect everyone and choose everyone as the in group, and thus rises above these roles and chooses himself.
+* Additions
+- Ty-Shou asks about the other Gods and Versalism to Wosa after visiting the Citadel. 
+- To make the Vareeshi prophecy about final pyramid less of a religion prophecy and more of just an idea, less spiritual
+- Ty-Shou sees okin get shocked and leave after realizing wosa is a dark herald, figures out Wosa is a dark herald, kicks out wosa, wosa comes back after he has declared war on citadel and wipes his mind ending the book.
+- Ty-Shou aided on by Kitsai gets hyped about being a vareeshi
+- Ty-Shou takes wosa's word that he is the reincarnation, then thinks he is the antichrist because okin said so, then he thinks he is a normal person and wosa is manipulating him. 
 
 [0] = finished
 [X] = done
@@ -183,7 +189,6 @@ Anut is about the small, current, temporal in group. Who is under his command /n
 - [] A large portal breaks into the main city, surpassing Beisan's natural defenses
 - [] Ty-Shou's ninth has tracked
 - [] Ty-Shou's ninth assaults Xirin's 3rd, who kills Ty-Shou's ninth
-- []
 - [] The tribes and Ty-Shou himself turn the tide and threaten Xirin's 3rd. Ty-Shou fights Xirin's 3rd, injuring him.
 *** Ch 12 Ty-Shou's army pursues Xirin's
 - [] Ty-Shou has to watch as one of every nine in his pyramid has to leave the city and join the Xirin army
@@ -237,9 +242,7 @@ Anut is about the small, current, temporal in group. Who is under his command /n
 *** Consider: Anut takes Deionis' ally offer and enters in a war with Delmia, but leaving any enemies of Cong Lang to become enemies of
 * ACT IV
 ** Break into Four
-
 ** Final Confrontation
-
 ** Closing Image
 *** Mindwipe
 * Characters

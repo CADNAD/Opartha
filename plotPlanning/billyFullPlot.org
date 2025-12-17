@@ -57,9 +57,7 @@
 - [ ] Avador witnesses Damin having a nightmare. Damin recognizes Intillia from his nightmare, and Avador interprets this as a prophecy.
 *** - Billy tries to escape with Damin [+]
 - [ ] Billy informs Damin that the Monastery sees their arrangement as permanent and makes him leave by going to hijack a jellyship.
-<<<<<<< HEAD
 - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
-=======
  - [ ] Damin pauses mid-escape, he thinks their life now is better than it was before, and he believes Avador about his dreams being important and that this is what they were leading to.
 - [ ] Billy says "it's me or them", and Damin and him try to board a jellyship.
 ** First Pinch Point
@@ -135,7 +133,8 @@
 *** - Billy bonds with the Dark Children and Architor, Damin asks for the Dark Weapon [+]
 - [ ] The Dark Children help to further patch up Damin.
 - [ ] Damin ask Architor about the weapon. Architor considers but denies.
-*** - Revictus' assistant notifies Architor that Revictus is trapped.
+*** - Revictus' calls Architor using a Dark Crystal [+]
+- [ ] Architor projects Revictus surroundings using Dark Crystal tech and then Billy sees Okin in the background, which makes him want to go in. Arhitor agrees and they go in. [+]
 - [ ] Architor and the Children use the weapon to open a portal into Deionis' mind, a Child is given the weapon. The party joins.
 - [ ] Billy sees Okin, and tries to kill him, which pulls out more Deionis personalities. [+]
 - [ ] The Children and the party have to fight off the Deionis personalities, until the other group of children can get to Okin and Revictus' body, and defend Okin from Billy.

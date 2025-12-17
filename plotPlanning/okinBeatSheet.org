@@ -1,3 +1,4 @@
+* Edting
 add Okin visit to synodontis
 
 Concerns:
@@ -6,10 +7,28 @@ Concerns:
   - Backuh uses more mental influence powers
 
 Additions:
+- The versalist world should have bigger reactions to Aredal's return as Synodontis, such as:
+  - people killing themselves because they think he will judge them
+  - people becoming new religious authorities
+  - destroying things
+  - new affairs of worship based on those in books about the return
+  - Tregale paranoia and ramping up of Dark Herald accusations
 - Okin just temporarily replaces Aldwin
 - *Okin tells his crew to spy on Vovwaq.*
 - "Double mentor decision motif" w/ Henard, Deionis
 
+More scenes with Previa and Okin, Liejuett and Okin
+
+Revictus.Gods mystery:
+- Aldwin leaves behind notes about cult and corruption
+  - suspects dark herald network
+  - knows Vovwaq Corruption
+  - Okin investigates Olitheon appearance mystery, old subartifacts?    
+- Vovwaq Corruption
+- olitheon and nexon look different now,
+  - statues that look the same but shouldnt
+  - old olithoen painting binds with blood after Mikeol's death but shouldnt
+  - believes that maybe synodontis has also replaced Aredal artwork with his own appearance in an attempt to deceive
 * ACT I
 ** Opening Image
 *** ! Okin will not lie, even to help his men on the Farsunni front.
@@ -42,15 +61,15 @@ Additions:
 - [X] Impalias Vovaq tries to subtly buy off Okin to pass the vote, Okin is astonished by this. He brings it to the Mouth of the Gods, who gives Okin an empty promise that he will do something.
 - [X] Okin is surprised that by the second debate that Mikeol has shifted to the pro-Synodontis side. (7/10). Okin starts to suspect that some Impalises are corrupt and working together, namely Vovaq and Ricartotten. Henard advises the other Impalises to think about this more carefully.
 *** Okin goes on a date with Liejuett
-- [ ] Liejuett is a a very popular Othar known for her genius scientific mind, beauty, and advancements in Whenran, who was childhood friends with Okin. She visits him and they go on a date in Metheno to help relieve Okin's stress
+- [X] Liejuett is a a very popular Othar known for her genius scientific mind, beauty, and advancements in Whenran, who was childhood friends with Okin. She visits him and they go on a date in Metheno to help relieve Okin's stress
 *** Okin goes to the opposition meeting and meets Deionis
 - [X] Previa prompts Okin to say that the other Impalias' are corrupt. Okin doesn't have the balls to speak about that and tries to pass the spotlight.
-- [ ] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together. Deionis and Okin agree that Previa is too unstable and impulsive to be a leader of True Light and they need to work together tbehind the scenes.
+- [X] Deionis introduces himself to Okin after Okin's failure and gives him a confidence boost and tells him they should pray together. Deionis and Okin agree that Previa is too unstable and impulsive to be a leader of True Light and they need to work together tbehind the scenes.
 - [ ] The guards have found the escaped Dark Herald. Okin, to surpress his feelings over it, personally oversees his execution.
 *** Okin tells Henard about his concerns
-- [ ] Okin asks Henard to join him after the meeting
-- [ ] Okin tells Henard about what Vovwaq did, and in an extreme case he's worried this is part of the 'deciever's prophecy
-- [ ] Henard is surprised but says he'll look into it, but says to Okin that there is no way that Vovwaq is part of the deciever's prophecy, and it was probably just normal Vice.
+- [X] Okin asks Henard to join him after the meeting
+- [X] Okin tells Henard about what Vovwaq did, and in an extreme case he's worried this is part of the 'deciever's prophecy
+- [X] Henard is surprised but says he'll look into it, but says to Okin that there is no way that Vovwaq is part of the deciever's prophecy, and it was probably just normal Vice.
 - [ ] Henard tells Okin that even though they see eye to eye it is unwise to join the True Lights, as dogmatism about anything beside the Onorun, and division in the Citadel is unwise
 - [ ] Okin tells Henard that especially after the Vovwaq thing he is firm that Syno is wrong, and he won't stand down, and even if the True Lights might be too divisive he is on their side and will support them.
 - [ ] Henard tells Okin that from his Olitheon mentor he learned that Truth and Curiosity go together, and that being that stubborn he might not be open to the Truth. Okin questions himself more.
@@ -65,7 +84,7 @@ Additions:
 *** ! The Mouth is upset Okin is pushing the vote for Synodontis in the opposite direction and calls for an election in Whenran
 - [ ] In reality, the Mouth was told by Henard, but Okin thinks it's Vovwaq, who mocks him.
 - [ ] Okin confronts the Mouth, the Mouth justifies that this is the way it was supposed to be as Aldwin is not reported to be recovering.
-- [ ] Okin looks to the other Impaliases, but they say it is the Mouth's decision as leader of the Impaliases. Henard admits it is a bit wrong with this crucial issue, but relents.
+- [ ] Okin looks to the other Impaliases, but they say it is the Mouth's decision as leader of the Impaliases. Henard admits it is a bit wrong with this crucial issue, but relents. 
 *** Okin starts his campaign
 - [ ] Okin does a campaign with Previa and the True Lights to vote for him.
 - [ ] Deionis talks to Okin about rumors that many Impalias elections have been rigged and is afraid this one will be rigged against him. Even thogh Okin suspects Vovaq and Ricartotten, he doesn't believe the corruption goes that deep.
@@ -86,10 +105,12 @@ Additions:
 *** Okin's support for True Light backfires
 - [ ] Okin comes out in support of True Light. Okin says he'll be making deals with Xohl'a to increase Whenran's economy. His popularity rises.
 - [ ] There is a large brawl between True Light and the Followers of the Return at one of Okin's rallies. His popularity plummets.
+*** Previa tells Okin he thinks the Citadel is a lie
 ** Second Pinch Point
 *** ! Okin breaks up with Liejuett
-- [ ] Liejuett says Okin and her should get married and he should drop out of the race. Okin realizes he is lusting after Liejuett, and she is a tempation for him to stop following his mission. and breaks up with her.
-- [ ] Liejuett sees this as a betrayal and tells the public that Okin led her on, told her to help his campaign, asked her to marry him and then told her its over, which is all technically true. Okin's approval rating plummets to near 0
+- [ ] Okin denies Liejuett's offer to drop her position and marry him, because the Onorun says that one (maybe specifically the God Liejuett follows) shouldn't give up their spiritual mission for love.
+- [ ] This is found out by the opponent's campaign and it is twisted against Okin (he should not have begun this relationship in the first place, he led her on. He loses all his support among the Istars and broader population. And he used her to get votes and support his campaign. Okin has to admit that technically the facts true. Maybe Liejuett actually defends him but the damage is already done.
+- [ ] Throughout the election part of Okin wants to lose so he can be with Liejuett.
 *** Okin and Deionis break into the opponent's house
 - [ ] Desperate, Okin goes to Deionis for help. Deionis claims that the opponent is housing a Dark Herald. It's a long shot and risky but Okin thinks he needs it to win
 - [ ] They break in and find the DH with crystals
@@ -101,6 +122,7 @@ Additions:
 *** Okin tells Deionis he doesn't want to work with True Light anymore
 *** Okin wins the election
 - [ ] By a thin margin, Okin wins the election against the unknown opponent. (Backuh did some anti-meddling)
+- [ ] Liejuett congratulates Okin. Okin 'regrets' with Liejuett that he won the election.
 *** Okin winning the election convinces Volmunst and Levinor
 - [ ] Volmunst says that everything was against Okin, and he knew Okin went through several hurdles and still stood by his Virtues, so he knows the Four are on his side. He changes and it becomes (4/10).
 ** All is Lost

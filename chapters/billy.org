@@ -874,23 +874,25 @@ But none arose. Perhaps it was just because of all this nonsense, or more likely
 He knew why the catharsis owed to him of seeing his father again was unpaid, because his father wasn't given a grave, and thus, he never really saw him again. But where the sense of justice for killing Aldwin, the man who ruthlessly executed his best friend and tried to burn that man's son alive, should have been, there was just void.
 Billy turned over in his bed. Yes, it was because his conscience was serious, it would not be satisfied with just one half of the job done. He gathered up all his rage, his strength, his Resentment, and focused on Okin. The greatest betrayal of all, from his childhood best friend. A man who needed to die.
 * Chapter VII
-Billy stared out the porthole of the room that had been granted to him and Damin. Below them he could see only the endless blue expanse of the ocean. He guessed this was the Dehden Ocean, to the West of Wreathward. He'd glimpsed a desert on the horizon last night that could have been Farsun.
+Billy stared out the porthole of the room that had been granted to him and Damin. Below them he could see only the endless blue expanse of the ocean. He guessed this was the Dehden Ocean, to the West of Wreathward. He'd glimpsed the deserts of Wreathward Minor through the thin cloud cover the previous night.
 They'd been on the boat for just over a day now, and despite his best efforts Billy hadn't been able to get any sleep. It had been a struggle to keep Damin in the room, all the boy wanted to do was explore and interact with the strangers. He'd bought in fully to their propaganda, to their noble lie of purpose. Billy admitted it was a good lie, one a part of himself wanted to believe. But he wasn't as naive as his younger brother.
 A knock came at the door and a feminine voice spoke, "I brought food."
 It was Voshri, the younger of the two woman on the boat. She had delivered the food late last night when Billy had refused to go to the mess for dinner.
 Damin sat up in his bed looking to Billy, searching for permission to speak. Billy reached down to unbuckle his holster, the cool metal seeping into his fingers as he wrapped them around the six-shooter's handle.
 "Come in," Damin yelled.
-Voshri was a short woman, more than a head shorter than even Damin. She had mahogany skin, with a cool silver undertone, and black curly hair tied back in high tail. She placed two bowls of stew on the table and a cloth wrapped portion of bread. "We'll be arriving soon. You should come up on deck, the view will be /amazing/. I promise!"
-"Sure, sure," Billy waved her out of the room as he sat at the table. How could anyone be so chipper and energetic? He was reminded of the performers at the circus-- always putting on bright faces to the crowd, then rubbing off the so-called joy with their makeup in the backrooms. /Why even go through the exercise?/ he always thought.
-Once door was shut Damin spoke, "can we please go out? I'm sick of being stuck in here."
-"I thought you'd be use to staying inside, it ain't like you went out all the time in Apathasaw." Billy tore off a chunk of bread and proffered it to Damin as the boy took a seat at the table.
-"But we're flying Billy," Damin's eyes lit up as he spoke. "Think of all the things we could have saw that we missed. Did you ever think we'd fly? There was no way we'd have been able to afford an airship, no matter how many cheap duels you won. I know you wish we could fly, don't you remember when we use to go work on the docks? We'd sit out there watching the airships coming in, imagining what kind of adventures we could go on if we had a ticket on one of those."
+Voshri was a short girl, nearly a head shorter than even Damin. She had mahogany skin, with a cool silver undertone, and black curly hair tied back in high tail. She placed two bowls of stew on the table and a cloth wrapped portion of bread. "We'll be arriving soon. You should come up on deck, the view will be /amazing/. I promise!"
+"Sure, sure," Billy waved her out of the room as he sat at the table. How could anyone be so chipper and energetic? He was reminded of the performers at the circus-- always putting on bright faces for the crowd, then rubbing off the so-called joy with their makeup in the backrooms. /Why even go through the exercise?/ he always thought.
+Once the door was shut Damin spoke, "can we please go out? I'm sick of being stuck in here."
+# Change Apathasaw location to the town they were from 
+"I thought you'd be used to staying inside, it ain't like you went out all the time in Apathasaw." Billy tore off a chunk of bread and proffered it to Damin as the boy took a seat at the table.
+"But we're flying Billy," Damin's eyes lit up as he spoke. "Think of all the things we could have seen that we missed. Did you ever think we'd fly? There was no way we'd have been able to afford an airship, no matter how many cheap duels you won. I know you wish we could fly, don't you remember when we use to go work on the docks? We'd sit out there watching the airships coming in, imagining what kind of adventures we could go on if we had a ticket on one of those."
 Those had been Damin's fantasies, Billy never had the luxury of entertaining those ideas.
 "Okay, fine, we can go up after we finish eating. But let's keep to ourselves, the less we talk the less they can use against us."
 Damin shook his head furiously, "ok, ok, ok. I promise Billy."
 A smile grew on the older man's face as he watched his brother's unadulterated joy.
 
-The air on the deck was frigid, nearly colder than a night in a desert canyon. Mei-Li and Rakaal huddled together in the far corner of the deck. Rakaal wore a long fur overcoat, Mei-Li wore a traditional Marthian robe, both held various navigational instruments in their hands. He breathed hard, even though he was standing still. The light was brighter, brighter than he had ever experienced. His muscles vibrated with the potential, with more Light than he ever felt. The cold ebbed away and Billy was forced to take a shaky breath as it all overwhelmed him.
+The air on the deck was frigid, nearly colder than a night in a desert canyon. Mei-Li and Rakaal huddled together in the far corner of the deck. Rakaal wore
+a long fur overcoat, Mei-Li wore a traditional Marthian robe, both held various navigational instruments in their hands. Billy breathed hard struggling for breath, even though he was standing still. The light was brighter, brighter than he had ever experienced. His muscles vibrated with the potential, with more Light than he ever felt. The cold ebbed away and Billy was forced to take a shaky breath as it all overwhelmed him.
 Damin excitedly ran to the rail, and Billy had to pull the youth back by the collar of his shirt. "Be careful."
 "Right, right, sorry."
 Damin slowed to a speed walk, but still moved too quickly for Billy.
@@ -914,23 +916,24 @@ They rose higher and Billy finally saw the head of the Beast. The head itself wa
 "Do you see now, why I did not explain?" Mei-Li had moved to join the brothers at the rail, and Billy had been too distracted to see. How could he have been so careless?
 Mei-Li waited for a response, but Billy gave only a simple grunt.
 "Do they know we're coming," Voshri asked from the front of the vessel.
-"I just called your brother," Rakaal said. "He didn't seem please. Not at all. Nor does the council."
-"I'll shall handle the council," Mei-Li said. "Did he tell you where to dock?"
+"I just called your brother," Rakaal said. "He didn't seem pleased. Not at all. Nor does the council."
+# We need a word for when Dark Heralds call each other. Commune?
+"I shall handle the council," Mei-Li said. "Did he tell you where to dock?"
 Rakaal nodded, which seemed to end the small spat.
 Damin hadn't taken notice of it at all. The boy was transfixed by the Beast, and Billy could only imagine the questions that would be in the youth's mind. None of which he could answer.
 "I see worry on your face. Suspicion perhaps?" Billy suppressed the surprise in his expression at Mei-Li's guess. "Do not fret, I have guaranteed your safety and freedom. And those of us in the Monastery stand by our vows."
 "As long as we agree to join your cult?"
-Mei-Li made a small *tsk*, "what will it take to dissuade you of your assumptions? We are not a cult, nor will we take your prisoner. If you wish to leave, your freedom will be arranged for. But I truly believe you should consider our offer. Our purpose is noble."
+Mei-Li made a small /tsk/, "what will it take to dissuade you of your assumptions? We are not a cult, nor will we take your prisoner. If you wish to leave, your freedom will be arranged for. But I truly believe you should consider our offer. Our purpose is noble."
 "Everyone thinks that," Billy said.
 "What more noble purpose is there than self improvement?"
 Billy saw Damin from the corner of his eye watching the conversation.
 "Getting what you're owed, what you deserve. That's what. Life is short. We don't all have time to sit around doing exercises." Billy jerked his thumb towards himself. Mei-Li gave a soft, pitying, smile, a smile that made Billy want to reach out and flood her with the power of /Indignation/.
-"We're coming in," Voshri's high pitched voice came from the front of the vessel. They had pulled up near one of the massive spines on the Beast's back. Billy could see that the spines were pocked with holes and arches--- if the pattern had not been so regular it would have been sickly, in fact it still was. Near the top of the spine a series of larger arch ways ringed the spike. As they floated up to the massive arches it was clear each led to some sort of dock. Many of the arches were filled with similar, but not identical, ships to the one Billy and Damin rode.
+"We're coming in," Voshri's high pitched voice came from the front of the vessel. They had come in near one of the massive spines on the Beast's back. Billy could see that the spines were pocked with holes and arches--- if the pattern had not been so regular it would have been sickly, in fact it still was. Near the top of the spine a series of larger arch ways ringed the spike. As they floated up to the massive arches it was clear each led to some sort of dock. Many of the arches were filled with similar, but not identical, ships to the one Billy and Damin rode.
 The empty arch they entered had a metal walk way around the perimeter, half way up. Two men stood together, watching the ship's approach. One had the same mahogany skin tone as Voshri and a circular head of curling hair. The other was a short portly man in flowing navy robes who stood with his hands on his hips.
 "They don't look happy..." Voshri said.
 "They do not," Rakaal agreed.
 The vessel entered the arch and Billy was struck by a sudden sense of warmth.
-"Woah, the air, it's so warm..." Billy saw Mei-Li flash a smile at the reaction. It wasn't just warmer, but the whole arched chamber seemed to have a different climate to the air outside. The air was more humid here, and didn't seem to flow out to the colder opening, the way it would in a building in a dessert day.
+"Woah, the air, it's so warm..." Billy saw Mei-Li flash a smile at Damin's the reaction. It wasn't just warmer, but the whole arched chamber seemed to have a different climate to the air outside. The air was more humid here, and didn't seem to flow out to the colder opening, the way it would in a building in a dessert day.
 Dock workers that were previously hidden came out on the catwalk, throwing lines to the vessel which Mei-Li and Voshri caught. Billy pulled Damin back, letting the pair work.
 The pair that Billy had spotted over made their way up the catwalk, as a plank was extended to bridge the gap from vessel to catwalk.
 "Calkesh!" Voshri hopped down the plank and was swept up in a hug by the mahogany skinned man.
@@ -976,7 +979,45 @@ Avador gestured the party forward as he swept off the ship in long strides. Bill
 Avador led them out of the vast chamber and through a heavy wooden door. Like the chamber where the vessel had docked the hall was carved from the the spines of the creature. The low ceilings, and slight discoloration in the material, reminded Billy of stains water would leave on the mining tunnel. Each step the party took echoed through the halls. Billy expected to hear anyone, anything, but got only the echo of their footsteps.
 As they walked, Billy could see tunnels going off from the main at seemingly random intervals. Sometimes they would walk for minutes before seeing an off shoot, other times there would such a density of off shoot that Billy wondered how they could navigate such a place.
 Slowly, the hall began to slope up as Billy felt themselves climbing up. The climb seemed almost endless as he felt them winding around, and around, and around the spine.
-Finally, the party arrived at a pair of metal double doors. Two guards stood to either side. They wore an archaic style of armour, with a metal breast plate and pleated leather skirt. 
+Finally, the party arrived at a pair of metal double doors. Two guards stood to either side. They wore an archaic style of armour, with a metal breast plate and pleated leather skirt. Each held a spear in the crooks of their arms. Wordlessly the two guards pushed open the double doors, revealing a darkened beyond.
+"It would be best for you not to speak," Mei-Li whispered.
+"I'll do what I want." The silver haired woman scrunched her face in response as the party crossed the threshold of the double doors.
+The chamber rose up around him, the ceiling as high as the vaunted cathedrals of the Citadel. A shaft of natural light dominated the centre of the room. Across the circular room, on an elevated outcropping high enough that Billy had to crane his neck upwards, sat five figures lit by candle light. Behind them, and even higher up, sat a lone empty chair.
+Before Billy could take-in the vastness of the space, the five shrouded figures began barking in their strange language. The already staccato and clipped language coming out even harsher. Avador stepped into the shaft of light, hands out obviously attempting to placate the council. Billy could see the anxiety in his brother's eye as Damin glanced over his shoulder. 
+"What are they saying," Billy grabbed Mei-Li by the wrist. She shook his grip off with a quick of her wrist. With a hiss she shushed him.
+The familiar flare of Indignation pushed him to reach out for the silver haired woman again. She whirled on him as he came face to face with her. The woman bared her teeth and Billy mirrored like wise.
+"You don't want to do that little girl." Billy recognized the barely contained anger in Mei-Li's scrunched face. It didn't matter where he went, all people had the same animalistic instincts.
+The foreign arguing grew in volume. The man on the leftmost seat stood. He pointed at Billy as he let out a string of words that Billy knew were charged with anger. Avador turned and was unable to hide his shock at the scene.
+"Mei-Li!"  The portly man called out. The woman had enough sense to seem ashamed, but Billy could see that the fire within her had not fled.
+Another figure stood, a woman with grey hair, gesturing wildly about with her hands. Billy's hand went to the six shooter at his side, as he sized each of the five figures in turn. His Suspicion flared, allowing him to make out details he hadn't before. They were all well past middle aged, most with grey showing in their hair. Three women and two men.
+"If you're going to talk about me, at least have the decency to do it in a language I understand. You cowards." A smirk grew on Billy's face as he saw the standing woman gasp.
+"Billy..." Damin tugged at his brother's sleeve. "I don't think we should be provoking the Council."
+"Coward? You dare call me a coward cur," the grey haired woman's voice was deep and filled with the bitter pettiness of the aged. The other standing man
+Mei-Li's face went pale, "Master, he didn't mean  it."
+"She is a coward," Billy said stepping past Mei-Li. The silver haired woman and Damin both reached out to pull Billy back. He shrugged the pair off easily, sweeping past Avador and into the lone shaft of light.
+The standing man gestured wildly to the other council members. Both seated woman peered down at him, placid and nearly exhausted expressions defining their  faces, ignoring the man's gesticulations.
+"A coward I am not, fiilrang," Billy had heard that insult before. Those Nihdians that had made their home on the Northern isles of Apathasaw often said it under their breaths as he passed. Outsider, invader, foreigner.
+At last the final man spoke, "come now Prahon. The man is our guest."
+The man had curling brown hair, and the subtle wrinkles of a man leaving middle age.
+Prahon turned on the him, her face scrunched. "Once he begins to act a guest, we shall treat him as such. Perhaps I should put him in his place."
+"Gladly," Billy replied reaching to draw his weapon.
+"Council please," Avador stepped between Billy and the five councillors. "Our guest is simply confused. I'm sure he will come to understand. There is no need to spill the blood of a Herald today."
+Prahon seemed unmoved by the declaration, but the other councillors nodded. "So you claim he is a Herald, but you did not witness it yourself Master Avador, did you?"
+"I did not," Prahon's face twisted into a wicked smile. "But Spotter Mei-Li did."
+Mei-Li quickly ran up from her place at the back of the room. At her side, she tugged Damin forward by the arm.
+"I did wise Council," Mei-Li swept herself into a low single handed bow. "I saw this man drain a man of his life, and fight many others in Breaker armour."
+The simple tale earned appreciative nods from all five of the council members, even Prahon.
+"I don't need you to defend me," Billy hissed.
+"Yes you do," Mei-Li's reply was a barely audible whisper, amplified only by his Suspicion.
+"Billy, it's going to be ok," Damin tapped his brother's elbow forcing him to look down at the anxiety in the younger brother's eyes. He had been right, there was no use in provoking this council. He did not need to role over, but he also had to a duty to make sure Damin made it out of this alive.
+"A powerful Herald," the brown haired man said. "And the younger? Is he as well?"
+"Untrained, but with great potential." Avador nodded enthusiastically. "A Dark herald. In fact, wise councillors, I believe I could truly unlock the young man's potential. Train another truly great Herald of the coming generation."
+"If Master Avador believes it, then we must trust his judgement," the brown haired man said. The two standing members of the council shouted protests in their strange language.
+"I agree," one of the seated women said. "If this child has potential like Avador claims, then we must investigate."
+Prahon scoffed, "so confident, are you Master Avador?"
+Avador locked his hands together. He glanced over his shoulder to Mei-Li, who gave him a slow nod. "I am. Under the Forces, I vow to take these two under my care. I shall train them in our ways, and ensure they cultivate their Heraldry."
+The room was silent for a long beat. Prahom looked to each councillor, slowly, each one returning a solemn nod.
+"If you truly believe so, then we shall allow these two to remain. But ensure they do not stray from the path Master." Prahom's final denouncement carried the same weight for Billy as a sheriff handing down his sentence. But he had escaped jail before, one more time would be no hard feat.
 * Fragments
 ** Monastery training
 "Revenge. Injustice. All from one moment. In one moment I went from seeing the world the Citadel laid out to the rotten world that really is. It's fueled me since that day, fueled my Indignation, fueled my Resentment."

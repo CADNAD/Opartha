@@ -61,6 +61,8 @@ The Tneranatos also has six massive large rock spikes on its back, which the Mon
 
 The Tneranotos also has a predictable migration pattern, which has been memorized and harnessed by members of the Monastery. It is unknown whether anyone outside their ranks has knowledge of its migration behaviour. The members of the Monastery are known to utilize and live inside the large rock spikes of the Tneranotos, and have terraformed much of its back. Whether through soothing or a lack of nerves, the Tneranotos appears indifferent or even welcoming to their activity.
 
+
+Tneranatos uses its Gas and Transportation properties to suck up foliage and wildlife to feed itself from the ground; the foliage and wildlife are attracted to its gravitatonal field and sucked into the air. It does this in phases by flying lower to the ground. 
 # The Great Watcher (Teleportation)
 A size-changing raven-like bird with a light grey beak. It has high intelligence and uses its stealth and abilities to watch over humanity. It has decided to “assist” humanity instead of rejecting, attacking, or merely attempting to stay away from it. However, it sees humanity as a long project of sorts and is not afraid to kill if it means preserving the human race. However, it is very cautious and understands that revealing its nature and abilities unnecessarily may be dangerous, and thus intervenes conservatively. Recently it has “teamed up” with Revictus to prevent Tregale from returning. 
 

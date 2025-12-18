@@ -29,6 +29,10 @@ Revictus.Gods mystery:
   - statues that look the same but shouldnt
   - old olithoen painting binds with blood after Mikeol's death but shouldnt
   - believes that maybe synodontis has also replaced Aredal artwork with his own appearance in an attempt to deceive
+
+Add to plot:
+After Vovwaq tries to corrupt okin, and okin has the files from aldwin, okin tries to get evidence on which Impaliases are Corrupt. 
+
 * ACT I
 ** Opening Image
 *** ! Okin will not lie, even to help his men on the Farsunni front.
@@ -91,7 +95,7 @@ Revictus.Gods mystery:
 *** Okin's opponent makes some moves
 - [ ] Soldiers from Farsun are brought to slander Okin as a coward. Despite being advised not to, Okin tells the truth about his cowardice. His popularity takes a dive.
 - [ ] Volmunst says that admitting cowardice is actually brave, and says he believes in him and will tell all his Whenrani Krusadar contacts to drum up support and his own people.
-  - [ ] Okin brings up the Vovaq's corruption before the Council and the Council pretends to be flabbergasted. Vovaq tries to gaslight Okin into believing the phrasing wasn't so corrupt. Okin accusses some members of being in cahoots with Vovaq.
+- [ ] Okin brings up the Vovaq's corruption before the Council and the Council pretends to be flabbergasted. Vovaq tries to gaslight Okin into believing the phrasing wasn't so corrupt. Okin accusses some members of being in cahoots with Vovaq.
 - [ ] Okin's opponent receives a huge campaign boost from Vovwaq, promising more cooperation between the two territories. Vovwaq tries to buy off Okin again, promising to switch his support to him, Okin doesn't give him the time of day.
 - [ ] One of Okin's staff is accused of being a Dark Herald. Though it's an obvious lie, it catches on, and Okin's popularity tanks more. Amesa recommends cutting the staff, but Okin says its against Compassion and Truth.
 *** Okin works hard to convince the others
@@ -157,6 +161,7 @@ Revictus.Gods mystery:
 - [ ] Okin mets Henard and asks how he can trust Revictus. Henard says that Revictus is the God he knows, and thats how he's been able to control the Citadel for so long and write the Onorun
 - [ ] Okin does not trust the Citadel any more. He plans with Deionis to kidnap (kill)? Revictus
 ** Final Confrontation
+*** ! Okin considers telling Previa he is a Dark Herald, but doesn't
 *** ! Okin meets with Revictus again, but this time with a plan to ambush him
 - [ ]
 *** Deionis reveals his identity and traps Okin in the dark dimension

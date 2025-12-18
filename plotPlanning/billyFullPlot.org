@@ -44,11 +44,12 @@
 - [x] Billy questions who Allia's party are and what they are doing. Allia and the party are conflicted to
 - [x] Billy tries to negotiate to leave, but the party won't let him, and Billy realizes that they are doomed if they don't receive help.
 *** - Billy and Damin train in the Monastery [+]
-- [ ] Billy and Damin meet the Council. Allia has to justify their rescue, the Council heavily dissaproves of outsiders. Billy respects Allia a bit for defending him. some of the council members even imply killing Damin and Billy, which further raises Billy's suspicion.
+- [x] Billy and Damin meet the Council. Allia has to justify their rescue, the Council heavily dissaproves of outsiders. Billy respects Allia a bit for defending him. some of the council members even imply killing Damin and Billy, which further raises Billy's suspicion.
 - [ ] Billy is staying in the Monastery but is too suspicious to participate. Damin meets people his age.
 - [ ] Billy agrees to train so he can better fight off Devinars when he encounters Okin again, and they have no other option.
 - [ ] Billy's instincts are good in training but he struggles with being too impulsive and vindictive, especially in team battles, putting himself and others at risk.
 - [ ] Billy is looked down upon by his peers for being not born into the Monastery, which fuels his anger and vindictiveness.
+- [ ] Mei-Li tells
 - [ ] However Billy learns to trust in his teammates a little bit, but again that makes him lock down, because he knows he needs to cultivate the negative emotions to fuel his power, so he artificially tries to raise it again.
 - [ ] Damin really creatively uses modules and Avador is impressed and takes him as a personal tutee.
 *** - Avador discovers Damin's nightmares {b-plot goal: find the Dark Weapon}

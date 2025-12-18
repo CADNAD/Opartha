@@ -808,7 +808,7 @@ Billy looked to Damin. The boys' eyes betrayed his starvation-- not just for foo
 More argument here. And name intros
 :END:
 "Okay," Billy relaxed his shoulders. "So where are we going? What's gonna happen?"
-"You will experience our way of life at the Tsuman Monastery," the silver-haired woman said.
+"You will experience our way of life at the Monastery," the silver-haired woman said.
 "And if it sucks?"
 The silver-haired woman paused. For the first time, her eye contact with Billy broke.
 "You'll kill us?"
@@ -829,7 +829,7 @@ And most importantly, could he ensure Damin didn't get hurt?
 No. He hated to admit it, but the situation was too risky. It was a position that brought the acid from his stomach up into his mouth, but he had to be a good pet.
 Billy recaught everyone's stares.
 "I'd like to know more," he put on a polite ruse. "Who are you? Why did you save us? What *exactly* are you offering?"
-"Of course," the silver-haired woman said. "We are the Tsuman Monastery, an order which tasks itself with growing the most noble, potent, and wise Heralds. We accept non-Heralds as well, who are tasked with more humble duties. We train in solitude, away from the world, to ensure that we are focused and uncorrupted, but, as we have shown, we are willing to be peacemakers if the time arises."
+"Of course," the silver-haired woman said. "We are the Monastery, an order which tasks itself with growing the most noble, potent, and wise Heralds. We accept non-Heralds as well, who are tasked with more humble duties. We train in solitude, away from the world, to ensure that we are focused and uncorrupted, but, as we have shown, we are willing to be peacemakers if the time arises."
 The silver-haired woman maintained her solemn delivery, but there was an ounce of passion brewing with each sentence. The smaller woman smiled and tingled like she was holding back a round of applause. Even though Billy was a Herald, he felt a bit of disgust of hearing that the non-Heralds were tasked with "more humble duties". Surely a sugarcoating of "hard, back-breaking, thankless work".
 "I am Mei-Li," the silver-haired woman motioned to the smaller woman, " this is Voshri," and then to the man with violet eyes, "And this is Rakaal."
 The dark-skinned man smiled.
@@ -1014,9 +1014,20 @@ The simple tale earned appreciative nods from all five of the council members, e
 Prahon scoffed, "so confident, are you Master Avador?"
 Avador locked his hands together. He glanced over his shoulder to Mei-Li, who gave him a slow nod. "I am. Under the Forces, I vow to take these two under my care. I shall train them in our ways, and ensure they cultivate their Heraldry."
 The room was silent for a long beat. Prahom looked to each councillor, slowly, each one returning a solemn nod.
+<<<<<<< HEAD
 "If you truly believe so, then we shall allow these two to remain. But ensure they do not stray from the path Master." Prahon's final denouncement carried the same weight for Billy as a sheriff handing down his sentence. But he had escaped jail before, one more time would be no hard feat.
 * Chapter VIII
 
+=======
+"If you truly believe so, then we shall allow these two to remain. But ensure they do not stray from the path Master." Prahom's final denouncement carried the same weight for Billy as a sheriff handing down his sentence. But he had escaped jail before, one more time would be no hard feat.
+* Chapter VIII
+** notes
+** chapter
+The Monastery was more comfortable than Billy had expected. Where he had expected stone beds and fasting diets, he had found plush beds and full dining halls.  Damin and himself had been assigned comfortable accommodations, a large living room and two bedrooms. Like all the rooms of the Monastery, they were carved into spines of the great Beast. A window had even been carved in the living room, a luxury according to Voshri.
+The girl had come twice in the week since their arrival. Once on the first day, with her taller brother, to guide them on a tour of the spine. The second time to deliver a book for Damin to study. She had lingered. Longer than she should.
+Everyday was the same. Training begun in the morning, and stretched well into the afternoon. When they did break for lunch, the food would always be over spiced. A mess of spices that nearly made him wish for the bland gruel of the mines. After training, each Herald was given a set of tasks to attend to. Some helped with the farms on the Beast's back, others took a shift operating the elevators, and others maintaining the delicate environment of the Monastery. All duties Billy had been excused from so far. As a new comer he'd been looked down upon, too incompetent to help with the tasks at hand. 
+Cold leached into him as Billy sat on the floor of the training ground. Around him, and on the various padded mats, Heralds of all types fought hand to hand. They were all supervised by a the brown haired man from the Council. Torin was a Light Herald, perhaps the most powerful one Billy had encountered. Even in his
+>>>>>>> 53883c06fb6b58b2d53ae8a99a15dcb9bfab343a
 * Fragments
 ** Monastery training
 "Revenge. Injustice. All from one moment. In one moment I went from seeing the world the Citadel laid out to the rotten world that really is. It's fueled me since that day, fueled my Indignation, fueled my Resentment."

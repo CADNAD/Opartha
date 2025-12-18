@@ -2,6 +2,7 @@
 :generalnotes:
 
 :END:
+
 * Chapter I
 :chapterOneNotes:
 Explain Farsun earlier. Probably around the first mention, so the reader understand the context of the war and the front.

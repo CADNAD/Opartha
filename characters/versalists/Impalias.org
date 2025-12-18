@@ -1,4 +1,14 @@
 * Impalias Xohl'a (Pro)
+** Age
+62
+** Appearance
+Tan skin, wiry, tall
+** Location
+Neixilie'i
+** Background
+** Personality
+** Powers/Abilities/Skills
+** Goals
 * Impalias Levinor (Revictus) (Pro)
 ** Age
 64
@@ -16,7 +26,7 @@ Levinor is the truest of believers in the text. He is a man of few words.
 
 * Impalias Ricartotten (Pro)
 ** Age
-49
+52
 ** Location
 Ottencollen / Intillia
 ** Background
@@ -27,24 +37,9 @@ True Krusadar. War hawk who wants to go to war with Delmia and convert people to
 
 ** Goals
 
-* Impalias Henard (Revictus) (Anti)
-** Age
-66
-** Appearance
-Gray hair, wrinkled square face. Okin's height
-** Location
-Trenta / Aredal
-** Background
-traveling Author
-** Personality
-Truth focused. Intellectual. Objective truth guy. True believer
-** Powers/Abilities/Skills
-
-** Goals
-Turn Okin to vote for the resolution, while pretending to be a friend
 * Impalias Vovwaq (Revictus) (Pro)
 ** Age
-58
+56
 ** Appearance
 Fat
 ** Location
@@ -56,22 +51,9 @@ He loves being an impalias. Enjoys the finer things in life
 ** Powers/Abilities/Skills
 
 ** Goals
-* Impalias Mikeol (Anti)
-** Age
-66
-** Appearance
-Fit handsome man. Bald head, curling (french style) gray mustache
-** Location
-Golzen / Olitheon
-** Background
-** Personality
-Gorbachev type. Very personal able, but no one has good or bad things to say. Just neutrally liked
-** Powers/Abilities/Skills
-
-** Goals
 * Impalias Volmunst (Pro)
-** Age
-50
+** Aged
+44
 ** Location
 Wolstamm / Nexon
 ** Background
@@ -79,23 +61,7 @@ Krusadar. Calvary rider, has a special mount. Doesn't have Humility
 ** Personality
 Boisterous and foul mouthed but passionate
 ** Powers/Abilities/Skills
-
 ** Goals
-* Impalias Mathelin (Anti)
-** Age
-57
-** Appearance
-Shorter man, a bit shorter than okin.
-** Location
-Terillia / Olitheon
-** Background
-A Krusadar, he is now Grand Admiral of the Citadel's Navy. He came up as a ship commander
-** Personality
-More classic sailor type. Loud mouth, short tempered.
-** Powers/Abilities/Skills
-
-** Goals
-Strengthen the Citadel's Nav
 * Impalias Ovolo (Revictus) (Pro)
 ** Age
 48
@@ -113,7 +79,58 @@ Ovolo highly practical. He has a good control on his temper and is an accelerati
 
 ** Goals
 Retake Farsun
-* Impalias Beirst
+* Impalias Mikeol (Anti)
+** Age
+66
+** Appearance
+Fit handsome man. Bald head, curling (french style) gray mustache
+** Location
+Golzen / Olitheon
+** Background
+** Personality
+Gorbachev type. Very personal able, but no one has good or bad things to say. Just neutrally liked
+** Powers/Abilities/Skills
+
+** Goals
+* Impalias Yecaps (Revictus) (Anti)
+Replaces Mikeol
+** Age
+** Appearance
+** Location
+** Background
+** Personality
+** Powers/Abilities/Skills
+** Goals
+* Impalias Mathelin (Anti)
+** Age
+57
+** Appearance
+Shorter man, a bit shorter than okin.
+** Location
+Terillia / Olitheon
+** Background
+A Krusadar, he is now Grand Admiral of the Citadel's Navy. He came up as a ship commander
+** Personality
+More classic sailor type. Loud mouth, short tempered.
+** Powers/Abilities/Skills
+
+** Goals
+Strengthen the Citadel's Nav
+* Impalias Henard (Revictus) (Anti)
+** Age
+66
+** Appearance
+Gray hair, wrinkled square face. Okin's height
+** Location
+Trenta / Aredal
+** Background
+traveling Author
+** Personality
+Truth focused. Intellectual. Objective truth guy. True believer
+** Powers/Abilities/Skills
+
+** Goals
+Turn Okin to vote for the resolution, while pretending to be a friend
 * Name/Aliases
 ** Location
 ** Background

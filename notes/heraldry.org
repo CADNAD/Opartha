@@ -78,9 +78,7 @@ happy: buff myself
 ** Joy (physical buffs)
 *** Excitement
 Get bigger and bigger and stronger
-
 *** Euphoric
-
 *** Asthonished
 *** Hope
 ** Anger (energy)
@@ -94,9 +92,8 @@ Punching harder
 Shout
 *** Annoyed
 *** Combative
-Deflect kinetic energy back where it came from
+Deflect kinetic energy back where it came from, body becomes a kinetic energy return, can block attacks and send the energy back
 *** Fury
-
 ** Negative-Others
 *** Revolsion
 *** Contempt

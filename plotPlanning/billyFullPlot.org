@@ -46,7 +46,7 @@
 *** - Billy and Damin train in the Monastery [+]
 - [X] Billy and Damin meet the Council. Allia has to justify their rescue, the Council heavily dissaproves of outsiders. Billy respects Allia a bit for defending him. some of the council members even imply killing Damin and Billy, which further raises Billy's suspicion.
 - [X] Billy is staying in the Monastery but is too suspicious to participate. 
-- [ ] Billy agrees to train so he can better fight off Devinars when he encounters Okin again, and they have no other option.
+- [X] Billy agrees to train so he can better fight off Devinars when he encounters Okin again, and they have no other option.
 - [ ] Billy's instincts are good in training but he struggles with being too impulsive and vindictive, especially in team battles, putting himself and others at risk.
 - [ ] Billy is looked down upon by his peers for being not born into the Monastery, which fuels his anger and vindictiveness.
 - [ ] Mei-Li tells

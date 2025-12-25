@@ -96,7 +96,7 @@ The "L" consanant is associated with differences, adjectives and comparisons, or
 The "W" consanant is associated with adjectives and opposites, or the lack of something, and the color black.
 
 The "Y" consanant is associated with commerce, trade, and business, and the color gold.
-The "H" consanant is associated with the lack of something and the color black.
+The "H" consanant is associated with the lack of something and the color black (when alone).
 
 | PRONUNCIATION   | DEFINITION                |
 |-----------------+---------------------------|

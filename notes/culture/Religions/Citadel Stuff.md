@@ -1,6 +1,3 @@
-Arbiters have the symbol on the forehead, the one they are is highlighted in the God’s  
-
-1/1/1 is the day Gods ascended, New Years celebrate ascension
 
 10 Impaliases:
 

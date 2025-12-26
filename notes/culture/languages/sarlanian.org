@@ -1,9 +1,0 @@
-#+title: Sarlanian
-aka Old Trentanian. It is similar to english but with some norwegian influences phonetically, though it is actually the father language of English/New Trentanian.
-
-Sarlanian is a simple language on the phonetic and grammar level, but in that simplicity words often become long. They are more predisposed to combining words in a very childish and intuitive way to make new words rather than making new words "from scratch".
-
-o: "aw" as "long" or "dawn"
-i: "er" as in "biker" or "flounder"
-ö: "oh" as in "or"
-e: "eh" as in "day"

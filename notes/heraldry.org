@@ -257,9 +257,7 @@ Worse Heralds move solids slower, they cannot transform solids to other solids t
 
 ** Liquid
 
-
 ** Gas
-
 * Physiology
 A(Gland which
 everyone has) -->B(Herald Hormone)
@@ -288,4 +286,18 @@ Breakers are bonds which have been purposefully processed metallurgically to ins
 ** Shell
 Shell is a much weaker version of Breakers and appear as a brownish-grey material with the texture of mixed concrete and soil. They appear around the gem deposit where Bonds are formed, around Bonds. They can only interrupt Heraldry activation through contact, and as a much weaker source of interruption may still be overriden by some powerful Heralds. 
 ** The Five
+* Common Locations
+| **Tree** | | Common Locations (Unbold = less common) | Common Accessories | Common Tactics | Common Counters |
+| :----- | :----- | :----- | :----- | :----- |
+| Conversion | **Beisan**, Delmia, Trenta | Lantern | | Night/indoor attacks, Metal screens
+| Creation | Whetland, Trenta | Notebook w/ designs | Scout animals followed by beasts | Lanterns, day attacks, targeting herald |
+| Illusion | **Farsun, Whetland** |
+| Manipulation | **Farsun, Krinosas,** Nihda |
+| Solid | **Nihda**, Feixiang, Delmia |
+| Liquid | **Whetland**, Trenta, Delmia |
+| Gas | **Apathasaw,** Nihda, Feixiang |
+| Teleportation | **Trenta,** Nairfalk |
+| Motion | **Apathasaw, Feixiang,** Delmia |
+| Object  | **Vianarya,** Trenta, Beisan |
+| Subject | **Caspo, Apathasaw** |
 
